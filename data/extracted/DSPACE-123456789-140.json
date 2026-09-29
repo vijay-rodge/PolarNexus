@@ -1,0 +1,100 @@
+{
+  "item_id": "DSPACE-123456789-140",
+  "title": "Measurement of aerosol particles along a section from 8 ° N latitude to\r\nAntarctica in the southwestern region of the Indian Ocean",
+  "authors": "Gupta, R.Sen Qasim, S.Z.",
+  "year": 2006,
+  "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+  "collection": "4]Chemistry & Environmental Studies",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/140",
+  "total_pages": 6,
+  "total_characters": 13725,
+  "is_scanned": false,
+  "extraction_status": "completed",
+  "coordinates": [
+    {
+      "name": "Automatic Weather Station (AWS)",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "70°45'12.963\"S",
+      "dms_lon": "11°38'13.618\"E",
+      "latitude": -70.753601,
+      "longitude": 11.637116,
+      "elevation_m": 150.12,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Hut) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'12.672\"S",
+      "dms_lon": "11°55'07.263\"E",
+      "latitude": -69.986853,
+      "longitude": 11.918684,
+      "elevation_m": 35.0,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'23.119\"S",
+      "dms_lon": "11°56'26.830\"E",
+      "latitude": -69.989755,
+      "longitude": 11.940786,
+      "elevation_m": 44.25,
+      "confidence": 0.98,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-P3-1",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_°_N_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P5-1",
+      "page": 5,
+      "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 5 (DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_°_N_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P5-2",
+      "page": 5,
+      "file_path": "data\\media\\extracted_figures\\fig_p5_2_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 5 (DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_°_N_.pdf)"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Measurement of Aerosol Particles along a Section\nfrom 8°N Latitude to Antarctica in the Southwestern\nRegion of the Indian Ocean\nR. Sen Gupta 1 and S. Z. Qasim2\nMeasurements of aerosol particles along a transect in the southwestern Indian Ocean showed a gradual decrease of the\nparticles towards Antarctica. The concentrations varied from 65.3 ± 1.9 μg/m3 at 8°37'N latitude to 0 in Antarctica. Peaks were\nrecorded at places where the air coming from other continents seemed to influence the atmosphere. The observed peak in the zone of\nantarctic convergence may be due to the effect of the flow of surface air from the Antarctica towards the equator. Katabatic wind is\nprobably the cause of another peak observed near the Antarctic continent. An inverse relation has been found between the wind\nspeed and aerosol content which is presumably due to \"scrubbing effect\" and dispersion.\n100\nABSTRACT\nINTRODUCTION\nData on the aerosol particles over the Indian Ocean are few and discontinuous. The only record\navailable for the aerosol particles and their chemical composition over the Arabian Sea is by Sadasivan\n(1978).\nThe most significant source for the transport of particles and other material to the Southern Ocean\nand to Antarctica is by the atmosphere. However, the effect of the continental air in these regions can\nhardly be felt in areas beyond 60°S. This is because the air can be expected to be continuously 'scrubbed' as\na result of its long residence time during its transport. Also aerosol particles can be lost due to the\nformation of condensation nuclei in the clouds.\nThe normal surface and near-surface air flow in the region of 60°S is towards the equator (Hogan,\n1975). It is extremely unlikely that winds in the direction of the south pole would exist for sufficiently long\nperiods to be able to carry the continental surface air or the air coming from major island systems towards\nAntarctica. The Southern Ocean is a region of nearly continuous storm and cloudiness. Continental air\nreaching 60°S from the lower latitudes or from the higher latitudes via the region of antarctic convergence\nwould probably be well scrubbed of any traces of continental aerosol.\nSome data on the concentration and sizes of aerosol particles over parts of the Antarctic continent\nand the surrounding oceans are on record (Voskresenskii, 1968; Hogan 1975, 1979, 1981). These authors\nhave concluded that it is extremely difficult to measure small quantities of aerosol over Antarctica\n(sometimes as low as 2 X 10-l0g.m3). There is, however, a vertical gradient of aerosol particles. The\nparticles increase in numbers as we go higher up in the atmosphere. Similarly, during the katabatic winds\ntheir concentration increases as we go down towards the surface of frozen ice.\nSeveral hypotheses have been developed to account for the transport of particulate material to\nAntarctica, e.g. the occurrence of a stratospheric source and a region of transport near 80°S during the\nsummer (Cadle et al, 1968) and also their transport up to 90°S through the upper layers (Zoller et al, 1974).\nHogan et al (1979) concluded that the most frequent route of transport for the particulate material to\nAntarctica is from its origin in the Southern Ocean through the same lower layers which transport heat and\nmoisture to the polar cap.\nAlthough many studies have been conducted on the polar aerosol, only a few observations on its\nconcentration at the surface of the Southern Ocean and around the periphery of the Antarctic continent\n_________________________________________________________________________________________________________________________________________________\n1 National Institute of Oceanography, Dona Paula, Goa-403 004\nDepartment of Ocean Development, South Block, New Delhi-110 011.\n2",
+      "char_count": 3789
+    },
+    {
+      "page_number": 2,
+      "text": "...R. Sen Gupta and S. Z. Qasim\n101\n_____________________________________________________________________________________________________________________________________________________\nare on record (Meszaros and Vissy, 1974; Fischer, 1967; Hofmann etal, 1977; Hogan and Mohnen, 1979).\nWe, therefore, undertook asurvey in which the concentrations of aerosol particles from 8°N latitude to the\nedge of the Antarctic continent and all along the Indian Ocean during the austral summer of 1981-82, were\nmeasured. This study was carried out as a part of the scientific programme during the First Indian\nExpedition to Antarctica.\nMATERIAL AND METHODS\nThe instrument used was fabricated at the National Institute of Oceanography. Basically, it was a \ncalibrated air pump, having a suction rate of 1.46 m3/min. At the intake, a holder made of steel and\nelectroplated, along with a perforated disc was fitted between two plates. The perforated holder was of an\nappropriate size to hold membrane filters of 47 mm in diameter. Another perforated holder was fitted at\nthe exhaust end of the pump. Two pre-weighed membrane filters, 47 mm in diameter and 0.45 μm in pore\nsize were fitted one on top of the other, on the perforated disc at the intake end. The pump was placed on\ntop of the deck foreward of the navigation bridge in the upwind direction. Much care was exercised to\navoid the soot particles coming from the ship's funnel and the salt water spray. The height of the bridge\nwas about 9 m above the sea level. The pump was run while the ship was in motion. During strong winds\nand high seas, the pump could not be run because of sea water spray reaching the height of the bridge deck.\nFor every sampling, the pump was run for 3-4 hours. The distance covered and the volume of air filtered\nduring this interval were calculated from the ship's speed, direction and the suction rate of the pump. Both\nthe filters were preserved on board in well-cleaned plastic boxes. The second filter was a back up filter and\nwas used as a blank. Samples were also collected when the ship was on oceanographic stations. Wind\nobservations were taken simultaneously.\nOn reaching the shore laboratory the filters were weighed and the amount of material collected on\nthem was calculated. Whenever any soot or salt particles were observed on the filters, the observations\nwere not used for calculation.\nAn attempt was also made to ascertain the sizes of the particles under a microscope, but they were less\nthan 1 μm in diameter. Hogan (1975) observed that the geometric mean radius of Antarctic aerosol\nparticles varied from 0.5 to 0.7 x 10-6cm.\nRESULTS AND DISCUSSION\nA total of 40 samples were collected between 09°45'N and 69°59'S latitudes. Rejecting the filters\ncontaining either soot or salt particles, a total of 21 samples was used for this study. The locations where\nsampling was done are shown in Fig. 1.\nAll the filters were preserved in a dessicator. They were weighed at intervals of one month and over a \nperiod of three months the accuracy of their weighings was checked. Standard errors were calculated for\nall the weighings. The results along with the location, distance covered and the wind speed are presented\nin Table 1.\nFig. 2 gives the latitudinal variation of aerosol particles. The highest concentration of 65.3 μg/m3\nwas recorded at the latitude 08°37.5'N. This place is not very far from the landmasses of Africa and India.\nMoreover, it is along one of the busy shipping lanes across the Arabian Sea.\nThe effect of the continental air becomes less pronounced southward and the concentration of\nparticles gradually decreases upto 04°48'N. Thereafter, it becomes almost steady. However, from.l7°S it\nstarts increasing again reaching another peak at 21°33'S. This region is not far from the island of Mauritius.\nAnother peak was recorded at 30°26'S which again was close to the island of Madagascar and the South\nAfrican peninsula.",
+      "char_count": 3930
+    },
+    {
+      "page_number": 3,
+      "text": "Measurement of Aerosol Particles along...\nFig. 1 : Network of observation points.\nA\nN\nT\nA\nR\nC\nT\nI \nC \nA \n0\n2 0 °\nE\n4 0 °\n6 0 °\n8 0 °\nI N D I A\n20\nN\n0\n2 0\nS\n4 0\n6 0\no\n70\n7 5\n8 0\n6 0 '\n4 0\n2 0\n0\n7 5\n7 0\n6 0\n4 0\n2 0 .\n0\n2 0\nARA \nBI \nAN \nSEA\nMaladive\nl s .\nSeychella\nI N D I A N \n0 C E A N \nMauritius\nCrezet \nls.\nKurguelea \nls.\nPrince \nEdward \n|s. \n______________________________________________________________________________________________________________________________\n102",
+      "char_count": 475
+    },
+    {
+      "page_number": 4,
+      "text": "...R. Sen Gupta and S. Z. Qasim\nTABLE 1 \nDetails of sampling, concentration and prevailing wind speed for aerosol particles. \nFROM\nLat.\n08°37'5N\n06°30'8N\n04°48'4N\n02°27'2N\n04°46'1S\n17°46'4S\n19°16'6S\n20°16'1S\n21°33'3S\n25°58'2S\n28°39'0S\n30°26'3S\n32°58'7S\n37°25'9S\n39°00'3S\n53°44'0S\n69°58'7S\n67°46'4S\n61°28'2S\n52°48'1S\n47°23'3S\nLong.\n68°02'8E\n66°50'1E\n65°49'4E\n64°26'7E\n60°09'1E\n57°38'1E\n57°28'9E\n57°18'0E\n56°53'8E\n56°15'7E\n55°46'8E\n55°09'6E\n54°05'5E\n52°21'9E\n51°36'7E\n47°55'0E\n11°58'0E\n12°00'E\n25°01'1E\n34°25'4E\n39°02'4E\nTO\nLat.\n08°16'4N\n06°07'1N\n04°28'5N\n01°53'8N\n05°12'2S\n18°22'0S\n19°52'4S\n20°51'0S\n22°06'6S\n26°36'1S\n29°19'4S\n30°58'1S\n33°37'1S\n37°58'8S\n39°33'8S\n54°23'2S\n—\n—\n—\n—\n—\nLong.\n67°53'1E\n66°35'9E\n65°38'7E\n64°10'7E\n59°50'3E\n57°35'1E\n57°26'6E\n57°01'6E\n56°48'3E\n56°09'4E\n55°34'3E\n54°53'8E\n53°49'6E\n52°09'6E\n51°22'2E\n47°38'0E\n—\n—\n—\n—\n—\nDistance\nkm\n44\n51\n42\n64\n63\n64\n64\n64\n69\n76\n77\n63\n76\n65\n67\n76\n0\n0\n0\n0\n0\nParticle\nConc. (μg/m3)\n65.3 ± 1.9\n22.7 ± 1.2\n11.0 ± 1.6\n1.9 ± 0.7\n1.5 ± 0.5\n0.6\n1.7 ± 0.2\n2.2 ± 0.3\n5.7 ± 0.1\n3.1 ± 0.2\n1.0 ±0.1\n8.7 ±0.2\n0.6 ± 0.2\n2.0 ±0.1\n3.3 ± 0.2\n21.6 ± 2.5\n0\n5.2 ± 0.2\n2.2 ± 0.5\n1.4\n1.5 ± 0.1\nWind\nspeed\nkm/hr.\n8\n9\n9.5\n9.5\n20\n40\n41\n42\n20\n10\n12\n13\n22\n40\n40\n28\n11\n25\n23\n28\n30\nAt 53°44'S, which is the area of antarctic convergence, another peak was noted. The continental air\nduring its course can be expected to be sufficiently scrubbed by the time it reaches this area. This peak can\nbe expected to be due to the influence of air blowing from Antarctica towards the equator. We expect that\nsome influence might also come from the salt nuclei present in the atmosphere.\nThe peak, therefore, seen near the Antarctic continent, though somewhat strange, is not unlikely. A \ngreater concentration of aerosol can probably be expected near the snow surface because this region being\ncooler than the air can act as a thermal precipitator. It can thus remove the smaller particles because of the\ntemperature gradient (inversion) which exists at times, as the air is warmer above than at the ice surface\n(Hogan, 1975). The katabatic wind in the Antarctica has also its influence on the higher aerosol content\nnear the snow surface (Hogan, 1979). However, all these phenomena occur periodically. In the absence of\nany such effects, the surface aerosol can be expected to be less or zero (as recorded in the last observation)\nbecause of the increasing vertical gradient upwards toward the tropopause (Hogan, 1981).\nThe observed wind speed at the time of sampling has also been plotted in Fig. 2 to study its effect on\nthe aerosol concentrations. In general, the relation is inverse. High aerosol concentration is associated\nwith low wind speed and vice versa. In the region studied, because of the effect of the air coming from the\ncontinent, the particle content can be expected to be very low. Wind of high velocity disperses the particles\n(with salt nuclei) and this feature leads to concentrations of low particles in the samples.\n103",
+      "char_count": 2958
+    },
+    {
+      "page_number": 5,
+      "text": "Fig. 2 : Variation of particles and wind speed with latitudes\nL A T I T U D E \nMeasurement of Aerosol Particles along...\n8 0\n60\n4 0\nPARTICLES \nμg/m 3\n104\n20\n0\n9°N\n4°\n0°1°S\n8°\n11°\n16°\n21°\n26°\n31°\n36°\n41°\n46°\n51°\n56°\n61°\n66°\n71°\n0\n10\nWIND SPEED Km/hr\n20\n30\n40\n50",
+      "char_count": 260
+    },
+    {
+      "page_number": 6,
+      "text": "...R. Sen Gupta and S. Z. Qasim\nThe main objective of these measurements was to study the poleward transport of material. There-\nfore, for the study of chemical composition of the air there is a need to filter a large volume of air. In fact,\nfiltering for at least two days should give just enough material for chemical analysis (Meszaros and Vissy.\n1974). The limitation of our instrument did not enable us to collect enough material for chemical studies.\nACKNOWLEDGEMENTS\nWe gratefully acknowledge the help given to us by the crew of M. V. \"Polar Circle\" and by our colleague Dr. A. H. Parulekar\nin the sampling work and to Mrs. Caroline Dias and Mrs. Anuragini Rao for the help they extended in the analysis.\nREFERENCES\nCadle, R.D., W. H. Fischer, E. R. Frank and J. P. Lodge, 1968\nParticles in the Antarctic atmosphere. J. Atmos. Sci, 25, 100-103.\nFischer, W, FL, 1967\nSome atmospheric turbidity measurements in Antarctica. J. Appl. Meteorol., 6, 958-959.\nHofmann,D. J., Rosen, G. L. Olson, H. T. Kjome, A. Schmeltekopf and P. D. Godlan, 1977\nMeasurements of trace gases and aerosols in the Antarctic atmosphere. Antarct. J. U. S., 12,162 pp.\nHogan, A. W.,1975\nAntarctic aerosols. J. Appl. Meteorol., 14, 550-559.\nHogan, A. W., 1979\nMeterological transport of particulate material to the South Polar Plateau. J. Appl. Meteorol., 18, 741-749.\nHogan, A. W. and V. Mohnen, 1979\nOn the global distribution of aerosols. Science, 205,1373-1375.\nHogan, A. W., S. Barnard, W. Winters and J. Samson, 1979\nMeteorological transport of heat, water vapour and particulate material to the South Polar Plateau. Presented at ICPM,\nCanberra, December 1979. \nHogan, A. W., 1981\nAerosol measurements over the South Pacific ocean and near the Ross Sea. J. Appl. Meteorol., 20, 1111-1118.\nMeszaros, A., and K. Vissy, 1974\nConcentration, size distribution and chemical nature of atmospheric aerosol particles in remote oceanic areas.\nAerosol Sci., 5, 101-109.\nSadasivan, S., 1978\nTrace elements in size separated aerosols over sea. Atmospheric Environment, 12, 1677-1683.\nVoskresenskii, A. I., 1968\nCondensation nuclei in the Mirni region. Tr. Sov. Antarktcheskia Eksped., 38, 194-198\nZoller, W., E. S. Gladney and R. A. Duce, 1974\nAtmospheric concentration and sources of trace metals at the South Pole. Science, 183, 198-200.\n105",
+      "char_count": 2313
+    }
+  ]
+}

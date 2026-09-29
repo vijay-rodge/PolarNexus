@@ -1,0 +1,57 @@
+{
+  "item_id": "DSPACE-123456789-1236",
+  "title": "Ambient air quality studies at different Islands of Larsemann Hills in East Antarctica",
+  "authors": "Bharti, Pawan, K. Pal, Narendra Sharma, Bhupesh",
+  "year": 2026,
+  "expedition": "30] Scientific Report of Thirtieth Indian Expedition To Antarctica",
+  "collection": "5] Environmental Sciences",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/1236",
+  "total_pages": 8,
+  "total_characters": 0,
+  "is_scanned": true,
+  "extraction_status": "ocr_required",
+  "coordinates": [],
+  "figures": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 7,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 8,
+      "text": "",
+      "char_count": 0
+    }
+  ]
+}

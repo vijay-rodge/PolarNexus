@@ -1,0 +1,681 @@
+=== Page 1 ===
+Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 
+Department of Ocean Development, Technical Publication No. 13, pp 361-370 
+ALTERATION OF IMMUNOGLOBULIN AND
+TEMPERATURE RHYTHM DURING
+WINTER-OVER STAY IN ANTARCTICA
+G.Sundaresan and Usha Sachdeva
+Department of Physiology
+All India Institute of Medical Sciences
+Abstract
+The alien photoperiodicity of Antarctica can disrupt the biological clock, thereby
+desynchronizing the various bodily rhythms, which can have health implications. This study
+is an attempt to find out whether the circadian rhythm disruption could be a reason for the
+immunosuppression observed during Antarctic stay. In the present study, in one group of
+six volunteers, the immunoglobulin rhythm was assessed. In another group of six volunteers
+the oral temperature, activity and heart rate rhythms were measured. Disruption and
+desynchronization of the temperature rhythm with respect to activity and heart rate rhythms
+was noted. In the other group, disruption of the serum immunoglobulin rhythm was noted
+irrespective of the season. Our results clearly indicate that the decrease in the serum
+immunoglobulins IgG and IgM are associated with disruption of their circadian rhythm.
+Involvement of neuroendocrine factors is postulated.
+Introduction
+More than 100 years back Reinert (1891) reported the circadian rhythm of
+leukocyte counts in humans. Following which there are many reports to show
+that different compartments of the immune system have different individual
+rhythms (Haus et al., 1983; Gatti et al., 1987; Fernandes et al, 1976). Amongst
+the many zeitgebers that tell the milieu interior about the time of the day, the
+photoperiodicity is the most potent external cue (Czeisler, 1995).
+In Antarctica there is extreme cold coupled with an alien photoperiodicity
+of long polar days and polar nights amongst many other physical and social
+stressors, which a human sojourner has to face while on duty in Antarctica. The
+disturbances of hormonal and circadian sleep-wake cycle (Kennaway and
+Von-Dorp, 1991) have already been reported in Antarctic sojourners.
+Though there are many studies to show the immunosuppression during
+Antarctic stay, there are no reports to show whether any circadian component
+
+--- Page Break ---
+
+=== Page 2 ===
+362 
+G.Sundaresan & Usha Sachdeva 
+is involved in modulating the immune status of humans while in Antarctica. In
+this study we measured the circadian rhythm of serum immunoglobulin IgG
+and IgM and found that the circadian rhythm of immunoglobulin is disrupted
+during prolonged stay in Antarctica. This study is the first report to show the
+disruption of human immunoglobulin rhythm during their stay in Antarctica on
+winter-over assignment.
+Materials and Methods
+Study Subjects 
+The human subjects included in this study were all Indian, male members
+of the 15th Indian Scientific Expedition to Antarctica who were on winter-over
+assignment. The objectives of the study were briefed to all the members of the
+expedition and only those who volunteered for the study were included. Out of
+the 25 winter-over members two groups of 6 volunteers each were included in
+the study. Group-I had a mean age of 33.51 ± 5.42 years and mean body weight
+68.47 ± 6.25 kg in whom the circadian rhythm of body temperature, activity
+and heart rate were studied. In Group-II, with mean age 34.17 ± 2.73 years
+and mean body weight 67.17 ± 7.22 kgs, the circadian rhythm of immunoglobu-
+lin was studied.
+All the subjects in the study were volunteers only. The ethical considera-
+tions set by the Ethical Committee of All India Institute of Medical Sciences
+were strictly followed. The subjects were given the freedom to drop out at any
+point of the study, if they felt so.
+Periods of the Study 
+The study was conducted in six phases as given below:
+Phase I - Basal : During onward voyage on board ship in December 1995,
+underbasal conditions, before exposure to Antarctic conditions (23°S, 56°E,
+L/D 12:12, 24 ±2°C).
+Phase II - Early Winter : In April 1996 in Antarctica in early winter, at the
+beginning of isolation while the hours of darkness were increasing everyday
+(L/D 10:14;-7.9°C).
+Phase III - Mid Winter: In July 1996, before the end of two months continuous
+darkness (L/D 1:23; -11.8°C).
+Phase IV - End Winter : In October 1996, after the end of winter darkness
+and maximum cold (L/D 14:10; -8.3°C).
+
+--- Page Break ---
+
+=== Page 3 ===
+Alteration of Immunoglobulin and Temperature Rhythm 363
+Phase V - Summer : In December 1996, during peak summer just before the
+end of ten months of isolation (L/D 23:1; -0.2 °C).
+Phase VI - Post Exposure (Recovery) : On board ship during the return
+voyage, after exposure to Antarctic summer conditions during March 1997
+(26°S, 54°E; LTD 13:11;+26°C).
+Experimental Procedures
+Blood Sampling for Circadian Rhythm Assessment of Immunoglobulins 
+Venous blood samples were collected, at four hourly intervals (1800, 2200,
+0200, 0600, 1000 and 1400 hrs. local time) from the ante-cubital area using
+5-ml syringe and 22G needle. All the blood samples were left for two hours to
+clot and thereafter, the serum was separated by centrifugation at 1500 rpm for
+15 min. and stored frozen at -20 °C in a deep freezer. All estimations were done
+after return to New Delhi. Repeated thawing and freezing was avoided.
+Enzyme Linked Immunosorbant Assay (ELISA) of Immunoglobulins 
+The method of Kaur et al., (1991) was adopted. The standard Immuno-
+globulin G or Immunoglobulin M (DAKO) or the test sera optimally diluted in
+0.5 M Carbonate Bicarbonate Buffer (pH 9.6) were coated in triplicate wells
+on to the solid phase (COSTAR ELISA plates, 96 well, flat bottom) and
+incubated at 37 °C for 4 hours in a humid chamber. After decanting and washing
+with Phosphate Buffered Saline (PBS, 0.1 M ; pH 7.25) non specific binding
+was blocked using skimmed milk powder (Anikspray) by incubating at 37 °C
+for one hour. Following PBS-Tween washing, Anti Human Ig-HRP conjugate
+(DAKO) was then added and incubated for one hour at 37 °C. The chromogen
+(Ortho Phenylene diamine dihydrochloride [OPD], Sigma) dissolved in the
+Substrate buffer (1.5 M citrate phosphate buffer; pH 5.0) was used to develop
+the color and the reaction was stopped using 8N H2SO4. The optical density
+was then read in an ELISA reader, (Pharmacia) at 490 nm.
+Circadian Rhythm of Temperature, Activity & Heart Rate 
+The circadian rhythm of temperature, activity and heart rate were measured
+using the ambulatory Minilogger-2000 (Mini Mitter, Sun River, USA) equip-
+ment. The Minilogger-2000 is a small battery operated computer. It is designed
+to acquire and store temperature, activity and heart rate as digitized signals and
+later to download the data to a host PC through a serial interface. The tempera-
+ture and activity data are collected using specific sensors, which are positioned
+in the body and connected to the Minilogger through a cable. The heart rate is
+
+--- Page Break ---
+
+=== Page 4 ===
+364 
+G.Sundaresan & Usha Sachdeva 
+measured by using a chest band, which picks up the electrical activity of the
+heart and relays the signal to Minilogger, by telemetry.
+Temperature Sensors 
+Sheridan Sher-I-Temp (Sheridan Catheter Corp., USA) Tympanic Cavity
+Temperature Sensors were used. These have an accuracy of measuring upto a 
+resolution of ± 0.05 °C. These temperature probes come equipped with a 
+protective foam covering over the sensor end of the unit. This holds the sensor
+in place and protects the delicate tissues of the ear canal from injury. Care was
+taken to avoid contact with the tympanic membrane. The temperature measured
+at every hour interval was taken for analysis.
+Activity Sensor 
+Wristband activity sensors were used. This was strapped onto the dominant
+hand of the subject and connected to the Minilogger-2000 through a cable.
+'These sensors are 'omni-directional' using mercury switches. The activity was
+measured as the total counts in the sampling time interval.
+Heart Rate Sensors 
+The Polar heart rate pickup belts (Polar Electro Oy, Finland) has a pair of
+conductive pads molded into a central transmitter unit and an elastic band to go
+around the chest, holding the transmitter in place. Since these pick up the
+electrical activity of the heart, ECG accurate heart rate is measured using this
+system. Heart rate data are reported to the nearest whole beat per minute. The
+heart rate was measured at hourly intervals.
+Statistical Analysis 
+The circadian rhythm data were analyzed using the cosinar analysis (Nel-
+son et al; 1979) to obtain the circadian parameters viz., Percentage rhythm
+(PR), Mesor (M) the rhythm adjusted mean; Amplitude (AMP) half the total
+variability between peak and trough; Acrophase (ACRO), peak time with
+mid-night as arbitrary phase reference. Each, rhythm was individually analyzed
+and the resultant circadian parameters were pooled and their mean was ob-
+tained. Paired 't' test was used to find out the differences between two.group
+means.
+
+--- Page Break ---
+
+=== Page 5 ===
+Alteration of Immunoglobulin and Temperature Rhythm 365
+Results
+Circadian Rhythm of Immunoglobulin G 
+The results of the serum IgG in four hourly samples showed that many of
+the circadian rhythm parameters were disrupted following exposure to Antarc-
+tic conditions. These results, which are summarized in Table-1, shows that the
+mean percentage rhythm of six subjects was significantly (p<0.01) decreased
+during the end winter phase. However the mesor was decreased in all the phases
+of the Antarctic stay, but was significantly lower (p<0.05) only during the early
+winter phase and during the summer phase which was measured just before the
+end of the 10 month long isolation period. But most interesting results were
+observed in the amplitude of the rhythm, which was significantly decreased in
+all the phases of the study starting from the early winter phase. There was no
+consistency in the timing of the acrophase also, which showed statistically
+significant phase delay during the early winter and return voyage phases.
+Table 1: Circadian Rhythm of IgG
+Parame-
+ters
+PR (%)
+MESOR
+(mg/dL)
+AMP
+(mg/dL)
+ACRO
+(hrs)
+Basal
+56.72 ± 
+11.80
+1405.38 ± 
+175.52
+377.40 ± 
+213.96
+22.53 ± 
+3.19
+Early
+Winter
+79.59 ± 
+18.53
+1197.00 ± 
+65.96 al
+157.24 ± 
+36.34 al
+3.52 ± 1.3
+a2
+Mid
+Winter
+61.19±
+23.40
+1295.02 ± 
+68.80
+93.03±
+47.54 a2
+00.74 ± 
+4.14
+End
+Winter
+22.19 ± 
+19.84 a2
+1282.34 ± 
+62.10
+56.40 ± 
+45.98 a2
+20.99 ± 
+2.24
+Summer
+35.73 ± 
+27.03
+1220.34 ± 
+39.80 al
+59.12 ± 
+26.56 a2
+18.63 ± 
+5.84
+Return
+40.96 ± 
+29.79
+1329.24 ± 
+46.50
+71.94 ± 
+43.46 a2
+02.76±
+1.29 al
+a = In comparison with basal; l=p<0.05, 2=p<0.01, 3=p<0.001
+Circadian Rhythm of Immunoglobulin M 
+In comparison with IgG, the circadian rhythm of IgM was less affected.
+There were a significant reduction in the mesor and amplitude during the mid
+winter phase alone with the values being comparable to the basal values in the
+rest of the phases. The percentage rhythm was comparable to the basal values
+in all the other phases studied. The timing of the acrophase was also consistent
+throughout the period of stay in Antarctica, however there was a significant
+phase delay during the return voyage. These results are shown in Table-2.
+
+--- Page Break ---
+
+=== Page 6 ===
+366 
+G.Sundaresan & Usha Sachdeva 
+Table 2: Circadian Rhythm of IgM
+Parame-
+ters
+PR (%)
+MESOR
+(mg/dL)
+AMP
+(mg/dL)
+ACRO
+(hrs)
+Basal
+51.44
+±15.60
+109.26 ± 
+30.84
+19.17 ± 
+6.48
+16.76 ± 
+5.19
+Early
+Winter
+38.34 ± 
+23.19
+103.11 ± 
+37.32
+13.17±
+16.83
+16.44±
+3.62
+Mid
+Winter
+37.10
+±36.72
+68.19 ± 
+26.52 al
+6.51 ± 
+3.18 a2
+17.52 ± 
+3.84
+End
+Winter
+31.66 ± 
+30.96
+102.15 ± 
+51.93
+13.56 ± 
+11.28
+15.24 ± 
+1.80
+Summer
+52.92 ± 
+20.83
+85.92 ± 
+35.40
+16.44 ± 
+7.41
+20.53 ± 
+4.83
+R e t u r n
+6 9 . 8 9 ± 
+1 2 . 8 5
+1 3 0 . 2 0 ±
+4 6 . 5 3
+2 8 . 2 6 ± 
+1 5 . 4 5
+2 3 . l0 ± 
+2 . 7 2 
+a l
+a = In comparison with basal; l=p<0.05,2=p<0.01,3=p<0.001
+Temperature Rhythm 
+The temperature rhythm (Table-3) was affected only in terms of its
+percentage rhythm, while the mesor and amplitude were unaffected. The
+percentage rhythm remained significantly lower than the basal throughout the
+study period in Antarctica. It became comparable to the basal during t h e return
+voyage. The acrophase was phase advanced during the winter phases, t h o u g h
+significantly only during the early winter phase. During the summer a n d return
+voyage phases the acrophase however became adjusted and was c o m p a r a b l e to
+the basal.
+Table 3: Temperature Rhythm
+Parameters
+PR(%)
+MESOR (°C)
+AMP (°C)
+ACRO (hrs)
+Basal
+46.81 ± 
+17.18
+34.98 ± 
+0.86
+0.57 ± 
+0.26
+18.54 ± 
+2.43
+Early
+Winter
+17.14±
+14.72 a2
+34.97 ± 
+0.48
+0.31±
+0.21
+12.50 ± 
+5.87 al
+Mid
+Winter
+24.44 ± 
+13.69 al
+35.04 ± 
+0.32
+0.33 ± 
+0.13
+13.23 ± 
+6.39
+End
+Winter
+11.11 ± 
+8.44 a3
+34.75 ± 
+0.64
+0.33 ± 
+0.19
+15.18 ± 
+4.98
+Summer
+23.44 ± 
+9.33 al
+35.01 ± 
+0.36
+0.36 ± 
+0.09
+18.79 ± 
+2.70
+R e t u r n
+3 2 . 7 7 
+± 
+2 4 . 0 2
+3 5 . 4 6 
+± 
+0 . 3 8 
+0 . 3 3 
+± 
+0.17
+17.04 
+± 
+1.87
+a =In comparison with basal; l=p<0.05, 2=p<0.01,3=p<0.001
+Activity Rhythm 
+Unlike the temperature rhythm, the activity rhythm was not affected d u r i n g
+winter-over. As shown in Table-4, none of the circadian parameters w e r e
+affected during the entire period of winter-over stay, despite a very s l i g h t
+non-significant decrease in the mesor and amplitude during the mid w i n t e r
+phase.
+
+--- Page Break ---
+
+=== Page 7 ===
+Alteration of Immunoglobulin and Temperature Rhythm 367
+Parame-
+ters
+PR (%)
+MESOR
+(counts)
+AMP
+(counts)
+ACRO
+(hrs)
+Basal
+33.27 ± 
+27.00
+1201.33 ± 
+788.79
+909.00 ± 
+879.84
+16.00 ± 
+1.70
+Table 4: Activity Rhythm
+Early
+Winter
+42.51 ± 
+18.86
+1184.00 ± 
+517.52
+705.20 ± 
+358.90
+15.55 ± 
+2.06
+Mid
+Winter
+32.87 ± 
+13.71
+940.00 ± 
+317.35
+664.50 ± 
+346.10
+17.34 ± 
+1.05
+End
+Winter
+51.88 ± 
+16.15
+1023.17 ± 
+288.34
+969.17 ± 
+390.85
+17.48 ± 
+1.82
+Summer
+49.01 ± 
+.7.23
+1273.25 ± 
+208.43
+1048.75 ± 
+320.17
+14.73 ± 
+1.29
+Return
+45.51 ± 
+10.17
+1022.17 ± 
+118.88
+975.67 ± 
+259.10
+17.87±
+2.59
+a = In comparison with basal; l=p<0.05, 2=p<0.01, 3=p<0.00l
+Heart Rate Rhythm 
+Similar to the activity rhythm, the heart rate rhythm was also unaffected
+during the winter-over stay. The only significant change noticed was a signifi-
+cant phase advancing of the acrophase during the summer phase at the end of
+the isolation. During this phase the acrophase phase advanced to 15.14 ± 1.10
+hours from the basal value of 17.16 ± 1.62 hours (Table-5)
+Table 5: Heart rate Rhythm
+Parame
+ters
+PR (%)
+MESOR
+(bpm)
+AMP
+(bpm)
+ACRO
+(hrs)
+Basal
+41.52 ± 
+20.58
+79.84 ± 
+10.20
+12.01 ± 
+4.21
+17.16±
+1.62
+Early
+Winter
+41.70 ± 
+21.16
+80.29 ± 
+7.00
+18.94 ± 
+12.42
+16.91 ± 
+0.96
+Mid
+Winter
+43.12±
+22.14
+73.77 ± 
+8.46
+10.87 ± 
+5.26
+17.10±
+2.39
+End
+Winter
+57.91 ± 
+8.88
+74.13 ± 
+7.75
+13.74 ± 
+3.22
+17.96 ± 
+1.85
+Summer
+55.45 ± 
+10.91
+80.51 ± 
+6.49
+13.73 ± 
+3.24
+15.14 ± 
+l.l0al
+Return
+56.25 ± 
+19.78
+71.51±
+7.40
+15.16±
+4.65
+16.51 ± 
+4.09
+a = In comparison with basal; l=p<0.05, 2=p<0.01, 3=p<0.001
+Discussion
+With prolonged winter stay there was derangement of immune rhythm. The
+amplitude suppression of IgG indicates direct control of circadian oscillator on
+lymphocyte function that controls the stimulation and release of IgG. Since the
+amplitude decreased irrespective of season, it could not be a direct effect of
+photoperiodicity. The stress of Antarctic stay and associated neuro-hormonal
+factors could be a possible reason for this.
+
+--- Page Break ---
+
+=== Page 8 ===
+368 
+G .Sundaresan & Usha Sachdeva 
+In the present study, we did not attempt to correlate the psychological
+changes with circadian changes, although the psycho-immunological concept
+for immunomodulation under various life situations have been documented
+(Ader, 1981). The phase shift by primary oscillator governs all the physiological
+rhythms including immunoglobulins. Psychological disturbances (Lewy et al; 
+1987; Czeisler et al, 1989) related to abnormalities in pacemaker in its timing
+due to the stresses of Antarctica might be responsible for loss of immunoglobu-
+lin rhythmicity, which is evidenced by the blunting of circadian amplitude.
+The acrophase of the IgG rhythm showed a phase delay during onset of
+winter and progressively phase advanced with the crossing of mid winter and
+into the following summer. Here increasing hours of darkness seems to be
+having a phase delaying effect on the timing of acrophase of IgG rhythm.
+Thereby in Antarctica, there could be factors other than photoperiod
+involved in modulating the circadian rhythm of IgG, and the effect of photop-
+eriod may be limited only in changing the timing of acrophase and thereby
+possibly the period of the rhythm.
+The temperature rhythm was significantly disrupted during the entire
+period of Antarctic winter stay associated with internal desynchronization with
+respect to activity and heart rate rhythms. Under basal conditions, as seen in
+this study or other studies (Motohashi et al, 1987; Motohashi, 1990; Reinberg
+et al, 1989), the acrophase of temperature rhythm follows peak of activity and
+heart rate rhythms. During prolonged Antarctic winter-stay the phase advance-
+ment of temperature rhythm and a slight phase delay in activity and heart rate
+rhythms resulted in internal desynchronization. Such internal desynchroniza-
+tion is associated with intolerance to shift work (Pati and Saini, 1991; Reinberg
+et al, 1988) or can be present even in normal healthy individuals with just a 
+mild irregular sleep-wake habit (Motohashi, 1990). Sleep disturbances in
+Antarctic stay have already been reported (Natani et al, 1970). The desyn-
+chronization that was observed in this study might be associated with the
+irregular sleep-wake cycles during Antarctic stay.
+Gander et al. (1991) observed phase delays in the temperature rhythm
+during Antarctic summer. Such a phase delay was seen in the summer phase of
+the present study also. However phase advancement of temperature rhythm
+during Antarctic winters was observed in the present study. During the follow-
+ing summer at the end of the isolation period however the temperature rhythm
+phase delayed in comparison to the previous (end winter) measurement but not
+significantly different to that of the basal. Hence it is possible that certain
+neuroendocrine or behavioral mechanisms associated with prolonged period of
+light is involved in phase delaying the temperature rhythm of humans in
+Antarctica. Like wise factors associated with prolonged periods of darkness are
+implicated to have an opposite effect.
+
+--- Page Break ---
+
+=== Page 9 ===
+Alteration of Immunoglobulin and Temperature Rhythm 369
+According to Motohashi et al. (1987) the phase advancing is usually
+associated with a rhythm period shorter than 24 hours. Since in the present study
+there was a phase advancing present in the temperature rhythm with no
+corresponding change in the activity or heart rate rhythms, it can be postulated
+that the period of the temperature rhythm alone was non-circadian in Antarctica.
+In the present study, the internal desynchronization has been described as
+a change in the timing of the acrophase only, due to the fact that only 24 hour
+recording was possible in the present study. A longitudinal study of about 10
+days or more would have given a much better picture in detection of the internal
+desynchronization (Reinberg et al., 1989).
+In the light of the above findings it becomes clear that the immunosuppres
+sion observed in Antarctica could be due to the alterations of the functioning
+of the biological clock.
+Acknowledgements
+The authors wish to thank all the members of the 15th Indian Scientific
+Expedition to Antarctica (1995-97, 13th WOT). The authors also thank the
+Department of Ocean Development (Govt of India), Indian Council of Medical
+Research and the All India Institute of Medical Sciences, New Delhi for the
+financial support and facilities provided for carrying out the project.
+References
+Ader R., (1981) Psychoneuroimmunology, Academic Press, New York.
+Czeisler CA, (1995) The Effect of Light on the Human Orcadian Pacemaker. In: Chadwick
+DJ, Ackrill K.. eds. Circadian Clocks and their Adjustment. Ciba Foundation symposium.
+183. Chichester: John Wiley: 254-302.
+Czeisler CA, Kronauer RE, Allen JS, Duffy JF, Jewett ME, Brown EN, Ronda JM. Bright
+Light Induction of Strong (type-o) Resetting of the Human Circadian Pacemaker. Science 
+233:667-671.
+Fernandes G., Halberg F., Yunis E.J. and Good R.A. (1976) Circadian Rhythmic Plaque-
+Forming Cell Response of Spleens from Mice Immunized with SRBC. J. Immunol., 117:
+962-966.
+Gander PH, Macdonald JA, Montgomery JC, Paulin MG (1991) Adapdation of sleep and
+circadian rhythms to the Antarctic summer: a question of zeitgeber strength. Aviat. Space 
+Environ. Med., 62: 1019-1025.
+Gatti G, Del Ponte D, Cavallo R et al., (1987) Circadian changes in human natural killer cell
+activity. Progr. Clin. Biol. Res., 227A: 399-409.
+
+--- Page Break ---
+
+=== Page 10 ===
+370 
+G.Sundaresan 
+& Usha Sachdeva 
+Haus E, Lakatua DJ, Swoyer J, Sackett-Lundeen L (1983) Chronobiology in haemotology
+and immunology. Am. J. Anat., 168: 467- 517.
+Kaur J, Khare S, Bhutani LK, Rao DN (1991) Enzyme Immunoassay of Phagocytosis
+Stimulating Tetrapeptide "Tuftsin" in Normal and Leprosy Sera. Int. J. Leprosy, 59:
+576-581.
+Kennaway DJ, Van-Dorp CF (1991) Free-running rhythms of melatonin, Cortisol, electro-
+lytes, and sleep in humans in Antarctica. Am. J. Physiol, 260: Rl 137-1144.
+Lewy AJ, Sack RL, Miller S, Hoban TM. (1987) Antidepressant and circadian phase shifting
+effects of light. Science, 235: 354.
+Motohashi Y (1990). Desynchronization of oral temperature and grip strengths: circadian
+rhythms in healthy subjects with irregular sleep-wake behavior. Chronobiology:Its Role in
+Clinical Medicine, General Biology and Agriculture, Part B:57-63.
+Motohashi Y, Reinberg A and Levi F. (1987) Axillary temperature: a circadian marker
+rhythm for shift workers. Ergonomics, 30; 1235-1247.
+Natani K, Shurley JT, Pearce CM, et al. (1970) Lon term changes in sleep patterns in men
+on the South polar plateau. Arch. Internal Med., 125: 655-659.
+Nelson W, Tong YL, Lee JK, Halberg F (1979) Methods for Cosinar-Rhythmometry.
+Chronobiologia, 6: 305-323,
+Pati AK and Saini SK (1991). Desynchronization of oral temperature, pulse and performance
+circadian rhythms in shift working Indian nurses. Ind. J. Exp. Biol., 29: 1017-21.
+Reinert E (1891) Die Zahiung der Blutkorperchen und deren Bedeutung fur die Therpie.
+Leipzig: Vogel.
+Reinberg A, Motohashi Y, Bourdelleau P, Touitou Y, Noughier J, Noughier J, Levi F and
+Nicolai A (1989). Internal desynchronizatioon of circadian rhythms and tolerance of shift
+work. Chronobiologia 16: 21-34.
+Reinberg A, Motohashi Y, Bourdeleau P, Andlauer P, Levi F and Bicakova-Rocher A 
+(1988). Alteration of period and amplitude of circadian rhythms in shift workers. Eur. J.
+Appl. Physiol., 57: 15-20.

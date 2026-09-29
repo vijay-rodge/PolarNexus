@@ -1,0 +1,14 @@
+DOCUMENT TITLE: Scientific Accomplishments and Operational Report of the 15th Indian Arctic Expedition
+SOURCE: National Centre for Polar and Ocean Research (NCPOR) / DSpace Repository
+EXPEDITION: 15th Indian Arctic Expedition (2021-2022)
+LOCATION: Ny-Ålesund, Spitsbergen, Svalbard (78°55' N, 11°56' E) and Kongsfjorden Fjord
+STATIONS: Himadri Station and IndARC Moored Observatory
+
+SECTION 1: EXPEDITION OBJECTIVES AND LOGISTICS
+The 15th Indian Scientific Expedition to the Arctic was dispatched in 2021 by NCPOR with a focus on long-term climate change assessment, fjord biogeochemistry, and cryospheric feedback in the High North. Research activities were headquartered at India's Arctic research station 'Himadri' in Ny-Ålesund, an international research hub in Svalbard.
+
+SECTION 2: SCIENTIFIC RESEARCH PERFORMED
+1. Kongsfjorden Marine Biogeochemistry: Scientists collected water column CTD (conductivity, temperature, depth) casts across 12 fjord stations, analyzing the penetration of warm Atlantic Water (AW) into the Arctic fjord and its consequences on zooplankton size spectra.
+2. IndARC Moored Underwater Observatory: The multi-sensor mooring deployed at a depth of ~192 meters in Kongsfjorden was serviced. Data recovered provided continuous year-round hourly hydrographic records, revealing winter convection cycles and freshwater runoff from melting tidewater glaciers.
+3. Atmospheric Aerosol and Black Carbon Studies: Measurements of equivalent black carbon (eBC) concentrations, aerosol optical depth (AOD), and trace gases revealed long-range atmospheric transport of industrial pollution from lower latitudes into the pristine Arctic boundary layer.
+4. Glaciological Monitoring: Glacier ablation measurements and ground-penetrating radar surveys conducted on the Vestre Brøggerbreen glacier quantified accelerated summer mass loss and firn thinning.

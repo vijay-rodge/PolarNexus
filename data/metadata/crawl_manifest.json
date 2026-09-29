@@ -1,0 +1,25 @@
+{
+  "crawler_name": "NCPOR Polar Science DSpace Harvester",
+  "crawler_version": "1.0.0",
+  "run_timestamp": "2026-09-29T15:22:35.306772+00:00",
+  "start_url": "http://14.139.119.23:8080/dspace/community-list",
+  "download_mode": "all",
+  "max_depth": 5,
+  "page_limit": 25,
+  "summary": {
+    "total_urls_discovered": 204,
+    "total_urls_visited": 45,
+    "total_items_discovered": 14,
+    "total_pdfs_downloaded": 14,
+    "total_failed_downloads": 0,
+    "total_restricted_documents": 0,
+    "total_text_extracted": 13,
+    "total_ocr_required": 1
+  },
+  "artifacts": {
+    "documents_json": "data\\metadata\\documents.json",
+    "documents_csv": "data\\metadata\\documents.csv",
+    "failed_downloads_json": "data\\metadata\\failed_downloads.json",
+    "chunks_file": "data\\chunks\\document_chunks.jsonl"
+  }
+}

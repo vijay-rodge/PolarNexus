@@ -1,0 +1,125 @@
+{
+  "item_id": "DSPACE-123456789-754",
+  "title": "Analysis of Meteorological and Oceanological Situations Encountered during Summer Months of 1993 - 94 in Antarctica",
+  "authors": "M SARANGAPANI",
+  "year": 2008,
+  "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+  "collection": "2]Atmospheric Science",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/754",
+  "total_pages": 9,
+  "total_characters": 15023,
+  "is_scanned": false,
+  "extraction_status": "completed",
+  "coordinates": [
+    {
+      "name": "Maitri Research Station (Schirmacher Oasis)",
+      "station": "Maitri",
+      "dms_lat": "70°45'58\"S",
+      "dms_lon": "11°43'56\"E",
+      "latitude": -70.766111,
+      "longitude": 11.732222,
+      "elevation_m": 117.0,
+      "confidence": 0.99,
+      "datum": "WGS-84"
+    },
+    {
+      "name": "Southern Ocean Low Pressure Track (06Z)",
+      "station": "Southern Ocean",
+      "dms_lat": "60°00'00\"S",
+      "dms_lon": "15°00'00\"E",
+      "latitude": -60.0,
+      "longitude": 15.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Synoptic Weather Chart"
+    },
+    {
+      "name": "Severe Storm Vortex Center (16 Dec 1985)",
+      "station": "Southern Ocean",
+      "dms_lat": "62°00'00\"S",
+      "dms_lon": "35°00'00\"E",
+      "latitude": -62.0,
+      "longitude": 35.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Synoptic Weather Chart"
+    },
+    {
+      "name": "Antarctic Fast-Ice Limit Boundary",
+      "station": "Princess Astrid Coast",
+      "dms_lat": "68°00'00\"S",
+      "dms_lon": "12°00'00\"E",
+      "latitude": -68.0,
+      "longitude": 12.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Sea-Ice Facsimile Boundary"
+    },
+    {
+      "name": "Subtropical & Antarctic Convergence Zone",
+      "station": "Southern Ocean",
+      "dms_lat": "37°30'00\"S",
+      "dms_lon": "20°00'00\"E",
+      "latitude": -37.5,
+      "longitude": 20.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Oceanographic Bathythermograph"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-P3-1",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+      "caption": "Fig. 1: Facsimile chart of Northern Limit of Sea-Ice conditions (Ice concentration in tenths)"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Thirteenth Indian Expedition to Antarctica, Scientific Report, 1997 \nDepartment of Ocean Development, Technical Publication No. 11. pp. 181-189 \nAnalysis of Meteorological and Oceanological \nSituations Encountered during Summer Months of \n1993 - 94 in Antarctica \nM SARANGAPANI \nIndian Navy \nAbstract \nThe Antarctica is known to be the coldest, stormiest, windiest and least known \ncontinent. It is almost completely covered by ice. Inspite of these inhospitable conditions, \nit is attracting world wide attention because of its strong influence on weather, the global \nheat balance and its hidden economic potential. \nThis paper presents an analysis of different weather systems encountered and experi-\nenced during the passage and stay at Antarctica of the XIII Antarctica expedition. The \nexpedition team sailed from Marmagao onboard M V Stepan Krashanennikov on 08 Dec 93. \nThe team included two Meteorological scientists from India Met Dept and one Meteorologi-\ncal and Oceanographic Officer from the Indian Navy. \nThe summer of 1993 - 94 had one of the severest blizzards during Feb 94 which \ndamaged the ship's rudder control system. This led to an unavoidable extended stay at \nAntarctica. \nObjectives \nThe objectives of the Meteorological and Oceanographic programme \nduring the voyage and our stay at Antarctica are mentioned below : \n(a) Study synoptic systems that affect weather over Antarctica by collecting \ninformation from the met. data network \n(b) Collect and record synoptic weather observations during the passage to \nand from Antarctica \n(c) Collect ship / surface meteorological observations during the stay at \nAntarctica \n(d) Provide weather briefings and forecasts for ship's routing \n(e) Provide general weather and aviation forecasts during the expedition \n(f) Receive and interpret cloud imageries from NOAA satellites for the \npurpose of planning and execution of expedition activities",
+      "char_count": 1915
+    },
+    {
+      "page_number": 2,
+      "text": "182 \nM. Sarangapani \n(g) Collect Oceanographic observations during the passage to and from \nAntarctica \n(h) Study the movement of water masses, their origin and sea ice conditions \nMeteorological Inputs during the Expedition \nThe following inputs were received and used for meeting the above \nobjectives: \n(a) Surface and upper air analyses by facsimile from Pretoria, South Africa \n(b) Satellite imageries received onboard the ship \n(c) Current weather observations of the ship and Maitri \n(d) Air borne Meteorological reports from helicopters \n(e) South African Weather bulletins \n(f) Weather bulletins for the high seas from South Africa \n(g) Meteo - France Re-Union Weather bulletins \n(h) Weather bulletins from Met. Mauritius \n(i) Indian Ocean Fleet Forecasts from India \nWeather Systems encountered during the onward passage — Tropical \nStorms \nOne tropical storm was observed over the South Indian Ocean during the \nonward journey. It intensified into a severe cyclonic storm on 19 Dec 93 and \nmoved in a SW to WSW direction and crossed Mauritius. This system followed \nthe track of the ship for the next 36 hours and became unimportant thereafter. \nUnder its influence the ship experienced a NE swell of 4 to 5 m height. \nSea-Ice conditions \nDuring the onward passage, the following types of sea-ice conditions were \nexperienced. The facsimile chart received onboard the ship is given in Figure \n1. Beyond 68 S, the conditions remained as fast unbroken ice which took nearly \nthree days to cross and reach the India Bay at Antarctica. \n(a) 28 Dec 93: Drift ice of 5 / 10 cover near 61 S / 16 E \n(b) 29 Dec 93: Pack ice of 10 /10 cover near 67 S / 15 E \n(c) 30 Dec 93: Fast unbroken ice of 1.5 m from 68 S onwards",
+      "char_count": 1720
+    },
+    {
+      "page_number": 3,
+      "text": "Analysis of Meteorological and Oceanological Situation... \n183 \nFig. 1: Facsimile chart of Northern Limit of Sea-Ice conditions (Ice concentration in tenths)",
+      "char_count": 157
+    },
+    {
+      "page_number": 4,
+      "text": "184 \nM. Sarangapani \nMeteorological Events Observed at Antarctica \nThe following meteorological events were observed at Antarctica during \nthe summer of 1993 - 94: \n(a) Blizzards \n(b) Strong surface winds \n(c) Movement of clouds \n(d) White-out conditions \n(e) Change in upper wind pattern before meteorological systems \n(f) Turbulence \n(g) Mirages and \n(h) Aurora australis \nBlizzards \nBlizzards are special weather phenomena over Antarctica. They are asso-\nciated with the winds and blowing snow thus reducing the horizontal as well \nas the vertical visibility. There were only two low intensity blizzards during Jan \n94. However the intensity and duration considerably increased during the \nmonth of Feb 94. There were four blizzards during Feb 94 of which one was a \nsevere blizzard with strong surface winds of 80 to 90 Kts and swell of 4 to 6 m \nheight. The details of this blizzard is given in the next paragraph. In addition \non many occasions there was snow fall and the sudden appearance of dense \ndrifting fog. This reduced the visibility. \nAn intense low pressure system was observed on 19 Feb 94 on a facsimile \nchart. The approaching bad weather was identified by a change in wind \ndirection from the ESE to the SSW and S. The system was on the edge of a cold \nfront extending from 60° to 70° S. There was a time gap of 6 hrs between the \nchange in the wind direction and the appearance of low clouds . The blizzard \ncontinued to blow constantly up to 23 Feb 94. The wind speed was 50 to 60 kts \nat times reaching to 80 - 90 kts, throughout the period. This caused a swell of \n4 to 6 m height. We observed heavy swings of the berthing ropes. This forced \nthe ship to cast off from the shelf which ultimately resulted in the failure of the \nrudder control system and drifting of ice for the next few days. \nStrong surface winds \nSurface winds from E to ESE of the order of 25 to 30 kts were frequently \nexperienced under the influence of passing low pressure systems. In addition, \non many occasions katabatic winds of cold dense air from the slopes of a nearly",
+      "char_count": 2073
+    },
+    {
+      "page_number": 5,
+      "text": "Analysis of Meteorological and Oceanological Situation... \n185 \nplateau under gravity caused an icy blast of 25 to 30 kts. At times winds reaching \nto 40 kts were also experienced. \nMovement of clouds \nThe appearance or drifting low clouds over the shelf near India Bay is very \nfrequent. On many occasions, these clouds appeared as broken, isolated and \ndistant stratiform clouds in E to ESE direction. Within no time, these clouds \ndrifted overhead leading to overcast and whiteout conditions with zero visibil-\nity. \nUpper winds \nThe low level winds below 3000 ft were observed to be E to ESE of the \norder of 15 - 20 kts (as obtained from helicopters). Backing of low level upper \nwinds with increase in speed gave advance warning of an approaching low \npressure system. Backing of winds were noticed at least 12 hr before the \napproach of a system. \nTurbulence \nModerate to severe turbulence was observed near mountain regions, par-\nticularly near Maitri. Turbulence was observed under the following conditions: \n(a) Behind or immediately after the passage of low pressure systems, and \n(b) Strong wind shears in low level upper winds \nMirages \nOn many occasions when the sun was closer to the horizon polar mirages \nwere observed. They were seen generally during the early morning or late \nevening hours. They occurred when a layer of cold air near the surface lay under \na layer of warm air above. During such occasions,distant features, such as, \nmountains, ice bergs seem to be looming above the horizon or appeared to be \nvery near with very good visibility. \nAurora australis \nBeautiful aurora lights, aurora australis with its colourful draperies were \nobserved on three consecutive days from 06 Mar 94, during extended stay at \nAntarctica. They are magnificent atmospheric phenomenon which are some-\ntimes called, \"heavenly lights\" or \"atmospheric dancing lights\". They appeared \nin one part of the sky and started moving at very slow speed from the North to \nSouth.They used to continuously change its colours in a wave like pattern.",
+      "char_count": 2047
+    },
+    {
+      "page_number": 6,
+      "text": "188 \nM. Sarangapani \ndirection and crossed Madagascar. On crossing Madagascar it further intensi-\nfied and crossed the Muzambique channel and hit South Africa. The facsimile \nchart showing the relative positions of the ship and storms is shown at Figure 3. \nSatellite Imageries \nA weather Satellite Receiver 525 was installed onboard the ship by the \nNaval Met officer. With the help of this unit, cloud imageries were received on \na routine basis from NOAA weather satellites. These imageries helped in \nidentifying the cloud and ice covers and in monitoring different weather \nsystems over and around Antarctica. These imageries also served as an impor-\ntant tool for the study of weather systems. They helped us to give correct and \ntimely forecasts for the successful operation of aerial surveillance and various \nother expedition activities. \nOceanographic Observations \nContinuous three hourly observations of sea surface temperature, Sea state \n, swell (direction, height and period) were recorded. In addition, during the \nonward journey, six hourly XBT probes were launched for recording the \ntemperature profiles. A total of 45 observations were recorded. A study on the \ndata revealed different Southern oceanic processes, such as, Antarctic current \nconvergence, divergence and upwelling. A study of bathy observations indi-\ncated the following: \n(a) Fluctuation of sea surface temperature from 14 to 20°C near 35° to 40°S. \nThis indicated the movement of water masses associated with Antarctic \ncurrent convergence and divergence. \n(b) MUD extending upto a depth of 200 to 300 m near 45 S \nMet Data (extreme values) recorded during the expedition \nDuring the ship's stay at India Bay and near Antarctica from 30 Dec 93 to \n16 Mar 94, the following extreme values of Meteorological data were recorded: \n(a) Maximum surface wind: 90 kts on 21 Feb 94 \n(b) Temperature: Maximum: 05°C on 09 and 11 Jan 94 \nMinimum: -18°C on 21 Feb 94 \n(c) Minimum Atmospheric pressure: 947 hPa on 17 Mar 94 at 63 S /11 E \n(d) Aurora australis : 06, 07 and 08 Mar 94 near 69 S / 06 E \n(e) Swell: Height of 08 M on 19 Mar 94 near 62 S /11 E",
+      "char_count": 2129
+    },
+    {
+      "page_number": 7,
+      "text": "Analysis of Meteorological and Oceanological Situation... \n185 \nplateau under gravity caused an icy blast of 25 to 30 kts. Attimes winds reaching \nto 40 kts were also experienced. \nMovement of clouds \nThe appearance or drifting low clouds over the shelf near India Bay is very \nfrequent. On many occasions, these clouds appeared as broken, isolated and \ndistant stratiform clouds in E to ESE direction. Within no time, these clouds \ndrifted overhead leading to overcast and whiteout conditions with zero visibil-\nity. \nUpper winds \nThe low level winds below 3000 ft were observed to be E to ESE of the \norder of 15 - 20 kts (as obtained from helicopters). Backing of low level upper \nwinds with increase in speed gave advance warning of an approaching low \npressure system. Backing of winds were noticed at least 12 hr before the \napproach of a system. \nTurbulence \nModerate to severe turbulence was observed near mountain regions, par-\nticularly near Maitri. Turbulence was observed under the following conditions: \n(a) Behind or immediately after the passage of low pressure systems, and \n(b) Strong wind shears in low level upper winds \nMirages \nOn many occasions when the sun was closer to the horizon polar mirages \nwere observed. They were seen generally during the early morning or late \nevening hours. They occurred when a layer of cold air near the surface lay under \na layer of warm air above. During such occasions,distant features, such as, \nmountains, ice bergs seem to be looming above the horizon or appeared to be \nvery near with very good visibility. \nAurora australis \nBeautiful aurora lights, aurora australis with its colourful draperies were \nobserved on three consecutive days from 06 Mar 94, during extended stay at \nAntarctica. They are magnificent atmospheric phenomenon which are some-\ntimes called, \"heavenly lights\" or \"atmospheric dancing lights\". They appeared \nin one part of the sky and started moving at very slow speed from the North to \nSouth. They used to continuously change its colours in a wave like pattern.",
+      "char_count": 2047
+    },
+    {
+      "page_number": 8,
+      "text": "188 \nM. Sarangapani \ndirection and crossed Madagascar. On crossing Madagascar it further intensi-\nfied and crossed the Muzambique channel and hit South Africa. The facsimile \nchart showing the relative positions of the ship and storms is shown at Figure 3. \nSatellite Imageries \nA weather Satellite Receiver 525 was installed onboard the ship by the \nNaval Met officer. With the help of this unit, cloud imageries were received on \na routine basis from NOAA weather satellites. These imageries helped in \nidentifying the cloud and ice covers and in monitoring different weather \nsystems over and around Antarctica. These imageries also served as an impor-\ntant tool for the study of weather systems. They helped us to give correct and \ntimely forecasts for the successful operation of aerial surveillance and various \nother expedition activities. \nOceanographic Observations \nContinuous three hourly observations of sea surface temperature, Sea state \n, swell (direction, height and period) were recorded. In addition, during the \nonward journey, six hourly XBT probes were launched for recording the \ntemperature profiles. A total of 45 observations were recorded. A study on the \ndata revealed different Southern oceanic processes, such as, Antarctic current \nconvergence, divergence and upwelling. A study of bathy observations indi-\ncated the following: \n(a) Fluctuation of sea surface temperature from 14 to 20°C near 35° to 40°S. \nThis indicated the movement of water masses associated with Antarctic \ncurrent convergence and divergence. \n(b) MLD extending upto a depth of 200 to 300 m near 45 S \nMet Data (extreme values) recorded during the expedition \nDuring the ship's stay at India Bay and near Antarctica from 30 Dec 93 to \n16 Mar 94, the following extreme values of Meteorological data were recorded: \n(a) Maximum surface wind: 90 kts on 21 Feb 94 \n(b) Temperature: Maximum: 050C on 09 and 11 Jan 94 \nMinimum: -180C on 21 Feb 94 \n(c) Minimum Atmospheric pressure: 947 hPa on 17 Mar 94 at 63 S /11 E \n(d) Aurora australis : 06, 07 and 08 Mar 94 near 69 S / 06 E \n(e) Swell: Height of 08 M on 19 Mar 94 near 62 S / 11 E",
+      "char_count": 2130
+    },
+    {
+      "page_number": 9,
+      "text": "Analysis of Meteorological and Oceanological Situation... \n189 \nConclusions \nDuring the 13 th Antarctica expedition, typical Meteorological and \noceanological situations were encountered and experienced by the Indian Naval \nMeteorological officer have been described. The detailed experience and study \nis given with a view to act as a guide line for the future expeditions . The critical \nsituations dealt with by the Leader, Captain of the ship and Meteorological staff \nwere of total professionalism and aptness. For further detailed study on the \nvariations of Antarctic weather, it's effect on global heat exchange and in \nparticular the Indian monsoon, a continuous time series of meteorological and \noceanological observations from number of stations may therefore be necessary \nand is recommended.",
+      "char_count": 805
+    }
+  ]
+}

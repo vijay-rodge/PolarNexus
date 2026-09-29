@@ -1,0 +1,15 @@
+DOCUMENT TITLE: Bharati Antarctic Research Station - Architecture and Scientific Capabilities
+SOURCE: National Centre for Polar and Ocean Research (NCPOR), Ministry of Earth Sciences
+STATION: Bharati
+REGION: Larsemann Hills, East Antarctica (Coordinates: 69°24'28" S, 76°11'14" E)
+COMMISSIONED: March 18, 2012
+OPERATIONAL STATUS: Permanent Year-Round Research Base
+
+SECTION 1: ARCHITECTURAL DESIGN AND GREEN ENGINEERING
+Bharati is India's third Antarctic research station, commissioned in 2012 in the Larsemann Hills region of East Antarctica. Designed as a state-of-the-art modular structure built from 134 prefabricated shipping container modules wrapped in an aerodynamic insulated facade, Bharati minimizes snow drift accumulation and energy consumption. The station is equipped with combined heat and power (CHP) cogeneration units and sophisticated biological wastewater treatment systems, ensuring zero environmental discharge into the fragile Antarctic coastal ecosystem.
+
+SECTION 2: SCIENTIFIC MANDATE AND INSTRUMENTATION
+1. Coastal Boundary Layer Meteorology: High-frequency ultrasonic anemometers and radiometers measure turbulent sensible and latent heat fluxes between the Southern Ocean and the Antarctic ice sheet.
+2. Satellite Ground Station (ISRO / NRSC): Bharati hosts a critical remote sensing ground station for the Indian Space Research Organisation, tracking IRS satellites (Cartosat, Oceansat, RISAT) in polar orbits and downloading Earth observation data in real-time.
+3. Oceanographic and Cryospheric Monitoring: Continuous monitoring of sea ice extent in Prydz Bay, water mass formation, phytoplankton productivity, and ice shelf buttressing.
+4. Space Physics and Cosmic Rays: Equipped with neutron monitors and GNSS receivers to study space weather and solar particle events.

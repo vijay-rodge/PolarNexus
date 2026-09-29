@@ -1,0 +1,169 @@
+{
+  "item_id": "DSPACE-123456789-1142",
+  "title": "Chemical oceanographic studies along a section from 32°S to Antarctica in the south western Indian Ocean",
+  "authors": "Sen Gupta, R. Qasim, S. Z.",
+  "year": 2021,
+  "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+  "collection": "4]Chemistry & Environmental Studies",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/1142",
+  "total_pages": 9,
+  "total_characters": 20382,
+  "is_scanned": false,
+  "extraction_status": "completed",
+  "coordinates": [
+    {
+      "name": "Automatic Weather Station (AWS)",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "70°45'12.963\"S",
+      "dms_lon": "11°38'13.618\"E",
+      "latitude": -70.753601,
+      "longitude": 11.637116,
+      "elevation_m": 150.12,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Hut) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'12.672\"S",
+      "dms_lon": "11°55'07.263\"E",
+      "latitude": -69.986853,
+      "longitude": 11.918684,
+      "elevation_m": 35.0,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'23.119\"S",
+      "dms_lon": "11°56'26.830\"E",
+      "latitude": -69.989755,
+      "longitude": 11.940786,
+      "elevation_m": 44.25,
+      "confidence": 0.98,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-P3-1",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-1",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-2",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-3",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_3_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-4",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_4_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-4",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_4_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-5",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_5_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-6",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_6_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-7",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_7_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-8",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_8_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-9",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_9_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-10",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_10_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32°S_to_.pdf)"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Chemical Oceanographic Studies Along a Section From 32°S to\nAntarctica in the Southwestern Indian Ocean\nR. Sen Gupta1 and S. Z. Qasim2\nABSTRACT\nWater samples collected during the First Indian Expedition to Antarctica, were analysed for salinity, dissolved oxygen,\npH. phosphate-phosphorus, nitrate-nitrogen, nitrite-nitrogen and silicate-silicon. These parameters were used to identify the\nregions of polar divergence, antarctic convergence and sub-tropical convergence. Within the limits of the available data, the\nexistence of these three regions has been identified. Downward gliding of the nutrient-rich water along the continental slope of\nAntarctica was also recorded.\nThe atomic ratios of the change in A AOU: A Si: A N: A P were 285:58:19:1. A comparison of these with similar ratios\nfrom the northern Indian Ocean indicates an excess of 19% nitrate and 45% silicate in the southern Indian Ocean while the\nphosphate concentrations in both these seas were found to be quite similar. 'Reserved' fractions of phosphate and nitrate\ndecreased significantly from the antarctic waters (south of the antarctic convergence) to the sub-antarctic waters found north\nof this region. This indicates that there is an increase in the intensity of oxidation process in these areas. Similar values of\n\"reserved\" silicate in both the regions indicate their origin from the oxidation and probably from other processes. Applying an\nempirical relationship between the silicate and AOU, it was observed that the lower ranges of silicate concentration were due\nto its consumption by siliceous algae, north of the polar divergence. Negative values between the observed and the calculated\nvalues suggest a transfer of oxygen from deeper layers to intermediate layers. Oxidative ratios do not indicate any difference in\nthe rate of oxidation in the Indian Ocean region, north and south of the equator up to the zone of Antarctic convergence.\nINTRODUCTION\nThree major oceans— the Atlantic, Pacific and the Indian, have their common southern boundary in\nthe southern ocean. The region between Australia, South America and Africa girdles the globe and allows\nfree interocean circulation. This region promotes processes that equalize the characteristics of the three\nmajor oceans. Because of the importance of these processes and almost similar climatic conditions\nprevailing in the circumpolar zone, the sea is often given a separate name: the 'Antarctic Ocean',\n'Antarctic Seas', or 'Southern Ocean(s)'. However, this ocean lacks a northern boundary in the classical\nsense, and hence its limit is arbitrarily fixed at a latitude marked by oceanographic processes such as\na convergence or divergence.\nFor the purpose of the present study, we simply call the waters within this zone as the antarctic waters.\nSuch a general term is used simply to identify the waters from the coasts of Antarctica northward up to the\npoint of antarctic convergence. This region will also include the narrow belt of polar divergence near the\nantarctic coast. The water between the antarctic convergence and the subtropical convergence is the\nsub-antarctic waters. This term is best applied to the surface layers of this zone, since the intermediate,\ndeep and bottom layers become more or less continuous across the antarctic convergence.\nAlmost all of the deep and bottom water masses of the three oceans originate in the antarctic\nwaters. Perhaps, for this reason a number of reports of physical oceanographic, characteristics of the\nsouthern^ ocean are available. Similarly, because of the importance of \"krill\" and its phenomenal\nabundance south of the antarctic convergence, a number of reports on the biology of southern ocean\nhave also appeared.\nClowes (1940) was the first to report on some aspects of the chemistry of the southern ocean from the\ndata collected during the 'Discovery' cruises. Several other reports (Jacobs 1966; Jacobs and Amos 1967)\n1 National Institute of Oceanography, Dona Paula, Goa - 403 004.\n2 Department of Ocean Development, South Block, New Delhi - 110 011.\n69",
+      "char_count": 4054
+    },
+    {
+      "page_number": 2,
+      "text": "Chemical Oceanographic Studies,..\nappeared on some hydrochemical aspects, mainly from the regions of Weddell Sea of the southern ocean.\nThe first comprehensive report of the hydrochemistry of the Indian Ocean sector of the southern ocean is\nby Ivanenkov and Gubin (1960) based on the 'Ob' cruises of 1956. Most of the analytical method, used by\nthem, have since been refined and improved. The most recent record of the chemical observations in this\nregion is by Jacobs and Georgi (1977) from the 'Conrad' cruises of 1974. Thus, it is obvious, that there\nexists a big gap in our knowledge about a comprehensive picture on the hydrochemistry of the southern\nocean.\nUsing the opportunity provided by the First Indian Expedition to Antarctica by the ship M.V. 'Polar \nCircle', several stations along a NE-SW transect from 69°S to 32°S in the southwestern Indian Ocean\nwere worked. This paper gives a report on a few chemical parameters. Our findings are of a preliminary\nnature and we do not propose any definite and far-reaching conclusions from the data,\nMATERIAL AND METHODS\nWater samples were collected at 17 stations (Fig. 1) using 2 litre Niskin-type water samplers up to a \ndepth of 2000 m. Due to technical difficulties, depths greater than 2000 m could not be generally sampled.\nParameters analysed on board were dissolved oxygen, pH, phosphate-phosphorus, nitrate-nitrogen,\nnitrite-nitrogen and silicate-silicon using the methods outlined by Grasshoff (1976).\nRESULTS AND DISCUSSION\n(a) \nHydrography\nThe area covered by the transect includes the antarctic divergence, antarctic convergence and\nsub-tropical convergence.\nThe main flow of the circumpolar current around the antarctic continent is zonal, westward south of\nthe antarctic divergence and eastward north of the divergence (Mosby 1934; Deacon, 1937). The surface\nand bottom water masses are of antarctic origin, in that their characteristics are acquired south of the\nantarctic convergence (Gordon, 1967). Their northward and downward components of motion are\ncompensated by a southward and upward flowing deep water mass (Gordon, 1971). The results of this\nimportant meridional exchange indicate that heat and nutrients are brought to the surface of the antarctic\nwaters from the lower latitudes and the oxygen content of the deeper water of the entire region is\nreplenished. Such a process involves heat flux from the ocean to the atmosphere and a high rate of\nbiological productivity in the photic zone which maintain proper conditions for the generation of living\norganisms in deeper waters and the establishment of low temperatures in the deep ocean.\nTo examine some of these characteristics, we plotted the iso-lines of several parameters e.g. salinity,\nphosphate-phosphorus, nitrate-nitrogen and silicate-silicon (Figs. 2-5). Nitrite-nitrogen was almost ab-\nsent except in the surface layers where its concentration varied from 0.03 to 0.39 /xg-at/1. Higher values\nwere seen south of the antarctic divergence. At the region of the sub-tropical convergence (stn.\nGl7), the nitrite concentrations ranged from 0.53 - 0.71/xg-at/1 in the upper 100 m of the water\ncolumn. Oxygen saturation ranged from 62% at about 4000 m depth to approximately 96% at 100 m.\nSuper-saturation was observed at the surface. Occasional low values of 53-59% were recorded in the\nv samples collected between 1000-1500 m depth range. We omitted these two parameters from our\nevaluation as it was felt that they may not have much influence in the identification of water masses.\nFigure 2 gives the iso-halines. The upward movement of the high-saline water was seen south of\n60°S. North of this latitude to about 45°, a downward movement of this water was observed. From\n45°S to about 32°S, there was a clear indication of the water masses to move downward. These\nobservations indicate the existence of the antarctic divergence, antarctic convergence and sub-\ntropical convergence in the three regions. Below 1000 m depth, the high salinity water indicates the\nflow of sub-antarctic waters. A study of the water masses along this section, using salinity (S),\n70",
+      "char_count": 4103
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 4,
+      "text": "Chemical Oceanographic Studies...\niooo4\nSALINITY %.\nScale I-I85OO0OO\nFig. 2 : Isohalines along the sections.\nIOO<H\nI\npo4- P hg-ot/i \nseal, hissooooo\nFig. 3 : Isopleths of phosphate-phosphorus along the section.\n72",
+      "char_count": 213
+    },
+    {
+      "page_number": 5,
+      "text": "...R. Sen Gupta and S. Z. Qasim\npotential temperature (0°C)and potential density (o-o)has been presented in this report by Rama Raju\nandSomayajulu.\nIsopleths of phosphate-phosphorus (Fig. 3) give an interesting picture. From Fig. 3 it can be\nseen that there is a mixed layer varying in depth from 400 m at the stn. 8 to about 1000 m at stn. 4.\nThis is probably the antarctic water formed by thermohaline convection during the winter. With the\napproach of summer conditions, the depth of mixed layer decreases northwards, away from the\nAntarctic continent and probably ends up where upwelling occurs in the region of polar divergence.\nNorth of 60°S, a clear sinking was observed all the way up to the station G17. This region probably\ncovers the zones of antarctic convergence and sub-tropical convergence. Fig. 3 also indicates that the\nconcentration of phosphate-phosphorus, at about 1000 m depth, decreases as we move away from the\nantarctic continent (from 1.8 to 1.6 /i.g-at/1). This is probably because of the presence of different\nwater masses at this depth. Lower concentrations of phosphate-phosphorus has been recorded below\nthe 1400 m depth in the antarctic convergence. This is probably the water of sub-antarctic origin\nwhich flows southward.\nThe isopleths of nitrate-nitrogen (Fig. 4) and silicate-silicon (Fig. 5) give almost a similar picture as\nthat of the phosphate-phosphorus. There are trends of upward movement of water south of the divergence\nand downward movement in the regions of the convergence and also north of it. Decreasing concentrations\nDf phosphate-phosphorus have been noticed at the intermediate depths as we move away from the shores\n3f the antarctic continent. However, in some of these situations, (Figs. 4 & 5), there appears to be the\nabsence of the sub-antarctic water. Presumably the regeneration intensities of nitrate-nitrogen and\nsilicate-silicon also differ. Nitrate-nitrogen undergoes processes of oxidation-reduction in the water\n:olumn while silicate-silicon gets added by sources other than nutrient regeneration. High concentrations\n:>f these two nutrients at depths of about 1000 m at the southernmost stations probably, indicate\ni downward gliding of nutrient-rich water as we move away from the antarctic continent.\nFrom the Figures 2-5 we can infer that in the area studied the polar divergence occurs between 60°\nand 63°S. The antarctic convergence is present in the region slightly south of 52°S, as indicated by the\nlines of downward movement. The antarctic convergence is a very prominent but arbitrary line of\ndemarcation varying in its boundary from 48°S to 52°S in the vicinity of the antarctic continent (Gordon,\n1967). Similarly we can also locate the boundary of the sub-tropical convergence in this region south of\nU°S.\n!b) \nNutrient Relationships\nThe inter-relationships between the 'Apparent Oxygen Utilization' (AOU) and the nutrients were\n:alculated by applying the linear least-square regression. The results (by atoms) obtained are as follows:\nA AOU: A P \n= \n285:1 \n(1)\nA AOU: A N \n= \n15:1 \n(2)\nA N : A P \n= \n19:1 \n(3)\nA Si: A P = \n58:1 \n(4)\nTherefore, the consolidated atomic ratios of change in water becomes:\nA AOU : A Si : A N : A P = 285 : 58 : 19 : 1 \n(5)\nThe relationships obtained for the northern Indian Ocean (Sen Gupta et al, 1976) were:\nA AOU : A Si : A N : A P = 280 : 40 : 16 : 1 \n(6)\nA comparison of the equations (5) and (6) indicates a significant difference between the ratios of\nsilicate and nitrate in the southern Indian Ocean. This is, evidently, due to the presence of an excess of\nsilicate and nitrate. In fact, silicate concentration in the Indian Ocean has been previously stated to be the",
+      "char_count": 3686
+    },
+    {
+      "page_number": 6,
+      "text": "Chemical Oceanographic Studies...\n2600-\nNOj-N \nU g - o t / i\n3COM! I i 18 500000\nSUM\nFig. 4 : Isopleths of nitrate-nitrogen along the section.\ni5«*\n41 14\nIS\n-NE\nit\n5004\njoooJ-\nSioJ-Si Kg -ol/1\nS«oli 1:18900000\nFig. 5 : Isopleths of silicate-silicon along the section\n74",
+      "char_count": 269
+    },
+    {
+      "page_number": 7,
+      "text": ". . . x x . ..ii_n v j u u i a a i i u *J. £-*. v ^ a o i i u\nhighest in all the oceans of the world (Sen Gupta et al, 1976). Calculations based on the relationship\nbetween A N: A P and A Si: A P in the equations (5) and (6) indicate 19% excess of nitrate and 45%\nexcess of silicate in the waters of the southern Indian Ocean as compared to those of the northern Indian\nOcean. However, no excess of phosphate was observed in the southern Indian Ocean as the\ndifference between A AOU: A P in both the regions can be considered to be within the limits of the\nstatistical and analytical errors.\nHigher concentrations of nutrients are to be expected in the waters south of the antarctic converg-\nence, largely because of the presence of polar divergence and the melting of the ice. We, therefore,\ndivided our area of study as south of 52°S and north of it upto 32°S. Concentrations of phosphate-\nphosphorus, nitrate-nitrogen and silicate-silicon were separated in their 'oxidative' and \"reserved'\nfractions by applying the ratios indicated in the equation (5). The averages of all the values at all the depths\nand the stations are presented in Table 1.\nTABLE 1 \nA verage values of nutrient fractions (in fig-at/l) at all the stations \nfrom surface to a maximum depth of 2000 m. \nFrom Table 1 the 'reserved' fraction of phosphate, can be worked put. The phosphate fraction gets\nreduced from 52%, of its total concentration in the region south of 52°S, to 47% towards north of this\nlatitude. The nitrate fraction shows a remarkable decrease. Along south of 52°S, Nr was 36% of its total\nconcentration, while towards north of the latitude Nr becomes negative. This indicates its consumption\nand the intensity of its oxidation in the water column. At almost all the stations in the zone of sub-tropical\nconvergence, nitrate was absent in the topmost 100 metres layer. Oxygen concentrations were found to be\nlow at the mid-depth. This indicates the intensity in the process of oxidation of organic matter. The\ninclusion of all these values of nitrate in the calculation has resulted in the negative Nr values given in\nTable 1.\nThe ' Reserved' fractions of silicate-silicon were found to be almost similar in both the regions (87% of\nthe total concentration along south of 52°S and 89% north of it). Such a similarity would indicate that\nsilicate is added to the water by processes other than oxidation of organic matter. In absolute values,\nSiox was found to be high in the colder waters because of the presence of large quantities of siliceous algae.\nIn an earlier work, Sen Gupta et al (1976) deduced the following relation between silicate and AOU:\nAOU = 32 + Si2/(0.12065 + 0.01025 Si + 0.00197 Si2) \n(7)\n75\nFraction\nAll values\nP \n1.52\nPox\nPr\nN\nNox\nNr\nSi\nSiox\nSir\n0.75\n0.77\n19.4\n14.2\n5.2\n58.6\n5.4\n53.2\nSouth of 52°S\n1.72\n0.83\n0.89\n24.4\n15.6\n8.8\n75.2\n9.6\n65.6\n52°S—32°S\n1.14\n0.61\n0.53\n10.2\n11.7\n-1.5\n27.9\n3.0\n24.9",
+      "char_count": 2907
+    },
+    {
+      "page_number": 8,
+      "text": "Chemical Oceanographic Studies...\nThis relation was obtained taking into account, the values of both the variables from the northern Indian\nOcean. Using the equation (7) and the values obtained from the southern Indian Ocean, it is possible to\ndetermine the qualitative similarities or differences in the water characteristics of the northern and\nsouthern parts of the Indian Ocean. Thus the silicate values were pooled and averaged first in each\n5 p.g-at/1 intervals upto a concentration of 10 Mg-at/1 and then into each 10 /xg-at/1 intervals up to the\nmaximum observed values. The corresponding values of AOU were also pooled and averaged in a similar \nfashion.\nThe results obtained, including the differences between the observed and calculated values of AOU\nand the corresponding values of'reserved' fractions of silicate (calculations based on equation 5) are\npresented in Table 2 for the entire range of concentrations.\nTABLE 2 \nObserved and Calculated Values of Silicate and AOU and 'Reserved' Silicate \nin Different Ranges of Silicate (all values in ^g-atll) \nRange\n0— \n5 \n5— 10\n10— 20\n20— 30\n30— 40\n40— 50\n50— 60\n60— 70\n70— 80\n80— 90\n90—100\nSi\n3.6\n7.4\n19.3(2)\n24.1\n33.1\n47.9\n53.5\n64.7\n76.9\n86.4\n91.8\nAOUobs\n70\n153\n185(2)\n135\n217\n224\n242\n261\n253\n277\n291\nAOUcalc\n103\n212\n386\n416\n450\n479\n486\n495\n503\n507\n509\nAOUobs - AOUcalc\n— 33\n— 59\n—201\n—281\n—223\n—255\n—244\n—234\n—250\n—230\n—218\n(1)\nSir\n—10.4\n—23.2\n— 17.7\n— 2.9\n— 10.3\n3.1\n5.1\n12.6\n26.3\n31.0\n33.6\n(1) A AOU: A Si = 5:1 by atoms\n(2) From one value only \n\\ \nFrom Table 2 significant differences between the southern and the northern Indian Ocean can be\nobtained in the relationship between silicate and AOU. Low values of observed AOU and the negative\nvalues between the observed and the calculated values of AOU indicate a lower intensity of oxidation\nof organic matter at depths in the southern Indian Ocean as compared to northern Indian Ocean.\nThe difference between the oxidative ratios in the equations (5) and (6) would indicate almost normal\nrates of oxidation of the organic matter, as is found at depths of the other oceans. Probable explanation for\nthis could be the replenishment of the consumed oxygen from deeper waters. Also, in the northern\nIndian Ocean we have observed some silicate value at zero AOU. In the southern Indian Ocean no zero\nvalues of AOU were recorded during the present study.\n'Reserved' fractions of silicate also indicate an interesting feature. Negative values of Sir in the\nconcentration range 0-40 /xg-at/1 silicate-silicon were from the stations north of 60°S latitude i.e. far north\nof the region of polar divergence. All these low values were from the upper 100 - 50 metres of water.\nThis probably indicates the consumption of silicate by siliceous algae without its being concurrently\nreplenished by external sources.\n76",
+      "char_count": 2818
+    },
+    {
+      "page_number": 9,
+      "text": "...R. Sen Gupta and S. Z. Qasim\nThe conclusions drawn in this report are of a preliminary nature as the data were obtained from\n17 stations only. These were somewhat widely spaced and were worked only upto 2000 m depth and along\na single transect. Many more observations at a network of stations covering a large area and the entire\ndepth of water are needed to substantiate or modify the conclusions drawn above.\nACKNOWLEDGEMENTS\nWe wish to thank our colleagues in the National Institute of Oceanography, for their help.\nREFERENCES\nClowes A. J. 1940\nDeacon G. E. R. 1937\nGordon A. L. 1967\nGordon A. L. 1971\nGrasshoff. K. 1976\nIvanenkov V.N. and\nF. A. Gubin I960\nJacobs. S. 1966\nJacob S. S. and\nA. Amos 1967\nJacobs. S., and\nD.T. Georgi 1977\nMosby H. 1934\nRaju. D. V. R. and\nY. K. Somayajulu 1983\nSen Gupta R..\nM. D. Rajagopal and\nS. Z. Qasim 1976\nPhosphate and Silicate of the Southern Ocean.\nDiscovery Reports, 19, I — 120.\nThe hydrology of the Southern Ocean.\nDiscovery Reports, 15, 1 — 124.\nStructure of Antarctic waters between 20°W and I7()\"W.\nAmerican Geographical Society, Antarctic Map Folio Series, Folio 6, I — 10, 14 plates.\nOceanography of Antarctic waters.\nAntarctic Oceanology, Antarctic Research Series. 15, American Geophysical Union, \n169 — 203.\nMethods ofseawuter analysis. \nVerlag Chemie. Weinheim. 326 pp.\nWater masses and hydrochemistry of the western and southern parts of the Indian Ocean\nTransactions of the Marine Hydrophysical Institute. Academy of Sciences, USSR, 22, 27 — 99.\nPhysical and chemical oceanographic observations in the Southern Ocean, USNS Ellainn cruises\n16 — 21. 128 pp.\nTech. Rept. I-CU-I — 67, Lamont-Doherty Geological Observatory, New York.\nPhysical and chemical oceanographic observations in the Southern Ocean.\nUSNS Eltanin cruises22-27,287 pp..\nTech. Rept. I-CU-I—67, Lamont-Doherty Geological Observatory, New York.\nObservations on the southwest Indian/Antarctic Ocean.\nIn A voyage of discovery, editor M. Angel, 43-84, Pergamon Press, London.\nThe waters of the Atlantic Antarctic Ocean.\nScientific Results, Norwegian Antarctic Expedition, II, 1 — 131.\nSome physical characteristics of the Antarctifc and Western Indian Oceans (in this volume) \nRelationship between dissolved oxygen and nutrients in the northwestern Indian Ocean.\nIndian Journal of Marine Sciences, 5, 201 —211.\n77",
+      "char_count": 2332
+    }
+  ]
+}

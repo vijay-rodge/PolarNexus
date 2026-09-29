@@ -1,0 +1,533 @@
+=== Page 1 ===
+Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 
+Department of Ocean Development, Technical Publication No. 17, pp 47-64 
+Albedo Studies in Antarctica
+Mahender Kumar
+Snow & Avalanche Study Establishment, Manali
+Introduction
+In polar region, where vast stretches of snow and ice are available,
+difference in Albedo values of different surfaces and sea water results in
+differential heating and leads to local (katabatic winds) and global (upper
+westerlies) atmospheric circulation. The atmospheric circulation model
+thus requires Albedo of snow/ice medium and its variation with different
+physical parameters as an essential component. Estimation of different
+radiative energy flux e.g. short and long wave, latent and sensible heat
+energy fluxes also require detailed understanding of Albedo of snow. This
+makes the study of Albedo in different mediums imperative in Antarctica
+for development of any atmospheric circulation model. Apart from the
+atmospheric circulation modeling approach, Albedo also plays a significant
+role in estimation of snow ablation rates. The estimation of mass balance
+of Antarctic ice sheet through remote sensing also requires a detailed
+understanding of ground Albedo measurements and its seasonal variation,
+with various meteorological parameters for snow.
+The Albedo, (i.e. ratio of reflected to the incident short wave solar
+radiation) of any surface, controls the amount of radiative energy being
+reflected backward thereby 
+Snow is the brightest substance of considerable extent on the surface of
+our planet and because of its high Albedo compared to other natural surfaces,
+seasonal and perennial snow cover plays significant role in the global energy
+balance. The connection between snow Albedo and climate has long been
+recognized as an important feedback mechanism. The snow Albedo
+feedback mechanism is looked upon as a positive feedback that occurs
+when warmer temperatures reduce the snow covered area, revealing a darker
+substrate and promoting increased radiative heating.
+To the human eye, the vast Antarctic ice sheet gives the impression of
+homogeneity. However, large seasonal fluctuations in surface climate at
+these high latitudes create substantial changes in surface energy balance.
+
+--- Page Break ---
+
+=== Page 2 ===
+Mahender Kumar 
+48
+Although snow/ice Albedo has been identified as a sensitive boundary
+condition in general circulation models (GCMs), most of the current GCMs
+have been using simplistic representation of Albedo that vary only as
+functions of latitude and air temperature. The more physically based
+treatment of snow/ice Albedo takes into account changes in snow grain
+size and type, age of snow pack, liquid water content, solar zenith angle,
+cloud amount and type and light absorbing impurities in the snow. These
+parameters are coupled with each other and individual factor quantification
+has not yet been achieved. The current study aims at bridging these gaps
+as well as estimating the changes in surface energy balance in different
+snow/ice media. Keeping this in view, attention was focused on studying
+the variation in snow-met parameters, radiative fluxes, short-wave
+reflectance (Albedo) and surface energy balance over a part of the Dronning
+Maud Land, East Antarctica. This report examine and compares physical
+processes and the factors controlling Albedo over the continental shelf
+covered with thick layer of high density snow with that over the blue-ice
+(continental ice).
+Aim of Albedo Studies in Antarctica
+The Albedo studies were aimed at the following objectives:
+(a) To Albedo dependence of snow Albedo on the following param-
+eters:
+(1) Cloud amount & cloud type
+(2) Snow surface wetness
+(3) Solar elevation angle
+(4) Age of snow.
+(b) Determinations of Albedo distribution over various parts of ice shelf,
+continental ice & snow medium . 
+(c) To determine the magnitude of energy exchange in different snow/
+ice medium.
+Theory of Radiative Energy Exchange Between Snow/Ice Surface
+and Atmosphere
+Consider a snow/ice-covered surface. If there'is no horizontal transport
+of heat, conservation of energy requires that, at any point on the surface-at
+any instant.
+B = S + L + H + LE + Qg +Qp - dU/dt
+
+--- Page Break ---
+
+=== Page 3 ===
+Albedo Studies in Antarctica 
+49
+Where
+B = net flux into or out of the surface
+C = net short-wave energy absorbed by surface
+L = net long-wave energy radiated / absorbed by the surface
+H = sensible heat flux to the air
+LE = latent heat flux to the air
+Qg = heat flux absorbed by the surface from ground through snow/
+ground interface
+Qp = heat energy added to the surface due to precipitation in the
+form of rain
+DU/dt = change in the internal energy of the surface layer
+All these terms are measured/calculated in W/m2 and positive for
+flux toward the surface, negative for fluxes away from the surface. For this
+study the last three terms are negligible components in daily energy balance
+of a surface when compared to the other terms. Therefore, neglecting those
+terms we get
+B = S + L + H + LE
+The first two terms on the right hand side of the equation are net
+radiation budget components. They are estimated as follows : 
+Short-wave radiation:
+The short-wave radiation reflected from the surface Sout (↑) depends
+on the amount of incident radiation Sin (↓) and the surface Albedo a.
+Considering the fact that snow surface is opaque to short-wave radiation,
+the portion of Sin(↓) that is not reflected is absorbed; so the net short-wave
+radiation (S) is given as
+S = Sin(↓)(l-ά)
+Long-wave radiation : 
+Net long-wave radiation is the difference between incoming radiation
+from the atmosphere and emitted radiation from the snow surface. The
+snow-surface is considered almost a black body, as Dozier and Warren
+(1982) have noted, "in the infrared wavelengths, snow is one of the blackest
+substances on earth". Thus, outgoing long wave radiation, Lout, can be
+calculated using the Stefan-Boltman low ; 
+Lout = ЄS σ TS
+4
+
+--- Page Break ---
+
+=== Page 4 ===
+Mahender Kumar 
+50
+Where Єs is the emissivity of the snow/ice surface with a value close
+to one; σ is the Stefan-Boltzman constant and Ts is the surface temperature.
+Incoming long-were radiation will depend on the temperature and
+composition of the overlying atmosphere and is calculated following a 
+model developed by Prata (1996). This model computes emissivity of the
+atmosphere depending on perceptible water content and performs w e l l in
+the limit of a dry atmosphere.
+Lout ={l-(l+w) exp (- (1.2 \+ 3.0w)l/2} σ Ta
+4
+If N is the amount of cloudiness, then
+Lout = σ[{l-(l+w) exp (- (1.2 \+ 3.0w)l/2} Ta
+ 4 - Єs σ Ts
+4 ] 
+[l-kN/8]
+Where k is a constant and depends on type and height of cloudiness.
+K = 0.76 
+for 
+low and thick clouds
+= 0.52 
+for 
+medium clouds
+= 0.26 
+for 
+high clouds
+Turbulent energy exchanges : 
+Transportation of heat and moisture in the atmospheric surface s u b -
+layer are governed primarily through turbulent motion. This transport g i v e s
+rise to two forms of energy flux between the air and the snow/ice surface : 
+Sensible heat flux (H) which is the direct transport of heat energy a n d
+Latent heat flux (LE) which is the transport of heat through the phase change
+of water. These fluxes play an important role in determining the rate of
+sublimation/melt form the surface. Turbulent fluxes are estimated u s i n g
+the bulk transfer approach with corrections for atmospheric stability.
+The Sensible and latent hear flux are given by
+H = CpDpu(Ta Ts)
+LE = (0.622 p/P)LvU(ea es)
+D = k2/[In(za/z0)]2
+Where
+p = density of air
+Cp = specific heat of air
+Lv = latent heat of vaporization
+za = height above the snow surface where measurement is made
+z0 = surface roughness parameter
+
+--- Page Break ---
+
+=== Page 5 ===
+Albedo Studies in Antarctica 
+51
+D = bulk transfer coefficient for sensible and latent energy
+transport
+Ta & Ts = temperatures of air and surface and at measurement height
+respectively
+ea & es = vapour pressures at the surface and at measurement height
+respectively
+u = wind speed at measurement height
+k = von Karman's constant
+The bulk transfer equations are valid only for neutral atmospheric
+conditions. However, in actual case the atmosphere is seldom neutral. In
+that case appropriate stability corrections are applied for the transfer
+coefficient d. One of the common form of correction that is applied is
+based on Price and Dunne, 1976, using the Richardson number R. Based
+on theory, for stable conditions (R1>0), transfer coefficient is
+Ds = D/(l+ 10Ri)
+Under unstable conditions (R1>0), the transfer coefficient can be modified
+by
+Du = D/(l+ 10Ri)
+These correction factors have been used by other workers (Hong 1992)
+with reasonable accuracy. Hence it has been decided to use these correction
+terms in this work. All the required snow-met (nine in all) are given as
+input in the form of an input file (hourly basis and a program executes
+them.
+Instrumentation and Location of Measurements Sites
+For recording the continuous radiation data, Automatic weather
+stations were installed during austral summer of the 18th expedition. The
+AWS were set up at locations 70°05'S, 12°E over continental shelf and
+70°45'52"S, 11°44'3"E over the blue ice. But during the 19th expedition,
+the AWS at continental shelf was not functioning; so manual data was
+recorded there. At both the locations the surrounding topography is almost
+flat and measurement sites are completely unshaded, so the affect of slope
+and aspect on the topoclimate are minimized.
+The Sutron 8210 series data logger was used in the AWS, which has
+a wide range of inputs, designed to support the most common snow and
+met data collection applications. The system consists of Data Collection
+Platform (DCP) and various snow and meteorological sensors. The DCP
+acquires data after a predefined interval from different sensors. At the end
+
+--- Page Break ---
+
+=== Page 6 ===
+52
+Mahender Kumar 
+of every hour, this data is processed and stored locally. All the electronic
+components of the DCP are capable of operating up to ~40°C under e x t r e m e
+weather conditions. Salient features include ; 
+• PCMCIA memory card slot for data of programming storage.
+• Dedicated external RS-232 serial port for programming and data
+retrieval.
+• Field programmable flash EPROM's via the use of PCMCIA p o r t .
+The AWS is equipped with the following sensors : 
+• Ambient temperature
+• Relative humidity
+• Wind direction and wind speed
+• Atmospheric pressure
+• Snow depth
+• Albedometer (upward and downward looking pyranometers)
+• Snow surface temperature
+Power is supplied by a solar panel combined with heavy-duty l o w
+temperature batteries. The entire assembly including the data l o g g e r ,
+sensors, battery and solar panel are mounted on a triangular mast o v e r t h e
+snow or ice surface.
+Results and Discussion
+Meteorological Conditions
+Figure 1(a) shows the daily variation of ambient temperature a n d
+surface temperature over blue ice for the period of February to April 2 0 0 0 .
+The measured average ambient temperature was -9.9°C and the a v e r a g e
+surface temperature was -10.1°C. The variation pattern shows that a s h a r p
+rise in average air temperature corresponds to fair weather, followed by a 
+drop in air temperature corresponding to bad weather days. Average s u r f a c e
+temperature was lower than average air temperature for all months e x c e p t
+February 2000. This is because of longer period of unstable stratification
+caused by strong radiative heading of ice surface during month of F e b .
+Figure 1(b) shows the daily variation of average relative h u m i d i t y
+and average wind speed for the period of February to April 2000. 
+T h e
+average relative humidity for this period was 55.1%, maximum RH w a s
+85.4% and minimum RH was 38.6%. the average wind speed for the p e r i o d
+of Feb. to April 2000 was 6.57 m/sec and the highest average wind s p e e d
+was 7.1 m/sec in the month of April.
+
+--- Page Break ---
+
+=== Page 7 ===
+Albedo Studies in Antarctica 
+53
+Fig. 1 (a): Daily average variation of ambient temperature & surface 
+temperature over blue ice for the period of Feb-Mar-Apr 2000 
+Fig. 1(b): Daily average variation of relative humidity & wind speed over blue 
+ice for the period of Feb-Mar-Apr 2000 
+RH (%), WS (m/sec)
+ST,AT (Deg C)
+
+--- Page Break ---
+
+=== Page 8 ===
+54
+Mahender Kumar 
+Radiation Characteristics
+We define an effective transmissivity of the atmosphere (Terr) as the
+ratio of daily totals of incoming short wave radiation and extraterrestrial
+radiation I on a horizontal surface:
+τ
+ e r r = S i n ( ↓) / l
+Fig. 2 (a): Daily albedo variation over blue ice for the period of 
+Feb-Mar-Apr 2000 
+Julian Days
+Fig. 2(b): Comparison of daily albedo variation over blue ice for the period of 
+Feb-March 1999 & 2000
+
+--- Page Break ---
+
+=== Page 9 ===
+Albedo Studies in Antarctica 
+55
+Fig. 3: Mean daily variation of albedo values over blue ice for clear sky 
+(0 to 1 acta) conditions and complete overcast conditions (7 to 8 octa) 
+The result of number of atmospheric processes, that is scattering and
+absorption of solar radiation by air, aerosol and cloud is included in Ten-
+Comparison of daily mean values of Sin (↓) for Feb. and March 1999 & 
+2000 over blue ice are plotted in Figure 5, together with extraterrestrial
+irradiance, I. τerr varies between 0.2 to 0.87, having a mean value of 0.64
+(Figure 6).
+
+--- Page Break ---
+
+=== Page 10 ===
+56
+Mahender Kumar 
+Albedo Over Continental Ice
+Albedo is defined as the ratio of daily amount of reflected solar
+radiation to the daily insolation. This differs from the daily mean Albedo,
+which mean of all instantaneously determined Albedo values over during
+day light. However, when the solar elevation angle is very low, this quantity
+may be influenced greatly by instrumental errors. In view of this we will
+concentrate on daily Albedo for analyzing measurements.
+Figure 2(a) shows the daily Albedo variation over blue ice for the
+period February to April 2000. While the Fig. 2(b) shows the comparison
+of daily Albedo variation over blue ice for the period of February-March
+1999 & 2000.
+Albedo Variation with Cloud Amount
+The Albedo values are found to increase with the increase in the cloud
+amount, as shown in the Figure 3. The increase in Albedo can be attributed
+to the fact that cloud absorbs a larger part of infrared than visible radiation.
+Thus, a relatively larger portion of visible radiation reaches t h e surface
+under cloudy condition. Since the Albedo in the visible range is very high
+compared to near IR Albedo, an increase in surface Albedo is to be expected
+during overcast conditions. Figure 4(b) shows the variation for daily Albedo
+with mean daily cloud amount (values are averaged as a function of cloud
+amount).
+Fig. 4(a): Albedo variation with cloud amount over blue ice. Feb-March 2000 values 
+are averaged as a function of cloud amount
+
+--- Page Break ---
+
+=== Page 11 ===
+Albedo Studies in Antarctica 
+57
+Fig. 4(b): Albedo variation with atmospheric transmitivity. Feb-March 2000 
+values are averaged as a function of atmospheric transmitivity 
+Figure 4(b) shows the Albedo variation with atmospheric transmis-
+s i v i t y (values are averaged as a function of atmospheric transmissivity).
+Fig. 5: Daily mean values of insolation and extra terrestrial radiation 
+over blue ice during Feb-March 1999 & 2000
+
+--- Page Break ---
+
+=== Page 12 ===
+58 
+Mahender Kumar 
+Surface Energy Balance
+The full energy balance was calculated on an hourly basis. Aside
+from being physically more correct than a daily calculation, the hourly
+calculation of the turbulent fluxes has a hidden bonus. This is because the
+temperature sensors show a clear sign of radiation heating; temperatures
+Fig. 6: Atmospheric transmitivity variation with cloud amount. Feb-March 2000 
+values are averaged as a function of cloud amount 
+Fig. 7: The relationship between net radiation and estimated latent heat flux 
+(sublimation) based on average diurnal values for February 2000
+
+--- Page Break ---
+
+=== Page 13 ===
+Albedo Studies in Antarctica 
+59
+rise quickly if wind speed drop below 1.5 m/sec. This caused some concern
+until it was realized that, even if the temperature is erroneously high for a 
+particular hour, it is multiplied by a correspondingly low wind speed for
+the same hour so that the resulting error in sensible heat, averaged over the
+day will be small because the largest contributions come from hours with
+relatively high wind speeds. The hourly values of computed energy balance
+are summed into daily totals and averaged for the period February to April
+2000.
+Table 1 shows the values of the energy balance components for the
+period of Feb. to March, April and average. Table 2 shows the comparison
+of the energy balance components for the period of February & March
+1999 & 2000.
+Table 1: Energy balance results over blue ice
+(Analysis period: February to April 2000)
+Energy balance components
+Qsw (W/sq m)
+Qlw (W/sq m)
+Rnet (W/sq m)
+H (W/sq m)
+LE (W/sq m)
+B (W/sq m)
+Feb
+85.77
+-52.32
+32.66
+-13.84
+-47.8
+-28.97
+March
+41.94
+-39.60
+1.0
+1.15
+-25.35
+-23.19
+April
+10.64
+-31.81
+-22.92
+29.20
+-22.37
+-16.50
+Average
+47.54
+-41.64
+4.63
+4.72
+-32.48
+-23.12
+Table 2: Comparison of energy balance components over blue ice
+(Analysis period-February & March 1999 & 2000)
+Energy balance components
+Qsw (W/sq m)
+Qlw (W/sq m)
+Rnet (W/sq m)
+H (W/sqm)
+LE (W/sqm)
+B (W/sqm)
+1999
+60.4
+-43.9
+16.5
+-6.3
+-59.3
+-49.2
+2000
+64.6
+-46.2
+17.4
+-6.6
+-37.0
+-26.2
+
+--- Page Break ---
+
+=== Page 14 ===
+60 
+Mahender Kumar 
+Time series of net short wave and net long wave fluxes for t h e period
+of Feb. to April are shown in Figures 8a and 8b respectively. It c a n be
+clearly seen that short wave budget steadily decrease from 85.77 Wm-2 in
+Feb to 41.94 Wm-2 in March and 10.64 Wm-2 in April with average values
+of 47.54 Wm-2 for the period of Feb to April. There is a decreasing trend
+in long wave budget. In Feb it was -52.32 W-2 decreased to - 3 9 . 60 Wm-
+2 in March and -31.81 Wm-2 April with average value of -41.64 Wm-2
+the period of Feb to April 2000.
+Fig 8: Time series of surface energy budget components-
+la) Net short wave radiation, (b) Net long wave radiation for 
+the period of February, March and April 2000
+
+--- Page Break ---
+
+=== Page 15 ===
+Albedo Studies in Antarctica 
+61
+The average net radiation was positive (flux towards the surface)
+during the late summer period and changes sign in the month of April. The
+time series of net radiation for the period of Feb to April is shown in Figure
+8c. The average value for February was 32.66Wm-2, it was reduced to 1.0
+Wnr- 2 in March and -22.92Wm-2 in April with the average value of
+4.63Wm-2 for the period of Feb to April.
+The sensible heat flux also changes sign and shows an increasing
+trend between seasons. The time series of heat flux for the period of Feb to
+April is shown in Figure 8d. In Feb average value was-13.84 Wm-2 (flux
+Feb-March-April (1896 Hourly observation)
+Fig. 8: Time series of surface energy budget components— (c) Net radiation, 
+(d) Sensible heat flux for the period of February, March and April 2000
+
+--- Page Break ---
+
+=== Page 16 ===
+62 
+Mahender Kumar 
+Fig. 8: Time series of surface energy budget components—(e) Latent heat flux, 
+(f) Net surface energy budget for the period of February, March and April 2000 
+away from the surface) while in March it was slightly p o s i t i v e ; 1.15
+Wm2 and increased to 29.20 Wm-2 (flux towards the surface) w i t h the
+average value of 4.42 Wm-2 for the period of Feb to April. T h e plot
+show a large positive as well as negative fluctuations, still t h e a v e r a g e
+values were small compared to fluctuations. Larger surface h e a t i n g
+causes a longer period of unstable stratification, which is i n d i c a t e d by
+a negative heat flux in February.
+
+--- Page Break ---
+
+=== Page 17 ===
+Albedo Studies in Antarctica 
+63
+Fig 9: Mean daily cycle of ice cap surface energy balance components (a) Net 
+short wave and net long wave, (b) Sensible heat flux, (c) Latent heat flux, and 
+(d) Net surface energy balance for the month of Feb 2000 
+The surface gains latent heat when atmospheric water vapour
+condenses on it and loses heat when moisture evaporates from it. Process
+of sublimation/ evaporation was found to play an important role over blue
+ice in suppressing summer ablation/melting. Latent heat flux is one of the
+dominant components of the energy balance. The time series of latent heat
+flux for the period of Feb to April. Latent heat flux was found to be negative
+for the whole period (i.e. fluxes are away from the surface) with the average
+value of-32.48 Wm-2.
+
+--- Page Break ---
+
+=== Page 18 ===
+64
+Mahender Kumar 
+The surface energy budget is the net flux into or out of the snow/ice
+surface. It might be used for phase change (melting or sublimation) or
+storage change (change of temperature of ice sheet or snow). The time
+series variation of the net surface energy budget is plotted in Figure 8f.
+The values are positive as well as negative with the average value of
+-23.12 Wm-2 for the period of Feb to April.
+The mean daily variation in each of the energy balance component is
+large and can vary considerably. The average diurnal cycle of short wave
+and long wave radiation, sensible heat flux, latent heat flux and surface
+energy budget for the month of Feb 2000 over blue ice is plotted in
+Figure 9. The peak value of the short wave radiation is nearly 217 Wm-2 at
+1300 hours and then drops to minimum at about 2000 hours. This is the
+driving force for the latent and sensible heat fluxes, which shows similar
+diurnal cycles. Latent heat varies from -35 to -70 Wm-2 with the greatest
+flux at solar noon when air temperature is greatest and therefore can drive
+the greatest vapour exchange. The surface energy budget was positive
+between 0800 hours to 1600 hours UTC i.e. surface was gaining energy
+between this period, for the remaining part of the day surface was loosing
+the energy continuously. The surface energy budget was found to fluctuate
+between 60 to -l00W m-2.
+Acknowledgements
+I would like to thank National Centre for Antarctic and Ocean
+Research (NCAOR) for providing the opportunity to participate in the
+expedition. I am grateful to the expedition Leader, Shri Arun Chaturvedi,
+and all members of 19th expedition for providing the logistic support and
+co-operation during the expedition. I also express my sincere gratitude to
+Maj. Gen. SS Sharma, KC VSM, (Retd.) Director SASE, Shri D.K. Prashar,
+Shri E.N. Sethi, Sh Ashwagosha Ganju, Dy. Directors, SASE and Sh.
+Praveen Srivastava, Scientist `C` for their kind encouragement and constant
+guidance during the course of project.

@@ -1,0 +1,19 @@
+[
+  {
+    "model_id": "MOD-polar_research_domain_classifier-1.0.0",
+    "model_name": "Polar Research Domain Classifier",
+    "version": "1.0.0",
+    "algorithm": "TfidfVectorizer + LogisticRegression",
+    "features": "Character/Word N-grams (1, 2)",
+    "metrics": {
+      "accuracy": 0.2222,
+      "f1_weighted": 0.1667,
+      "test_size": 9
+    },
+    "training_records_count": 36,
+    "training_dataset": "NCPOR Scientific Publication Corpus",
+    "artifact_path": "D:\\SIH\\PS 26063\\prototype_2\\ml\\artifacts\\domain_classifier_v1.joblib",
+    "registered_at": "2026-09-29T18:36:20.536787+00:00",
+    "status": "Production"
+  }
+]

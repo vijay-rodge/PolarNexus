@@ -1,0 +1,839 @@
+{
+  "item_id": "DSPACE-123456789-670",
+  "title": "Album of third Expedition",
+  "authors": "",
+  "year": 2007,
+  "expedition": "Album of third Expedition",
+  "collection": "Album of third Expedition",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/670",
+  "total_pages": 59,
+  "total_characters": 75760,
+  "is_scanned": false,
+  "extraction_status": "completed",
+  "coordinates": [
+    {
+      "name": "Automatic Weather Station (AWS)",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "70°45'12.963\"S",
+      "dms_lon": "11°38'13.618\"E",
+      "latitude": -70.753601,
+      "longitude": 11.637116,
+      "elevation_m": 150.12,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Hut) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'12.672\"S",
+      "dms_lon": "11°55'07.263\"E",
+      "latitude": -69.986853,
+      "longitude": 11.918684,
+      "elevation_m": 35.0,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'23.119\"S",
+      "dms_lon": "11°56'26.830\"E",
+      "latitude": -69.989755,
+      "longitude": 11.940786,
+      "elevation_m": 44.25,
+      "confidence": 0.98,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-P1-1",
+      "page": 1,
+      "file_path": "data\\media\\extracted_figures\\fig_p1_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 1 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P2-1",
+      "page": 2,
+      "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 2 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P2-2",
+      "page": 2,
+      "file_path": "data\\media\\extracted_figures\\fig_p2_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 2 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P3-1",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P3-2",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-1",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P5-1",
+      "page": 5,
+      "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 5 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-1",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P7-1",
+      "page": 7,
+      "file_path": "data\\media\\extracted_figures\\fig_p7_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 7 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P7-2",
+      "page": 7,
+      "file_path": "data\\media\\extracted_figures\\fig_p7_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 7 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P8-1",
+      "page": 8,
+      "file_path": "data\\media\\extracted_figures\\fig_p8_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 8 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P9-1",
+      "page": 9,
+      "file_path": "data\\media\\extracted_figures\\fig_p9_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 9 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P9-2",
+      "page": 9,
+      "file_path": "data\\media\\extracted_figures\\fig_p9_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 9 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P10-1",
+      "page": 10,
+      "file_path": "data\\media\\extracted_figures\\fig_p10_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 10 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P11-1",
+      "page": 11,
+      "file_path": "data\\media\\extracted_figures\\fig_p11_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 11 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P12-1",
+      "page": 12,
+      "file_path": "data\\media\\extracted_figures\\fig_p12_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 12 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P13-1",
+      "page": 13,
+      "file_path": "data\\media\\extracted_figures\\fig_p13_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 13 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P13-2",
+      "page": 13,
+      "file_path": "data\\media\\extracted_figures\\fig_p13_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 13 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P14-1",
+      "page": 14,
+      "file_path": "data\\media\\extracted_figures\\fig_p14_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 14 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P15-1",
+      "page": 15,
+      "file_path": "data\\media\\extracted_figures\\fig_p15_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 15 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P16-1",
+      "page": 16,
+      "file_path": "data\\media\\extracted_figures\\fig_p16_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 16 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P17-1",
+      "page": 17,
+      "file_path": "data\\media\\extracted_figures\\fig_p17_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 17 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P18-1",
+      "page": 18,
+      "file_path": "data\\media\\extracted_figures\\fig_p18_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 18 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P19-1",
+      "page": 19,
+      "file_path": "data\\media\\extracted_figures\\fig_p19_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 19 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P19-2",
+      "page": 19,
+      "file_path": "data\\media\\extracted_figures\\fig_p19_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 19 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P20-1",
+      "page": 20,
+      "file_path": "data\\media\\extracted_figures\\fig_p20_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 20 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P21-1",
+      "page": 21,
+      "file_path": "data\\media\\extracted_figures\\fig_p21_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 21 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P22-1",
+      "page": 22,
+      "file_path": "data\\media\\extracted_figures\\fig_p22_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 22 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P22-2",
+      "page": 22,
+      "file_path": "data\\media\\extracted_figures\\fig_p22_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 22 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P22-3",
+      "page": 22,
+      "file_path": "data\\media\\extracted_figures\\fig_p22_3_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 22 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P23-1",
+      "page": 23,
+      "file_path": "data\\media\\extracted_figures\\fig_p23_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 23 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P24-1",
+      "page": 24,
+      "file_path": "data\\media\\extracted_figures\\fig_p24_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 24 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P24-2",
+      "page": 24,
+      "file_path": "data\\media\\extracted_figures\\fig_p24_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 24 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P25-1",
+      "page": 25,
+      "file_path": "data\\media\\extracted_figures\\fig_p25_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 25 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P26-1",
+      "page": 26,
+      "file_path": "data\\media\\extracted_figures\\fig_p26_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 26 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P26-2",
+      "page": 26,
+      "file_path": "data\\media\\extracted_figures\\fig_p26_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 26 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P27-1",
+      "page": 27,
+      "file_path": "data\\media\\extracted_figures\\fig_p27_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 27 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P28-1",
+      "page": 28,
+      "file_path": "data\\media\\extracted_figures\\fig_p28_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 28 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P29-1",
+      "page": 29,
+      "file_path": "data\\media\\extracted_figures\\fig_p29_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 29 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P29-2",
+      "page": 29,
+      "file_path": "data\\media\\extracted_figures\\fig_p29_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 29 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P30-1",
+      "page": 30,
+      "file_path": "data\\media\\extracted_figures\\fig_p30_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 30 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P31-1",
+      "page": 31,
+      "file_path": "data\\media\\extracted_figures\\fig_p31_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P31-2",
+      "page": 31,
+      "file_path": "data\\media\\extracted_figures\\fig_p31_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P31-3",
+      "page": 31,
+      "file_path": "data\\media\\extracted_figures\\fig_p31_3_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P31-4",
+      "page": 31,
+      "file_path": "data\\media\\extracted_figures\\fig_p31_4_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P32-1",
+      "page": 32,
+      "file_path": "data\\media\\extracted_figures\\fig_p32_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 32 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P32-2",
+      "page": 32,
+      "file_path": "data\\media\\extracted_figures\\fig_p32_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 32 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P33-1",
+      "page": 33,
+      "file_path": "data\\media\\extracted_figures\\fig_p33_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 33 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P34-1",
+      "page": 34,
+      "file_path": "data\\media\\extracted_figures\\fig_p34_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 34 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P34-2",
+      "page": 34,
+      "file_path": "data\\media\\extracted_figures\\fig_p34_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 34 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P35-1",
+      "page": 35,
+      "file_path": "data\\media\\extracted_figures\\fig_p35_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 35 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P36-1",
+      "page": 36,
+      "file_path": "data\\media\\extracted_figures\\fig_p36_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 36 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P37-1",
+      "page": 37,
+      "file_path": "data\\media\\extracted_figures\\fig_p37_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P37-2",
+      "page": 37,
+      "file_path": "data\\media\\extracted_figures\\fig_p37_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P37-3",
+      "page": 37,
+      "file_path": "data\\media\\extracted_figures\\fig_p37_3_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P37-4",
+      "page": 37,
+      "file_path": "data\\media\\extracted_figures\\fig_p37_4_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P38-1",
+      "page": 38,
+      "file_path": "data\\media\\extracted_figures\\fig_p38_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 38 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P39-1",
+      "page": 39,
+      "file_path": "data\\media\\extracted_figures\\fig_p39_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 39 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P41-2",
+      "page": 41,
+      "file_path": "data\\media\\extracted_figures\\fig_p41_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 41 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P43-1",
+      "page": 43,
+      "file_path": "data\\media\\extracted_figures\\fig_p43_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 43 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P44-1",
+      "page": 44,
+      "file_path": "data\\media\\extracted_figures\\fig_p44_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 44 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P45-1",
+      "page": 45,
+      "file_path": "data\\media\\extracted_figures\\fig_p45_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 45 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P46-1",
+      "page": 46,
+      "file_path": "data\\media\\extracted_figures\\fig_p46_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 46 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P46-2",
+      "page": 46,
+      "file_path": "data\\media\\extracted_figures\\fig_p46_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 46 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P47-1",
+      "page": 47,
+      "file_path": "data\\media\\extracted_figures\\fig_p47_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 47 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P47-2",
+      "page": 47,
+      "file_path": "data\\media\\extracted_figures\\fig_p47_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 47 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P48-1",
+      "page": 48,
+      "file_path": "data\\media\\extracted_figures\\fig_p48_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 48 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P48-2",
+      "page": 48,
+      "file_path": "data\\media\\extracted_figures\\fig_p48_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 48 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P49-1",
+      "page": 49,
+      "file_path": "data\\media\\extracted_figures\\fig_p49_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 49 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P50-1",
+      "page": 50,
+      "file_path": "data\\media\\extracted_figures\\fig_p50_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 50 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P51-1",
+      "page": 51,
+      "file_path": "data\\media\\extracted_figures\\fig_p51_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 51 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P52-1",
+      "page": 52,
+      "file_path": "data\\media\\extracted_figures\\fig_p52_1_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 52 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P53-1",
+      "page": 53,
+      "file_path": "data\\media\\extracted_figures\\fig_p53_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 53 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P54-2",
+      "page": 54,
+      "file_path": "data\\media\\extracted_figures\\fig_p54_2_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 54 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P55-2",
+      "page": 55,
+      "file_path": "data\\media\\extracted_figures\\fig_p55_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 55 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P56-2",
+      "page": 56,
+      "file_path": "data\\media\\extracted_figures\\fig_p56_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 56 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P57-2",
+      "page": 57,
+      "file_path": "data\\media\\extracted_figures\\fig_p57_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 57 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P57-3",
+      "page": 57,
+      "file_path": "data\\media\\extracted_figures\\fig_p57_3_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 57 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P57-4",
+      "page": 57,
+      "file_path": "data\\media\\extracted_figures\\fig_p57_4_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 57 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P58-2",
+      "page": 58,
+      "file_path": "data\\media\\extracted_figures\\fig_p58_2_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 58 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P58-3",
+      "page": 58,
+      "file_path": "data\\media\\extracted_figures\\fig_p58_3_DSPACE-12345678.jpeg",
+      "caption": "Figure extracted from Page 58 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    },
+    {
+      "figure_id": "FIG-P59-1",
+      "page": 59,
+      "file_path": "data\\media\\extracted_figures\\fig_p59_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 59 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Third Indian \nAntarctic Expedition 1983-84 \nEXPEDITION ALBUM",
+      "char_count": 60
+    },
+    {
+      "page_number": 2,
+      "text": "Third Indian \nAntarctic Expedition 1983-84 \nEXPEDITION ALBUM \nPRINT NUMBER \nPRINTED 400 NUMBERED ALBUMS ONLY \nEDITED BY \nPEKKA PERIVIITA \nLAYOUT & COVER \nPEKKA PERIVIITA \nPHOTOGRAPHS BY \nSTIG MALMBERG \nPEKKA PERIVIITA \nPRINTED BY \nJALKANEN KY \nAHTARI FINLAND \n1984",
+      "char_count": 264
+    },
+    {
+      "page_number": 3,
+      "text": "Foreword \nThis Album has been published to present in words and pictures \nthe Third Indian Antarctic Expedition. The expedition was quite an \nexperience for everyone of its members. It was time for hard work \nand difficult conditions. It was time for blizzards and sunshine. It \nbrought many pleasant memories, never to be forgotten. It \nbrought many new friends. \nThe purpose of this Album is to collect all essential facts and \nthe addresses of the expedition members in one place where they \ncan be found also in the future. \nThe Album doesn't include the pictures of all the particulars \nhappened but the main features are mentioned in the diary. The \nphotographs are partly technically very poor because of the bad \nquality of the negatives. The films were developed mainly under \nrather difficult conditions during the expedition. However, I hope \nthat this Album will bring You good feeling and pleasant \nmemories. And don't forget to keep in touch with the friends you \ncame to know during the expedition! \nThis is your personal copy of the Album. It is not available in \nextra copies. All Albums are numbered from 1 to 400 which is \nthe total amount of the print. \nHereby I send my warmest thanks and appreciation for all the \nexpedition members who participated in the work to achieve this \nAlbum. Also I like to thank WARTSILA Helsinki Shipyard for \nmaking the publishing of this album possible. \nAhtari, Finland July 11 1984",
+      "char_count": 1436
+    },
+    {
+      "page_number": 4,
+      "text": "DAKSHIN GANGOTRI STATION",
+      "char_count": 24
+    },
+    {
+      "page_number": 5,
+      "text": "DR QASIM \nThe Third Indian Scientific Expedition to Antarctica was able to \nachieve all the objectives set out for it including its main task of \nerecting a permanent building for the Indian Station. Thus, \n'Dakshin Gangotri', a permanent station was built, named and \ncommissioned within one summer season. Considerable scientific \nwork and investigations were carried out in different disciplines of \nscience during the period of stay of the team in Antarctica. \nThis was possible only because of the utmost cooperation \nshown by all the members of the team including the officers and \ncrew of 'Finnpolaris' which carried the team to its destination. \nI am very glad a commemorative album is being brought out \non the various aspects of expedition. This will be very valuable \npossession for all members. I congratulate the authors for their \nvery fine effort. \nS.Z. Qasim \nSecretary \nDepartment of Ocean Development",
+      "char_count": 918
+    },
+    {
+      "page_number": 6,
+      "text": "MS FINNPOLARIS AND PENGUINS",
+      "char_count": 27
+    },
+    {
+      "page_number": 7,
+      "text": "DR HARSH GUPTA \nHaving successfully laid down the foundation of scientific research \nin Antarctica during the maiden expedition in 1981-82, and \nhaving continued this effort during the 1982-83 expedition, the \nDepartment of Ocean Development, Government of India, decided \nto launch the third expedition during the Antarctic summer of \n1983-84. To sustain continued scientific work during the winter \nmonths, it was decided to set up a Permanent Station during this \nexpedition, and this major responsibility was given to the Indian \nArmy Engineers. For other countries, which have established \nPermanent Stations in Antarctica, the construction job was \nhandled by personnel in uniform. The logistic support, in terms of \nflying was provided by the Indian Air Force and the Indian Navy. \nThere were fifteen scientists, including two lady members, drawn \nfrom some ten different Government Departments, Research \nInstitutes and Universities. The scientific programme included \nstudies in the field of meteorology, radiowave propagation, \ngeology, geophysics, oceanography, marine biology, \nmicrobiology, upper atmosphere, chemistry and glaciology. \nThis expedition had a total strength of 83 members. The ship \nchartered for the expedition, M.S. Finnpolaris, from Finnlines of \nFinland is of 'Ice Class 1A Super'. It can cut upto 70 cm thick \n'fast ice'. This 159 m long, 12.385 gross tonnage ship had been \nsuitably modified for storing and operation of the helicopters, \naccommodation of 83 team members, etc. The ship had 28 \nofficers/crew members. \nThe expedition left Goa on December 3, 1983 and returned on \nMarch 29, 1984. The stay at Antarctica was from December 26, \nHarsh K. Gupta \nLeader \n83 through March 1, 1984. Inspite of the severe weather \ncondition, and several other problems, all the aims and objectives \nof the mission were successfully completed. \nThis document, aided with a few articles, is a pictorial \ndepiction of the expedition. Photographs and addresses of the \nmembers of the expedition and officers/crew of the ship are \nuseful for future contacts. \nI would like to place on record, my appreciation and thanks to \nall who helped in successfully completing this prestigeous and \nambitious project.",
+      "char_count": 2227
+    },
+    {
+      "page_number": 8,
+      "text": "CROSSING THE LINE CELEBRATIONS.",
+      "char_count": 31
+    },
+    {
+      "page_number": 9,
+      "text": "Expedition Members \nDR HARSH GUPTA \nDirector \nRecidence: Karimparampil Blog. 2-2444 \nPattom Trivandrum 695004 \nTel: (0471) 68176 \nOffice: \nCentre for Earth Science \nStudies, Sasta Mangalam, \nTrivandrum 695010 \nTel: (0471) 68083/65937 \nDR. ADITI PANT \nRecidence: National Institute of \nOceanography, Dona Paula \nGoa 403004 \nOffice: \nInst. Dn, NIO, Dona Paula, \nGoa 403004 \nTel: 4612 Telex: 194216 NIO \nTelex: 194216 NIO IN, \nSatcom: 00583-1640102 \nMVTT \nDR. ASHUTOSH SINGH \nRecidence: Post Office Box 4015, \nNew Delhi 110 017 \nDR. K.J. MATHEW \nRecidence: 29/1824, 'Abhilash', \nChilavannoor, Kadavanthra. \nP.O. Cochin — 682020, \nKerala State \nTel: 30544 \nOffice: \nC.M.F.R. Institute (Annexe), \nS.T. Reddiar Buildings, \nCochin-682035, Kerala State \nTel: 37192 Telex: 0885-435 \nDR. MADAN LAL \nSr. geologist \nRecidence: B-VII-7, ONGC Colony, \nDehradun (UP) 248195 \nOffice: \nONGC, KDM IPE Dehradun, \nUP (248195) \nDR. A.K. HANJURA \nScientist \nRecidence: 30-B, LIG flats, Phase III, \nAshok Vihar, Delhi - 110 052 \nOffice: \nTime and Frequency Section, \nNational Physical Laboratory, \nHillside Road, New Delhi \n110012 \nDR. A.K. BAKHSHI \nRecidence: C-139, Old Moti Nagar, \nNew Delhi -110015 \nOffice: \nChemistry Department, ARSD \nARSD College (University of \nDelhi) Dhaula Kuar, New \nDelhi \nS.W.A. NAQVI \nScientist 'B' \nRecidence: NIO Hostel, Dona Paula, \nGoa 403004 \nOffice: \nNational Institute of \nOceanography, Dona Paula, \nGoa 403004 \nTel: 3291 \nM.R. NAYAK \nScientist \nRecidence: C5, N.I.O. Qrs, Dona Paula \nGoa 403 004 \nOffice: \nInst. Dn, N.I.O., Dona \nPaula, \nPaula, Goa 403 004 \nTel: 4612 \nTelex: 194216 NIO IN \nSatcom: 00583-1640102 \nMVTT \nDR. L.S. RATHORE \nMeteorologist \nRecidence: 1/7 I.M.D. Colony, Pashan, \nPune — 411008 \nOffice: \nDivision of Agricultural \n— Meteorology, India \nMeteorological Deptt. \nPune — 411 005 \nTel: 55221/248 \nDR. SUDIPTASENGUPTA \nRecidence: 52. Ballygunge Place, \nCalcutta — 700019 \nTel: 41-2069 \nOffice: \nDept. of Geological Sciences, \nJadavpur University, \nCalcutta 700019",
+      "char_count": 2000
+    },
+    {
+      "page_number": 10,
+      "text": "MAJ. P.K. NAIR \nRecidence: E-254 D, CME, Pune -\n411 031 \nOffice: \nF Combat, CME, Pune - 31 \nTel. 54213 Ext 257 \nCAPT. A.T. PARNAIK \n413 (I) Engr Sqn c/o 56 Apo \nHAV. D. ROYAL REDDY \nCiw. Meg & Centre SPL Coy \nBangalore — 42 \nHAV. SHIV KUMAR \n2 Training Bn. B.E.G.E' \nCentre, Roorkee \nHAVMAJ. (TECH)MALKHAN SINGH \n'A' Coy 3 PL, 3 Advance \nBase Wksp c/o 56 APO \nNB/SUBP.L. DWIVEDI \n2(1) Para Field Workshop, \nCoy EME, c/o 56 APO \nCAPT. H.C. LOHUMI \nRecidence: E-247 CME, Pune - 411 031 \nOffice: \nF E/M, CME, Pune - 411 031 \nTel: 54213 ext 258 \nCAPT. ANIL HARNAL \nRecidence: 63/7 Rajpur Road, Dehradun \nTel: 25819 \nOffice: \n113 Engr Regt c/o 56 APO \nTel: Jodhpur Army Exch \next 393 \nCAPT. AJITPATIL \nRecidence: 1218, Wrangler Parantape \nRoad, Shivajinagar Pune \nOffice: \nTRG BN-1, Beg & Centre \nKirkee Pune \nM. MANOHARAN \nScientist —Bl \nRecidence: No: 566, Gabrals House, \nBehind St. Peter's Church \nCaranzalem, Goa 403 002 \nOffice: \nN.I.O. Dona Paula, \nGoa 403 004 \nTel: 3291, 5988 \nR.K.SINGH \nGeologist, Sr. \nRecidence: B-365, Indra Nagar Lucknow \nTel: 73478 \nOffice: \nGlaciology Division \nGeological Survey of India \nl-C. Gokhale Marg Lucknow \nTel: 48117 Telex: 244 \nJ ITU VARTAK \nCameraman \nRecidence: Shirgaon, Tl. Palghar, Distt. \nThane (W.R) Maharashtra \n401 407 \nOffice: \nFilms Division 24 - Pedder \nRoad Bombay - 400 026 \nTel: 361461",
+      "char_count": 1339
+    },
+    {
+      "page_number": 11,
+      "text": "NK. ROBERT FRANCIS \n303 Fd Pk Coy, 2 Engr Regt. \nc/o 56 APO \nHAV. JIT RAM \n67 Engr Regt. Bridging 4 Coy. \nBbG & Centre Roorkee \nL/NK BALDEV \n67 Engr Regt Bridging 4 Coy. \nBeg & Centre Roorkee \nL/NK B. P. THIMMAIAH \n409 Field Company, \n11 Engr Regt, c/o 99 Apo \nNKJAGTAR SINGH (GILL) \nTo. Sajjan Singh (Gill) \nV.P.O. Kot Khaira \nVya Tarsi kka \nDist Amritsar \nPin code 143116 (Punjab) \nNK.DAYAL SINGH (DARDI) \nChanan Singh (Fauzi), \nVillage Mundian Kalan, \nSamrala Road Dist. Ludhiana \n(Punjab) \nL/HAV S SHEKAR \nCiw. Meg & Centre SPL Coy \nBangalore-42 \nL/NK ASHOK SUREGAVOKAR \n36 Field Company, \n5 Engr regt c/o 56 Apo \nL/NKGOPALREDDY \n433 Field Company, \n201 Engr Regt, c/o 56 Apo \nHAV. B.V. SUBARAYAN \nCiw. Meg & Centre SPL Coy \nBangalore — 42 \nL/NKGOVINDARAJ \n162 Br. Coy, 16 Engr Regt \nBangalore - 42 \nSPR. DEVASAGAYAM \nCiw. Meg & Centre SPL \nCoy Bangalore — 42",
+      "char_count": 863
+    },
+    {
+      "page_number": 12,
+      "text": "NK GAJANAN JADAV \n107 Engr Regt. Rhq \nc/o 56 Apo \nHAVBALWANT SINGH \nVill Mansoor Pur Po \nKhamaano Kalan \nDist Ludhiana (PUD) \nCDR. V.P. SATHIAMOORTHY \nRecidence: 90 - Katari Bagh, Willington \nIsland, Cochin - 682 004 \nKerala \nOffice: \nOfficer — in — charge, \nnaval Analysis Unit, Head \nQuarters Southern Naval \nCommand, Cochin Kerala \n— 682 004 \nTel: 6851 exn. 652 \nLTCDR. R.S.GILL \nRecidence: 23/597 S.P. Marg Service, \nOfficer's Enclave, New Delhi \n— 110021 \nOffice: \nDirectorate of Naval Air Staff, \nNaval Headquarters \nNew Delhi — 110 011 \nTel: 373398 \nCAPTG.P. KRISHNAMURTHY \n106 Engr. Regt c/o 56 Apo \nHAVSHAMSHER SINGH (TANUJA) \nTo. Shamsher Singh (Tanuja7 \nVPO Khari Sarf Ali, \nTeh Assandh \nDist. Karnal (Hariana) \nL/HAV MOHAN KUMAR \n664 Engr Plant Coy c/o 56 Apo \nSPR K.G. PILLAI \nCiw Meg & Centre SPL \nCoy Bangalore — 42 \nCDR(P)S.K. CHANDNA \nRecidence: 160-A, Naval Officer's Flats, \nAirport Road, Dabolim, \nGoa — 403 801 \nOffice: \nAircats, Naval Air Station, \nIns Hansa, \nDabolim, Goa — 403 801 \nLTCDRA.S. CHOUHAN \nFlight Commander, 321, \nGaruda Flight INS \nGaruda Cochin \nNB/SUBJ.S. KALIRAMAN \n4 corps Air SP Sig unit \nc/o 99 A.P.O. \nHAV K.G. SUBRAMANI \nCiw. Meg & Centre SPL Coy \nBangalore — 42",
+      "char_count": 1207
+    },
+    {
+      "page_number": 13,
+      "text": "LT(P)M.S. KHELA \nRecidence: L-10/5, Jal Ratan deep, \nBangur Nagar Goregaon \nWest, Bombay — 400 062 \nOffice: \n321 Flight. Butchirajupalam, \nVisakhapatnam — 530,006 \nTel: 8322 \nMECH (AL) 3 HOSHIAR SINGH \nRecidence: 258 Bishnoi Colony, \nRajgarh Road, Hissar \n(Haryana) 125 001 \nOffice: \nAir Electrical Department \nIns Vikrant c/o FMO \nBombay 400 001 \nWGCDRB.D. AAADHOK \nRecidence: No 1 Marlow, \n35 Sir Pochkhanwala Road, \nWorli Sea Face \nBombay — 400 025 \nOffice: \nChief Operation Officer Air \nForce Station, \nBombay — 400 033 \nWG CDR V NATARAJAN V.M. \nRecidence: c/o V.V. Ramanan, 21 \nTirumalai Nagar, Perungudi \nMadras — 96 600 096 \nOffice: \nD.D. (A.I) Air Hq (V.B.) \nNew Delhi — 110 001 \nCK (O) I D. SEBASTINE \nRecidence: Polliyal House, \nNo XI/1231 west Odatha, \nVeli, fort Cochin Pin 682 001 \nOffice: \nI.N.S. Tunir, S & S Mess \nc/o F.M.O. Bombay 400 001 \nLTA.A. KHAN \nRecidence: c/o Lt Col A H Khan, \n56, Amauiqunj, Amurabad \nLucknow — 226 004 \nOffice: \nNaval Air Technical Achool, \nNaval Base Cochin — \n682 001 \nAA3P.K. BALAKRISHNAN \nRecidence: c/o Shri K.C.K. Nambiar, \nMadathil House, P.O. Koodali \nCannanore (Dist) Kerala \nOffice: \nAir Engineering department, \nins. Vikrant c/o FMO, \nBombay — 400 001 \nCK (O) I C. VENUGOPALAN \nRecidence: Chembakasseri House, \nNear Palat U-P- School, \nP O Tiruvannoor Nada DT \nCalicut Pin 673 029 Kerala \nOffice: \nI.N.S. Alleppey c/o FMO \nBombay — 1 400 001 \nFLT LT AJIT KUMAR \nRecidence: Vazhappallil, Madamon PO. \nVadasserikkara, \nPathanamthitta 689 665 \nKerala State \nOffice: \n122 HFc/o 5 Wing AF \nc/o 99 Apo \nFLT LT V.M. KHANNA \nRecidence: 794/15, Guru Ram Das \nNagar, Putlighar, \nAmritsar (Punjab) \nOffice: \nAircrew Examining Board, \nAirforce Station, Hindan \nDistt. Ghaziabad (UP) \nTel: 867652 Ext 360 \nWGCDRR.S. TANDON \nNo 2 MP (Air) NCC T.T. \nNagar Bhopal \nPOELARR.K. KAPOOR \nRecidence: Vill & P.O. Sullah, \nTeh Palampur, Distt Kangra \n(H.P.) 176 085 \nOffice: \n321 Vizag Flight. \nButchirajupalem \nVishakhapatnam — 530 006 \nTel: 8322",
+      "char_count": 1979
+    },
+    {
+      "page_number": 14,
+      "text": "SGT JOSEPH MATHEWT. \nRecidence: Thomoroyiel House, \nVilakkudy P.O. Kunnicode. \nKerala 691 508 \nOffice: \nNo 121 HF AF (c/o AF stn \nBombayl c/o 56 Apo \nSQN.LDRS.K.S. PURI \nRecidence: E/476 Greater Koilash \n(Part two), \nNew Delhi — 48 110 048 \nOffice: \nCommand Hospitol \n(Air Force), Agram, \nBangalme — 7 560 007 \nDAVID WILLIAMS \n39 Bowness Avenue, \nDidcot Oxon, \nOX U8NF, \nUnited Kingdom \nKARL KESSLER \nBlumenweg 3 \n7901 lllerkirchberg, \nW-Germany \nTel: 07346-5250 \nSGTA.B. JADHAV \nRecidence: Ashok Jadhav, Kothi, \nStation Road, Ahmednagar \nOty — 414 001 Maharashtra \nOffice: \nNo. 121 Helicopter Flight, \nc/o 56 Apo \nSGTK.N. MANDAL \nRecidence: Kashinath Mandal, Kharpara; \nKahtala Lane P.O. Baidyabati \nDist. Hooghly (W.B) \nPin 712 222 \nOffice: \nNo. 121 Helicopter Flight \nc/o 56 Apo \nSQDNLDRK.I.TRIVEDI \nRecidence: 46, Adarsh Colony, \nUdhampur (Jand K) \nOffice: \nSr Met O. NACC c/o 56 Apo \nSGT S.B.GUPTA \nRecidence: Sador Bazar, P.O. Dagshai, \nDistt Solan. Himachal \nPradesh \nOffice: \nNo 122 H.F. Air Force, \nNo 5 Wing A.F. c/o 99 Apo \nLTCDR N.P.SINGH \nRecidence: 6 Fernson Apartment \n(First Floor), \nChoolakkaparamvil Road, \nCohm - 681 018 \nOffice: \nChief Inspector Met. Trg \nSchool, Ins Garuda Cohin -\n682 004 \nTel: 6851/541 or 294 \nMAJ B.K.SINGH \nRecidence: —29 B Saroini Nagar, \nLucknow 226 008 \n—26 Universal Apts, \nEast Street Poona \nTel: \nTel: 23806 \nOffice: \n92 Base Hospital, c/o 56A.o \nSGT R.N. VISHWAKARMA R.N. \nRecidence: Village — Tarkulahi \nP.O. — Matiary Via Bhore \nDist — Gopalgani (Bihar) \nPin — 841 426 \nOffice: \nAir HQ Comn Sgdn, \nAir Force Station Polam \nNew Delhi — 10 \nFLT LT N.M. RAI \nRecidence: Olemando House, \nP.O. Madvo, Puttur TLQ, \nSouth Kanara Karnataka \nState \nTel: Thingalady 55 \nOffice: \nAir HQRS Communication \nSqdn, Air Force Station, \nPalam New Delhi 10",
+      "char_count": 1788
+    },
+    {
+      "page_number": 15,
+      "text": "W\ni\nn\nt\ne\nr\ni\nn\ng \nP a r t y \nLT COL SS S H A R M A \n108 RDE Colony, Dighi \nPoona-411015 \nTel \n27222 \nDR SRH RIZVI \nc/o DR Saz RIZVI, Rahat Clinic \nDurgah Huzrat Abbas RD Rustam Nagar, \nLucknow 226003, U P \nMR SHIVAPRASAD G A N E S H PRABNU M A T O N D K A R \nAt P O \nMatond Tal \nVengurla \nDust \nSindudurga \nMaharastra \nTel \n4612 \nNio Goa \nCAPT PARAMJIT S I N G H \n39, Defence Enclave, Vikas Marg \nDelhi 110092 \nTel \n5 6 3 0 0 1 / 5 7 1 2 7 8 0 \nCAPT RR S I N H A \n62 Munirka Enclave \nNew Delhi \nTel \n665599 \nCAPT R A M KUMAR \nVill P O \nThaska, Distt Hissar \nHaryana \nWINTERING PARTY MEMBERS ON THE DECK OF FINNPOLARIS JUST BEFORE THE DEPARATURE 1ST MARCH 1984 \nSURGEAN LCDR A BANERJEE \n2 / 3 Muilinagar \nLucknow \nTel \n49769 \nN \nSUB S JOSEPH \nH No 5 \nKottabomman Street Chrome Pet Madras 44 \nTel \n564471 \nN SUB VS RANA \nVill \nBibiwala Kapoor Faim \nPO \nShatyanarayan Dist Dehradun \nUP \nHAV PADMANABHAN \nKarangoth House P O Inngal 673521 Kerala \nL NK S SADEKAR \nVill Pal, Post Patve Taluka Sawantwadi \nDistt Sindudurga \nMahaiashtra \nL NK CS THAMPI \nMathru Bhavan, Kudavoor-post Tnvandium \nKerala 695313",
+      "char_count": 1100
+    },
+    {
+      "page_number": 16,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 17,
+      "text": "Ms Finnpolaris \nOfficers and Crew \n1st OFF. MARKKU ANTTILA \nJusteerinkatu 36 \nSF-48910 SUULISNIEMI \nFINLAND \nTel: 952-67 305 \nlslENG. MIKKOMERILAINEN \nTarkka-ampujankatu 20 D 39 \nSF-90120OULU 12 \nFINLAND \n2nd ENG. ANSSI VENTO \nKuusiotie 1 \nSF-21200RAISIO \nFINLAND \nTel: 921-785 363 \n3rd ENG. UNTO LAITINEN \nRiihisarkankatu 15 D 17 \nSF-80160 JOENSUU 16 \nFINLAND \nTel: 973-824 606 \nRAD.OFF. PEKKAPERMITA \nKirkkotie 10 \nSF-63700 AHTARI \nFINLAND \nTel: 965-30 216 or \n931-35 088 \n2nd OFF. HEIKKI MARTOMAA \nSP-tolo as. 7 \nSF-31600 JOKIOINEN \nFINLAND \nTel: 916-84 020 \nCAPTAIN LASSE KULJU \nVuorentaantie 11 \nSF-20310 TURKU 31 \nFINLAND \nTel: 921-391 082 \nCH. OFF. JARTTI MALMI \nLeiritie 38 \nSF-49510 HUSUPYOLI \nFINLAND \nTel: 952-57 001 \nCH.ENG. SIMOTOIVONEN \nYlinenkatu 33 \nSF-26200 RAUMA 20 \nFINLAND \nTel: 938-210 464 \nCH.STEWARD KAUKO KOMULAINEN \nVuohenkellonkatu 5 \nSF-48800 KARHULA 7 \nTel: 952-89 102 \nFINLAND",
+      "char_count": 905
+    },
+    {
+      "page_number": 18,
+      "text": "BOATSWAIN TAPANI BJORKBACKA \nValtakatu 20 A 10 \nSF-94100 KEMI 10 \nFINLAND \nOS ULLA VIRTA \nRoumo mlk \nSF-26910 UNAJA \nFINLAND \nTel: 938-30 307 \nOS SIMO PORKKA \nPuuslellinnnne 3 G 55 \nSF-00410 HELSINKI 41 \nFINLAND \nTel: 90-5 634 213 \nCARPENTER HELGE LAUKKANEN \nKaitueentie 39 C 40 \nSF-50160MIKKELI 16 \nFINLAND \nTel: 955-336 147 \nELECTRICIAN ANSSI LEHTOLA \nSF-21610 KIRJALA \nFINLAND \nTel: 921-748 953 \nMOTOR/WAN MARKKU TYNKKYNEN \nVddrdmaki \nSF-58500 PUNKASALMI \nFINLAND \nTel: 957-311 151 \nMOTORAPPR. JOUNI KUUSISTO \nPihlajotie 12 \nSF-21600 PARAINEN \nFINLAND \nTel: 921-741 320 \nCOOK ERKKI LAAKKONEN \nJuhanmkotu 12 \nSF-48710 KARHULA \nFINLAND \nTel: 952-64 958 \nREPAIRMAN OLAVI ETELALEHTO \nYr|dnen 1 \nSF-49570 KANNUSJARVI \nFINLAND \nTel: 952-52 289 \nOS JYRKILAUSAMO \nAleksanlennkatu 21 \nSF-06100 PORVOO 10 \nFINLAND \nTel: 915-145 218 \nAB MARKKU HALINEN \nOmakotitie 22 \nSF-52300 RISTIINA \nFINLAND \nTel: 955-41 894 \nAB JUHA KORKKA \nMarjorinne 9 B 15 \nSF-49410 POITSILA \nFINLAND \nTel: 952-54 473",
+      "char_count": 983
+    },
+    {
+      "page_number": 19,
+      "text": "COOKVILLESARAAAS \nVuorelantie 6 D 72 \nSF-20720 TURKU 72 \nTel: 921-367 472 \nFINLAND \nCATERING ASS. RIITTA RASINAHO \nKaitueentie 39 C 40 \nSF-50160 MIKKELI 16 \nTel: 955-336 147 \nFINLAND \nPILOT HEINRICH BRUNS \nKoriwgstr. 2 A \nD-2820 BREMEN 70 \nW-GERMANY \nTel: 0421-662 677 \nENGINEER STIG MALMBERG \nRonnvagen 38 log 34 \nSF-00270 HELSINKI 27 \nTel: 90-481 283, \nnffire 90-1941 \nFINLAND \nCATERING ASS. BIRGITTA PENTTINEN \nPuustellinrinne 3 G 55 \nSF-00410 HELSINKI 41 \nFINLAND \nTel: 90-5 634 213 \nCATERING ASS. SEIJA KOLVANKI \nMerikoskenkatu 2 A 2 \nSF- 90500 OULU 50 \nFINLAND \nTel: 981-346 095 \nWINTER GAMES AT ANTARCTICA. ANSSI, JARTTI AND STIGU JUST AFTER START. \nTHE WINNER AND FINNISH CHAMPION \nWAS AB JUSSI KORKKA (TIME 4:06)",
+      "char_count": 721
+    },
+    {
+      "page_number": 20,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 21,
+      "text": "Dr. Harsh K. Gupta \nMajor Events Of The Third \nIndian Scientific Expedition \nTo Antarctica \nDECEMBER 3, 1983 THROUGH MARCH 29, 1984 \nDECEMBER 3, 1983 \nA week long hectic activity of loading/arranging cargo, fuel and food \nweighing some 900 tons, placing four helicopters in the holds of Finnpolaris, \ncomes to an end. Relatives, friends and officials bid bon voyage to the \n81 member team at 6 PM from Goa. Two military bands play send off music \n— the most touching being \"Sare Jahan Se Achha Hindustan Hamara\" (our \ncountry, India, is best in the world) \n. Most of the members stayed on \nthe deck till late hours, it is anyway too hot inside the cabins. \nDECEMBER 4, 1983 \nThe scientific programme of the expedition begins with the first weather baloon \nreleased at 1130 hrs. The safety drill takes place at 1630 hrs. The refrigirated \nfood container is not cooling adequately Engineers are trying to fix it. The \nstores are being secured. A contact has been established on Amature Radio \nwith several Hams in India.",
+      "char_count": 1018
+    },
+    {
+      "page_number": 22,
+      "text": "DECEMBER 6, 1983 \nFinn Independence Day, Greetings are exchanged. The three doctor members \nof the expedition commission two hospital rooms. The ship crosses equator at \n1602 hrs. There is a colourful ceremony on the deck. King Neptune permits the \nones crossing equator for the first time after giving them a tough time. \nCAN YOU SEE THE SOUTHERN CROSS? \nKING NEPTUNE WITH HIS COURT. \nCEREMONIES",
+      "char_count": 396
+    },
+    {
+      "page_number": 23,
+      "text": "Crossing The Line Certificate \nThe translation of the Crossing the Line certificate. \nWE NEPTUNE \nTHE LORD OF ALL SEAS AND WATERS, THE UNRESTRICTABLE RULER \nOVER ALL THE DEEP SEA SAILORS. WE HEREBY MAKE KNOWN THAT GRACIOUSLY WE ADMIT \nMISS/MRS/MR \nAS A MEMBER CITIZEN IN OUR GREAT \nAND HUMID KINGDOM. SHE/HE HAS CROSSED THE EQUATOR LINE ON DECEMBER 6TH 1983 AND \nTHE EQUATOR SHOWER HAS BEEN GIVEN TO HER/HIM \nACCORDING TO THE TIME-HONOURED TRADITIONS. \nTHUS. SHE/HE HAS GOT A RIGHT TO SAIL IN ALL SALTY SEAS UNDER OUR GRATE PROTECTION. \nFOR PROVE WE ISSUE THIS CERTIFICATE AFFIXED WITH OUR GREAT SEAL. \nGIVEN AT EQUATOR 67° 32.58 EAST. \nEX OFFICIO \nLASSE KULJU \nMASTER \nMS FINNPOLARIS \nEQUATOR SHOWER GIVEN FOR THE ONES CROSSING THE LINE FOR THE FIRST TIME.",
+      "char_count": 757
+    },
+    {
+      "page_number": 24,
+      "text": "ALBATROSS \nGOODBYE MAURITIUS — BOUND FOR ANTARCTICA, \nDECEMBER 7JHROUGH 9, 1983 \nVarious gears and equipments are checked. Orders are placed to receive \nmissing items From Mauritius. The container hold is nick-named \"Bombay \nStreet\" and stinks like one. A film is screened there every night after supper. \nDECEMBER 10, 1983 \nThe hydrographic winch is not functional: The oceanographers have tears. The \nship arrives at Port Louis at 1400 hrs. Hectic activity starts to fix the \nrefrigirated food container, the hydrographic winch and to receive various \nstores orde_ed. \nDECEMBER 14, 1983 \nThe ship sails from Mauritius towards Antarctica at 1215 hrs. \nDECEMBER 18, 1983 \nThe ship crossed 40 S latitude at 0600 hrs. There is quite a bit of rolling and \npitching. The ship's speed is reduced to 5 knots or less. Checks are conducted \nto ensure that cargo and helicopters are well secured. The Finn officers are \ntreated to a cocktail by the expedition members. \nDECEMBER 19, 1983 \nWarm clothing appears on the expedition members as the temperatures have \ndropped to 5°C or less. \nDECEMBER 20, 1983 \nVery bad weather. Sea state 5-6. Lot of rolling and pitching. Ten cases of sea \nsickness. \nDECEMBER 21 TROUGH 23, 1983 \nScientific and Logistic committees, formed earlier, continue to meet off and on. \nThe site of permanent station is being discussed for the last several days. \nKeeping various parameters in consideration, the choice is narrowed down to \nthree possible general area at the shelf. \nDECEMBER 23, 1983 \nExcitement over the ship as the first iceberg was cited at 0400 hrs at 55°33'S, \n32°03'E.",
+      "char_count": 1605
+    },
+    {
+      "page_number": 25,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 26,
+      "text": "CHRISTMAS EVE \nSANTA CLAUS ARRIVED \nMERRY CHRISTMAS \nDECEMBER 24, 1983 \nAfter a week long spell of bad weather, it finally improves. A beautiful \nChristmas party. Everyone is relaxed and happy. \nDECEMBER 25, 1983 \nPlans for discharging cargo from the ship are finalized. The week long table \ntennis tournament is concluded with Mr. Nayak as winner and Dr. Baner|ee as \nrunner.",
+      "char_count": 376
+    },
+    {
+      "page_number": 27,
+      "text": "DECEMBER 26, 1983 \nFast ice is all around the ship. At 1030 hrs prayers are held at the deck. \nAt 1100 hrs the first reconnaissance sortie by the Chetak helicopter is \nconducted. There is broken sea ice all the way from our present position \n(69.2 S, 12 E) towards Antarctica. The ship continues to move breaking some \n1 metre thick sea ice. At 2200 hrs another Chetak sortie is conducted and the \nbase camp huts of the two previous Indian expeditions (1981-82 and 1982-83) \nas well as the Runway hut are located. \nThe sun hangs at the horizon at midnight: we are having 24 hrs day. \nPeople find it difficult to sleep. \nDECEMBER 27, 1983 \nFinnpolaris is moored on to fast ice-. Look — we have visitors! Curious \npenguins come flocking to the ship. \nMore detailed surveys are carried out to finalize the site of the permanent \nstation. \nThe snow vehicles are started on the deck. They are lowered to the fast ice \nand quickly driven away along the land route marked to the base camp site. \nPENGUINS \nRECONNAISSANCE SORTIE BY THE CHETAC HELICOPTER. \nSATELLITE NAVIGATOR SCREEN DEC 27TH.",
+      "char_count": 1084
+    },
+    {
+      "page_number": 28,
+      "text": "CURIOUS PENGUIN \nUNLOADING BEGINS \nHOW ABOUT ONE PHOTOGRAPH?",
+      "char_count": 60
+    },
+    {
+      "page_number": 29,
+      "text": "MI-8 CRASHED INTO ICY WATERS \nBASE CAMP \nDECEMBER 28, 1983 \nConstruction party moves to the site of the base station and establishes a \ncamp using BAS and medium Arctic tents \nDECEMBER 29, 1983 \nDigging of foundation begins at the base camp site While carrying an \nunder-slung load MI-8 helicopter crashes into icy waters at 1430 hrs With \nGod's grace all on board the ill fated helicopter are rescued \nDECEMBER 31, 1983 \nBad weather and snow drift covers the dug out trenches for foundation and \nother stores transported to the base camp \nA welcome news from New Delhi Ma|or Pavan Nam is blessed with a \ndaughter \nA simple New Year eve get-to-gether to ring in the new year \nJANUARY 1 THROUGH 10, 1984 \nUnloading of the ship is in full swing A helipad has been set-up at the base \nDue to some logistic problems, most of the cargo which was to be transported \nunderslung on MI-8 helicopter has now to be transported in the fuselage This \ninvolves opening up the already pre-slung stores and placing them piecewise \nOperation \"WHISK\" commences Two loading teams are organized Efforts to \nbring the ship to shelf are fruitless Intermittent bad weather slows the \nprogress of work \nJANUARY 12, 1984 \nAs a part of the scientific program, a scientist camp is to be established at \nShirmacher Hills a small range some 60 kms away from the shelf In the \nmorning a reconnaissance sortie is flown to the Sarmacher hills and a camp \nsite near a fresh water lake is selected At 1600 hrs a party of 9 starts from \nthe base camp in a Piston Bully with all the scientific equipment, ruel, food \nand tents loaded on the sledge Following the Russian track, marked every \nkilometer with a pole with a gum boot hat, the party reaches the Lake Point at \n2000 hrs From here the lakes start and the helicopter is to transport men and \nmaterial to the Shirmacher hill camp site, some 20 kms away The helicopter \ncould not come due to technical problem and the scientist party pitches two \ntents and sleeps there Wasn't that a pretty site",
+      "char_count": 2015
+    },
+    {
+      "page_number": 30,
+      "text": "INDIAN-FINNISH GALLEY TEAM.",
+      "char_count": 27
+    },
+    {
+      "page_number": 31,
+      "text": "AIR CONTROL ON THE BRIDGE. \nTHERE WAS ABOUT 700 TONS CARGO TO BE DISCHARGED. \nCARGO STOWING INTO MI-8 FUSELAGE. \nMI-8 WITH UNDERSLUNG CARGO.",
+      "char_count": 140
+    },
+    {
+      "page_number": 32,
+      "text": "RUSSIAN STATION NOVOLAZEREVSKAYA AND THE STATION DOG \"PRIMA\". \nCAPTAIN ANIL HARNAL. CIGAR IN HONOUR OF NEWBORN BABY. \nJANUARY 13, 1984 \nToday is Friday and the thirteenth of the month.However, without any mishap \nthe camp is established by 1900 hrs at Shirmacher hill. \nJANUARY 15, 1984 \nThe satellite communication terminal has been commissioned at the base camp. \nThe construction party is very happy as they can call their families from the \nbase itself. \nJANUARY 16, 1984 \nOur scientists visit the Russian Station Novolazerevskaya. \nJANUARY 17, 1984 \nBlocks A & B of the permanent Indian Station have been completed to the roof \nlevel. The ship has still not succeeded in reaching the ice shelf. Most of the \nstructure material has been transported through the helicopters. Still quite a bit \nof structure material is left. And there are 1000 barrels of fuel, food etc to be \ntransported. In case Finnpolaris does not succeed in reaching the shelf over the \nnext week or so, it would become necessary to transport material over the fast \nsea ice using the snow vehicles. \nJANUARY 21, 1984 \nFinnpolaris finally reached the ice shelf. Pisten Bullys with sledges are brought \nalongside, and the unloading activity is in full swing. The last vehicle left the \nship at 4 in the morningl \nJANUARY 25, 1984 \nCaptain Anil Harnal is blessed with a daughter.",
+      "char_count": 1352
+    },
+    {
+      "page_number": 33,
+      "text": "JANUARY 26, 1984 \nToday is our Republic Day. The sun has shown after a long time. The structure \nof the base station has been completed. The roof has been claded and the \ncolor design is arranged to depict the TRICOLOR, our national flag. We cannot \nafford to take a day off and hence a simple function of flag hoisting and \nNational Anthem is arranged. Our friends from the Soviet and East German \nstations as well as the Finn crew participate. \nFLAG HOISTING. \nCELEBRATIONS ON BOARD MS FINNPOLARIS. \nFRIENDS FROM THE SOVIET AND EAST GERMAN STATIONS.",
+      "char_count": 551
+    },
+    {
+      "page_number": 34,
+      "text": "SHIRMACHER Hill RANGE. \nDRMADANIAI. \nJANUARY 29, 1984 \nA batch of our scientists visits Novolazerevskaya station. Fresh water lake \nsampling is done collectively by the East German and Indian Scientists. \nJANUARY 30, 1984 \nEarth scientists visit Wohlthot Mountains, a range some 40 kms south of \nShirmacher range. It is a great day: the ships unloading is over with the \nremaining barrels being sent to the Base camp. \nFEBRUARY 5, 1984 \nThe camp at Shirmacher hill is closed, after 24 days of very productive \ngeological, geophysical, biological and meteorological experiments and \nobservations. \nFEBRUARY 6 THROUGH 13, 1984 \nExtremely bad weather. However, internal work on generators, electrification, \nsnow melt plant, boilers, heating and furnishing continues at the base station. \nFEBRUARY 14, 1984 \nThe generators are test run and found OK. The clading of the building is taken \nup on war footing. \nFEBRUARY 15 THROUGH 23, 1984 \nExtremely bad weather continues. Winds gusting to 70 knots prevail. \nFinnpolaris moves over to high seas. However, work has to be continued at \nthe base station as we are running out of time. Gradually various services are \ncommissioned.",
+      "char_count": 1172
+    },
+    {
+      "page_number": 35,
+      "text": "WORK HAS TO BE CONTINUED",
+      "char_count": 24
+    },
+    {
+      "page_number": 36,
+      "text": "EXPEDITION CATCHETS. \nFEBRUARY 24, 1984 \nThe base station is functional. The labs have been set-up and wintering team \nof 12 moves in at 1700 hrs. \nFEBRUARY 25 THROUGH 28, 1984 \nAnother blizzard hits the shelf. Forty of us are at the base station. During \nnights the base station looks like a big dormitory. The post office work of \nplacing expedition catchets on some 1500 philately envelopes is carried out. \nThe blizzard was a God gift — as it gave an opportunity to test the base \nstation under winds gusting to 80 kts.",
+      "char_count": 523
+    },
+    {
+      "page_number": 37,
+      "text": "SUNNY DAY AT THE BASE. \nBASE CAMP WITH ARCTIC TENTS. \nSTATION COMMANDER LT COL S S SHARMA. \nRADIO ROOM IS FUNCTIONAL AND SATELLITE COMMUNICATIONAL TERMINAL INSTALLED. \nCAPT PARAMJIT SINGH AND M.R. NAYAK (MR \"TELEX\")",
+      "char_count": 215
+    },
+    {
+      "page_number": 38,
+      "text": "FINNISH GIFTTO THE DAKSHING GANGOTRI STATION: \nSAUNA BATHHOUSE STOVE. MADE IN ANTARCTICA BY STIGU AND KESSU. HAVE A GOOD \nSAUNA BATH! \nFinnpolaris approaches Goa. The country is reeling under port workers strike. \nDr. Qasim flies over to the ship to congratulate and welcome the team. We \nfinally arrive Goa at 12 Noon. The team is overwhelmed when the striking \nport workers give a hearty welcome. \nThus, with God's grace and hard work of team members, the Third \nAntarctic Expedition comes to a successful end. \nMARCH 1, 1984 \nThe wintering team visits ship for the last time. The sun is shining gloriously. \nWe all have beer on the ship's deck. At 1530 hrs ship sails off leaving 12 \nmembers of the wintering team waving. God bless them — they are going to \nspend 10 lonely months before the next expedition arrives in December 1984. \nWe are all proud of having accomplished the task of setting up a permanent \nBase Station in Antarctica in just one Antarctic summer. This is a world record. \nMARCH 2 THROUGH 17, 1984 \nThe sailing is slow as the weather is bad, often passing through sea state 6, \nmore over we are stopping twice a day for oceanographic sampling. The \nmaximum recorded roll is 28°. Finnpolaris crosses 40°S latitude at 21.50 hrs \non March 13. \nMARCH 18, 1984 \nFinnpolaris arrives at Mauritius at 1400 hrs. Finnpolaris passangers spill all \nover the pretty island. \nMARCH 19 THROUGH 21, 1984 \nExpedition news is all over Mauritius and there is wide media coverage and \npublicity. Several reception/dinners are arranged. Prime Minister of Mauritius, \nHon ' ble Mr.Jugnauth, accompanied by the Hon ' able Minister for Energy and \nIndian High Commissioner visits the Finnpolaris on March 21 at 1200 hrs. \nMARCH 22, 1984 \nFinnpolaris sails for Goa, India at 1430 hrs. \nMARCH 29, 1984",
+      "char_count": 1798
+    },
+    {
+      "page_number": 39,
+      "text": "GOODBYE BY IT COL S S SHARMA. \nOCEANOGRAPHIC SAMPLING. \nWINTERING PARTY ON THE ICE SHELF. \nFROM THE LEFT: MINISTER FOR ENERGY HON. M. UTCHANAH, PRIME MINISTER OF MAURITIUS \nHON. A. JUGNAUTH, HIGH COMMISSIONER FOR INDIA HE. PREY SINGH, EXPEDITION \nLEADER DR HARSH GUPTA AND THE CAPTAIN OF MS FINNPOLARIS LASSE KULJU.",
+      "char_count": 315
+    },
+    {
+      "page_number": 40,
+      "text": "Dr. A.K. Bakhshi \nScientific Work During \nThe Expedition \nSeveral scientific programmes of contemporary interest that may have \nfar-reaching significance were undertaken during the Third Indian Scientific \nExpedition to Antarctica by a team of 16 scientists belonging to various \ndisciplines of science. Most of these scientific programmes were in continuation \nof the scientific studies carried out during the first two expeditions, though \nsome new programmes have also been initiated this time. The various scientific \nprogrammes include studies on meteorology, radio-ware propagation, geology, \ngeophysics, chemistry, glaciology, microbiology, marine biology and \noceanography. \nIn the field of meteorology, as in the previous two expeditions, the primary \nobjective this time too was the collection of as much scientific data as possible \nconcerning meteorological parameters over the seas between India and \nAntarctica and over Antarctica itself. It is believed that the weather of \nAntarctica influences to a great extent the weather over Indian sub-continent \nand that a detailed study of these meteorological parameters over the \nAntarctica may help in understanding the vagaries of weather over India — \nparticularly the monsoons over which India is critically dependent. A laboratory \nfitted with the various instruments to measure these parameters was set up on \nboard the ship. Many radio-sondes and omega-sondes were launched during \nthe expedition. In addition to it a permanent meteorological station was \nestablished to record the surface and upper air atmospheire parameters such \nas temperature, pressure, wind radiation, ozone, cloud cover and weather \nphenomenon. This laboratory is capable of recording these parameters during \nthe Antarctic winter. During the entire stay in Antarctica, weather charts were \nreceived regularly from Molo and Pretoria and on the basis of these charts, the \nair-crew was briefed about the weather forecasts. \nDuring the first two expeditions (1981-82 and 1982-83), the study of the \nionised atmosphere (Ionosphere) and the unionised atmosphere was \nundertaken. This study was continued this time too because for a proper \nunderstanding of the radio-ware propagation, the data over a considerable \nberiod of time is reguired. Ionosphere is that lauger of the atmosphere which \nconsists of electrically charged particles called ions. These ions are produced by \nknocking out electrons from the atoms by means of ultraviolet radiation coming \nfrom sun. This ionospheric layer is very important for radio-communication. \nThe state of this ionosphere keeps on changing with time. A detailed study of \nthe state of ionosphere shall therefore be of immense use in \nradio-communication, particularly for India which is trying HF communication \nbetween India and Antarctica. A Riometer tuned at 20 MHz was used for this \nstudy. In addition to these ionosphere studies, an experiment to study \nsurface-wind pressure fluctuations using microbarograph was conducted at the \npermanent station site and at Dakshin Gangotri. \nAlthough most of the Antarctica is snow covered, nearly 2 procent is free \nfrom a permanent cover of snow and ice. One such area is the Schirmacher \nrange (70° 22' 40' 'S, 11° 54' E — 70° 44' 35' 'S, 11° 46' 30' ' E) of \nthe Queen Maud Land of East Antarctica, where a station was set up from \n12th January to 5th February. All the scientists visited this area and carried \nout various studies and collected necessary samples. During this period, the \ngeological and structural mapping of this range was completed on the scale of \n1:25 000. The total area mapped this time was 35 sq. kms. whereas during \nthe second expedition a reconnoitry mapping of on area of 45 sq. kms. in the \ncentral part of this range was carried out. Systematic sampling for petrological, \nmineralogical, structural and radiometric age dating was also done. \nIn this hilly Schirmacher range, of bare ground, soils have also begun to \nform. Since the Antarctic climate is characterised by extreme cold and extreme \naridity, these soils are therefore formed under the conditions of low \nprecipitation and almost complete absence of higher plant life. Many soil \nsamples from the various sites in this area were collected for detailed chemical \nanalysis with special emphasis on cation exchange capacity, estimation of \nvarious cations and nutrient content etc. Many samples of the flora of this area \nwhich is mainly consisting of lichens and mosses were also collected for \ndetailed investigations. It is believed that eventually the plants, particularly the \nlichens may give scientists an additional support to the hypothesis of the \nexistence of Gondwanal and in the geological past. \nMagnetic surveys involving the total intensity measurement of the earth's \nmagnetic field were also conducted during the expedition. These surveys were \ndone using a couple ot robust Geometrics Model Gr — 816/826. Proton \nWEATHER BALLOON RELEASED.",
+      "char_count": 4975
+    },
+    {
+      "page_number": 41,
+      "text": "Precession Magnetometers having a sensitivity of 1 gamma. These studies were \nbasically of the three types. Firstly, the earth's magnetic field was monitored \nfor six full days at Schirmacher Hills (70°45'S, 11°37'E), and for one full day \nat the base station on the ice-shelf (70°06'S, 12°00'E). One magnetometer \nwas continuously used to keep track of diurnal magnetic variations to correct the \nmagnetic field observations during these surveys. It was observed that \nmagnetic storm like conditions prevailed during a couple of nights when the \nearth 's total intensity varied by several hundred gammas over a short duration \nof a few minutes. Secondly magnetic measurements were done over a number \nof geological contacts — surface manifestation of possible mineralization, \nidentified by the geologists during the geological mapping of the Schirmacher \nHill range. A number of magnetic profiles totalling 5 line kms at an average \nspacing of 6 meters were conducted. The data obtained was reduced for \ndiurnal variations. On the basis of the data, quite a few interesting magnetic \nanomaties have been discovered. Their association with other geological \ninferences has been useful in indicating areas with metal/mineral potential. \nFinally, four magnetic profiles were taken between the Runway Hut (70°02'S, \n12°00'E) and the Base Station (70°06'S, 12°00'E) on the ice shelf. These \nprofiles indicated similar magnetic field pattern. Two of these profiles were \nextended further south of the Base Station to a distance of 5 kms and were \nfound to show similar magnetic field pattern. Encouraged by these results, one \nprofile was extended furthur south by 20 km — thereby making the total \nmagnetic profeling on the shelf 60 line km. The data obtained here are also \nreduced for diurnal variations and are being interpretend in terms of flexuse of \nthe ice-shelf and/or upwasping/inodulation of the sea floor. \nThere are about 12 glacial lakes in the Scirmacher range, the largest being ] \nkm long and 0,75 kms wide. A fresh water lake near the landing site of the \nfirst expedition was studied for biological productivity and bacterial population. \nSuch studies on this lake were carried out in the earlier expeditions too. A \nlarge annual variations in chlorophyll, total suspended matter, bacterial counts \nand pH have been observed from year to year. In addition to it, some fresh \nwater lakes were studied for microbiology and productivity and the vegion \naround these lakes is being studied for soil microbial counts (bacteria and \nfungi) in relation to soil charactenstics like moisture, content pH, P, N, C, \ntemp, and grain size. A few lakes were also studied for diurnal changes in \nmicrobiology and productivity. It can be concluded on the basis of these studies \nthat the freshwater systems in this range are highly productive. \"The continent \nof the Antarctica is surrounded by the Southern Ocean which is about 36 \nmillion sg. kms or about 20 percent of the world's oceans. The Antarctic seas \nare very rich in zooplanktons particularly krill ( Enphausia Superba). Krill is a \nvery rich source of protein and is the first Antarctic resousce, which India can \nthink of exploiting in the near future. During this expedition zooplankton \nsamples for the study of distribution, abundance and biology of krill and other \nzooplanktons, in general, were collected from polynya, from several localities \ndistributed over a geographical area within the Antarctic circle and from many \nlatitudinal stations enroute. In addition to it many stations were set up on the \nnorth-bound transect from the Antarctic to Mauritius between 69°S to 33°S \ninclusive and the water samples taken at 3 depths within the enphotic zone, \nwere analysed for standard parameters like glorophyll and the primary \nproductivity etc. The data collected between the 69°S latitude and the \nAntarctic convergence will be closely related to krill bio-man values obtained \nfrom this expedition. Similar studies were also carried out in the region of the \nsurrounding sea, when the ship was along side the shelf. \nA lot of hydrochemical work has also been done during the expedition. \nEleven stations were set up during the voyage from the Antarctica to \nMauritius. Water samples from standard depths down to 2000 m were \ncollected using Niskin Samplers filled with reversing thermometers and were \nanalysed on board the ship for dissolned oxygen, pH, alkalinity, salinity, \nnitrite-nitrogen, phosphate-phosphorous, and silicate- silicon. Similar analysis \nwas also carried out on water samples taken from different depins of two fresh \nwater lakes of the Schirmacher range. Many sea water samples were also \ntaken from various stations set up south of 40° latitude for the trace elements \nlike copper, cadmium, iron nickel etc. \nScientific achienements of this expedition are, no doubt substantial but \nthese is still a lot to be done. These achienements are in fact a prelude to the \nresearch in depth which will be carried by the Indian Scientists at Antarctica in \nyears to come.",
+      "char_count": 5061
+    },
+    {
+      "page_number": 42,
+      "text": "Telex from Antarctica: \nLt Col SS Sharma, Leader of 3rd Indian Antarctic Expedition \nand commander of Dakshin Gangotri station \nWintering in Antarctica: \nINTRODUCTION \nWith the setting sun in horizon and the hoots of MV Finnpolaris slowly casting \noff the shelf on the eve of the 1st of March 84, a new era started in Indian \nscientific venture at Antarctica. The first wintering party of 12 fearless \ndetermined countrymen were left in the white wilderness, to share the pleasure \nand miseries together for the scientific progress, in the hostile environment of \nAntarctica in Dakshin Gangotri station. \nA mixed feeling of sorrow and joy prevailed in minds of the members; \nsorrow for departing hard working colleagues, whose 60 days of hard labour \nin impossible conditions enabled the erection of present station, and joy for the \nexcitement in anticipation of the great challenge and adventure expected in \ndays to come. \nPLANNING AND PREPARATION \nAt first opportune moment, the stock of situation was taken and plans drawn \nto tackle immediate problems before the next blizzard starts or severe antarctic \nwinter sets in. Separate working groups for different problems were formed \nand tasks assigned. Surg. L Cdr Aloke Banerjee, the specialist physician from \nIndian Navy, was assigned tasks pertaining to immediate survival like shifting \nof food stuff inside the station, making the hospital functional and working out \nan effective plan for shifting to alternate location in case of a blow-out in \npresent station. \nCapt Ram Kumar and Capt Rajiv Sinha, the two engineers from Indian \nArmy, were made responsible for vehicle maintenance and looking after the \nengineering aspects of the station. Communication responsibilities were given to \nCapt Paramjit Singh, the telecom engineer from the army, while the author \nwith the assistance of Dr SRH Rizvi and Mr Prabhu Matondakar took \nresponsibility of organizing scientific activities. \nBy the time the members had only warmed up themselves and sharpened \ntheir tools, a severe blizzard threatened the station on March 6, which shook \neveryone. The blizzard, which lasted for six days, had a wind speed of over \n80 knots. During gusts, it created abnormal vibrations in the structure which \ngave a feeling of crossing the rolling fourties in MV Finnpolaris. On March 8, \nthe inlet structure for three 50 kW generators in block A collapsed due to the \ncover of same by drifting blizzard snow, which damaged fuel lines and \naccumulated a huge quantity of snow in the generator room. \nThe gusting winds created a panic amongst the members as the opening so \ncreated was causing a threat to the structural stability of A block. Due to this \nblizzard all construction stores, food items and scientific instruments lying \noutside the station got buried in 1.5-meter-deep snow, which took \nconsiderable time in retreival. The communication aerials broke down. Out of \n1300 fuel barrels lying in the fuel dump at half a kilometre from the station, \nonly 500 were visible. \nThough this blizzard did cast a shadow of the events to come, it however \nwas a blessing in disguise. A crash program for recovering the essential items \nfor survival as well as for stocking the fuel barrels in close vicinity of the \nstation and strengthening the structure was taken up. Soon Aloke, with the \nhelp of Prabhu, Paramjit, Thambi and Rizvi oranized recovering essential food \nitems for immediate day-to-day consumption in limited clear spell after this \nblizzard. \nCol Sharma, Ram, Rana and Joseph organized the recovery of fuel barrels \nfrom the fuel dumps by means of a crane. After recovering the first 20 barrels \non the first day, Ram thought the task appeared to be comparatively simple. \nHowever, his hopes were shattered when he saw Rana struggling with the \nvehicle engine in — 20°C and later reporting about the remote possibility of \nthe crane vehicle being available for the rest of the winter due to serious \nengine defects. Nevertheless, a new technique of pulling thee buried barrels \nwith the help of the other Pisten Bully, using ropes and hooks provided by MV \nFinnpolaris, was evolved and the group started working with a lot of dash and \ndrive. \nThough Ram, Rana and Joseph were apparently cheerful, they were having \nsleepless nights due to the power position in the station as the only serviceable \nof the three generators of capacity 50 kW was due for maintenance. To cater \nfor this, they positioned two 12.5 kW and one 5.5 kW generators supplied by \nDRDO and commissioned the auxiliary system in A block in few days. \nRajiv with the help of Padmanabhan and Thambi got down to a stupendous \ntask of ensuring the safety of the structure and efficient functioning of water \nsupply and exhaust systems during bad weather periods and snow clearance",
+      "char_count": 4804
+    },
+    {
+      "page_number": 43,
+      "text": "SNOWCATS \nfrom doors and windows during clear periods. They recovered a lot of the \nbuilding stores from the area around the building, which they utilized for \nstrengthening some critical areas of the structure. They removed many tonnes \nof snow from alternate locations immediately after various blizzards. This \ngroup was seen struggling aroud the station day and night with smiling faces. \nParamjit set up the antenna of his radio sets and tried establishing a contact \nwith India on his medium power 400 W set but without any success. His \nsatcom terminal, the only means of communcation, also started showing \ncontinuous errors due to internal defects, which he detected and rectified by \nstruggling for two nights without any rest. \nRizvi and Prabhu were busy helping Aloke and Rajiv as well as in their own \nscientific investigatios. Strength profiling of snow on the ice shelf by Col \nSharma, releasing of balloons for upper air data by Rizvi and microbiological \nstudies in the station laboratory by Prabhu were started with determination \nand the scientific activities picked up their rhythm by mid March. \nWEATHER \nThe weather played a significant role in disrupting the efforts put in by the \nmembers in worsening the working conditions. The month of March witnessed \n19 blizzard days. In March the temperatures were moderate, but wind speeds \nand snow accumulation around the station were very high. By the end of \nMarch, all windows on the ground floor in the living block were fully covered. \nThe month of April experienced moderate wind speeds but a steep fall in \ntemperatures with mercury doing down to — 32.5°C on April 29 and the \naverage temperature remaining below — 25°C on most of the days. Starting \ntrouble in Pisten Bully vehicles and freezing of water in the inlet pipe of \noverhead tank became a regular feature of every morning. The antenna control \nmotor inside the satellite terminal dome started behaving erratically which \ncreated an alarming situation. \nDespite all the hardships, the members maintained their peace of mind and \ncontinued their battle for survival against all odds. By the end of April Aloke \nand the party had recovered one-year food requirement and stacked it nicely in \na block. Ram had recovered 500 barrels from the fuel dump and positioned \nthem very close to the station. Ram, Rana and Joseph worked untiringly on the \ntwo unserviceable generators and put them in order by replaicing the worn-out \ncouplings. Padmanabhan and Thambi had removed the anchor straps from the \nbuilding in order to reduce the vibration level during blizzards, and sufficiently \nstrengthened the building structure by putting additional structural members at \ncritical places. They recovered some of the base tents from the old base camp \narea and some more useful stores from the area around the station. \nSearch for three buried skidoos is still on, even during the polar night. \nParamjit installed an air heater below his satcom dome to overcome extreme \ncold defects in the satcom antenna and the equipment is functioning well. He \nis also working on repairing a 1.5 kW transmitter, which became defective \nduring transportation, to establish a high-frequency contact with India. Cutting \nof snow and filling in the snow melt plaint is being shared by all members in \nrotation. Strict control on the use of water has become necessary. Bathing and \nwashing is allowed once a week. Smoking is restricted to the dining hall as a \nsafety measure against fire in the station, which has fuel tanks and barrels \naround. \nAt the time of filling this report in later part of May, the station is \nundergoing its polar night. The blizzards are observed on most of the days and \nthe visibility during blizzards is practically nil. The members have put the \nstation in good shape by working round the clock. Sadekar is using his skill \nand imagination in preparing different dishes out of the limited frozen food \navailable. Aloke has treated the author, Col Sharma, Joseph, and Sadekar \nfrom severe back ache they developed due to the extreme cold. \nTambi got a major eye injury while working in the workshop, which has \nbeen well looked after by Aloke by surgery. Snow profiling on the ice shelf by \nthe author, releasing of meteorological balloons for upper air study and \nrecording other meteorological data by Rizvi and study of bacteria of Dakshin \nGangotri bases by Prabhu have become regular features of day-to-day \nactivities. Auroras are often observed on clear nights. Despite of all \nuncertainties in stock the first wintering party is ready and fully confident to \nface the challenging task lying ahead.",
+      "char_count": 4643
+    },
+    {
+      "page_number": 44,
+      "text": "1. GARAGE WORKSHOP \n2. \nELECTRICIANS WORKSHOP \n3. \nDIESEL MECHANICS WORKSHOP \n4. \nGENERATOR ROOM \n5. \nBOILER ROOM/DAILY OIL STORE \n6. \nCARPENTER'S WORKSHOP \n7. \nWEEKLEY OIL STORE \n8. \nLABORATORY \n9. \nDARK ROOM \n10. SURGERY \n11. BASE COMMANDER'S OFFICE \n12. ACCESS LINK \n13. MELT TANK \n14. SNOW MELT PLANT \n15. OUTDOOR CLOTHING STORE \n16. \nTWOMANBUNKROOM \n17. LOUNDRY \n18. WASHROOM AND TOILETS \n19. KITCHEN \n20. COLD ROOM \n21. LARDER \n22. \nDINING ROOM/LOUNGE \n23. \nRADIO ROOM \n24. MISC. STORAGE \n25. SCIENTIFIC EQUIPMENT STORE \n26. \nFOOD AND GENERAL STORE \n27. \nESCAPE SHAFT \n28. TOILETS",
+      "char_count": 586
+    },
+    {
+      "page_number": 45,
+      "text": "Maj. P. K. NAIR \nCapt. ANIL HARNAL \nConstruction \nOf The Indian Antarctic \nResearch Station \n\"Dakshin Gangotri\" \nThere is a flurry of activity inside the station. Finishing touches are being given \nbefore final departure. A blizzard rages outside with wind speeds gusting upto \n150 kilometres per hour. The mercury has dropped to — 27°C and visibility is \nrestricted to only a few metres. Conditions inside the base are very \ncomfortable. The central heating system is on, and under test along with the \nother systems. The temperature inside is about + 12°C. The kitchen is fully \nfunctional and mugs of steaming coffee are passed around. \nA communication from the ship on the satellite communication system brings \nthe news that the weather is likely to dear for a few hours and all personel \nmust move back to the ship. Twelve persons are being left behind to man the \nstation during the long Antarctic winter. There is a sudden change of mood. \nThe men being left behind pen their last letters to their lovedones. Somebody \nswitches on a nostalgie marching tune. \nThis, then, is the culmination of two months of sustained effort. A \npermanent Antarctic station has been constructed and a wintering party is \nbeing left behind, an achievement made possible by the dedicated labour of a \nmotivated group of people. \nHow did it all begin? The primary objective of the Third Indian Expedition to \nAntarctica was the construction of a permanent manned station, besides \ncarrying out a number of scientific experiments and investigations. For this \npurpose a team of 81 members was selected from organisations all over the \ncountry. The logistic support was provided by the defence services, which is \nthe usual practice with all countries. The Corps of Engineers of the Indian \nArmy was given the actual responsibility of construction of the station. For this \npurpose, personnel was specially selected and trained. The operation, repair \nand maintainance of the snow vehicles was also undertaken by the army team. \nMS FINNPOLARIS moored to the sea ice on 27 December 1983. Ma t.me \nwas wasted and the vehicles were offloaded onto the sea ice, after locating a \nsuitable ramp for negotiating onto the shelf from the sea ice. The \nrecconoissance helicopters played a very useful role in locating the site of the \nstation which had been selected provisionally from maps and air photos. \nOperation \"WHISK\" was the name given to the task of offloading the stores \nfrom the ship and getting them to the base camp. So the MI-8 helicopter was \noperational from the 29th of December and worked unceasingly till all the \nstores had been offloaded. The total quantity of stores carried was about 500 \ntons, not including the fuel, which itself was about 400 tons. The foe! was \nshifted to the base camp by snow vehicles and sledges only after the ship \ncame alongside the ice shelf. \nTHE PLAN OF THE DAKSHIN GANGOTRI STATION BUILDING.",
+      "char_count": 2922
+    },
+    {
+      "page_number": 46,
+      "text": "At the base camp things were really humming. The camp itself was set up \nand consisted of 14 Antarctic Survival Tents and 6 Indian Medium Arctic Tents. \nDigging of the foundation for the station began and we started laying the \nfoundation. A little time was lost, about 2 days, when the foundation got \ncovered with 1-5 metres of snow because of a blizzard. It had to be cleared. \nThe building now started to grow very fast, and by 22 January the structure of \nthe building was complete. \nNow started the difficult part of making the structure filt for living. The \nstation consists of 2 double storeyed blocks connected by a link block. The task \nof providing power, water and heating started. The following systems were \ninstalled: \na) Electric supply, by three 62,5 KVA generator sets running on Jet Aviation \nfuel \nb) Hot and cold water supply \nc) Two boilers \nd) Central heating by a low pressure hot water radiator system \ne) A plant for melting snow for water \nf) Waste disposal and sewage \ng) Chemical toilets \nh) Heated fresh air supply \nj) Extract ventilation \nk) A warm air unit for heating \"A\" block. \nSo much work in so less time was possible only by the tireless and dedicated \nworking of the team, who worked from 8 AM to 11 PM with only one hour \nbreak for lunch. \nIn the meantime, a satellite communication terminal was set up in a servival \ntent and people could talk to their homes. Later, when the building was \ncomplete, another terminal was installed inside in the communications room. \nSlowly, the scientists who were to stay for winter moved in and set up their \nlaboratories, and before this team left Antarctica, they had already started \ntheir experiments. \nWe had many visitors to the base camp on our Republic Day ceremonies. \nThey were Russians and East Germas from their Antarctic stations. But one \nvisitor to the station who was photographed the most was a solitary penguin \nwho decided to make his home in our base camp. \nSoon the long days started growing darker and the moon began to shine in \nthe nights. It started getting colder with temperatures touching about — 30°C \nwith steady winds of about 80 to 100 kmph. The time for the first winter \nseason in the new base \"DAKSHIN GANGOTRI\", had arrived. We said our \ngoodbyes and left base camp, leaving behind many memories and an \neverlasting landmark to show the dedication and suicerity of all those who \nworked to make the station a reality. \nIn the end, it is worth mentioning that this is the first time that a station has \nbeen built in the Antarctica in only one summer, starting from scratch. And the \nIndian Army Engineers lived up to their motto of \"SARVATRA\", meaning \n\"EVERYWHERE\".",
+      "char_count": 2680
+    },
+    {
+      "page_number": 47,
+      "text": "MI-8 ON THE HELIDECK. \nSNOWCAT AND THE SLEDGE. \nNotes \nFrom Antarctica \nBy An Observer \nINTRODUCTION \nAfter passing through the floe ice area between the latitudes of 65°S and 70°S \nMS Finnpolaris moored alongside the solid sea-ice on the 26th of December at \nmidnight. The sun was about 15° above the horizon and there was no wind. \nThe unloading of cargo started the next day. The heaviest loads, 4 snowcats, \nwere unloaded directly onto the ice and then driven via a slope at the shelf ice \nedge found by helicopter reconnaissance to the place which had been chosen \nfor the new station. The rest of the cargo including provisions, building \nmaterial, generators, radio equipment with 2 satellite communication units, \nscientific equipment, etc. were taken to the station by helicopters and later \n— after getting moored alongside the shelf ice edge — by snowcats. The \namount of cargo was about 700 tons and the unloading was finished at the \nend of January. The helicopter operations were sometimes hampered by \nsnowdrifts, which took place during stronger winds (above 10 m/s). Visibility \non the ground was then reduced and the pilot could not see the ground to put \ndown the cargo safely. \nThe ship carried 4 helicopters: 2 Soviet-built Ml 8:s, the same type as used \nby the Finnish Air Force, and 2 Alouettes designed in France and built in India \nunder licence. The payload of Ml 8 is about 2.5 tons and of Alouette about \n0.9 tons, which means that several hundred flights would have been required \nif all the cargo had been unloaded by helicopters. Had we not been able to \nmoor alongside the shelf ice it would not have been possible to unload directly \nto the sledges towed by the snowcats. \nStig Malm berg",
+      "char_count": 1720
+    },
+    {
+      "page_number": 48,
+      "text": "LIFTING CHETAK INTO THE HOLD. \nTHE WEATHER AND THE SEA \nDuring the antarctic summer the weather was good most of the time this year, \nwhich meant clear sky and weak winds. Air temperature was close to 0°C \n(during our stay the variation was — 10... +2°C in the daytime and a Few \ndegrees colder at nights). Over the Antarctic there was an almost constant \nhigh pressure. The weak winds and brigt sunshine raised the surface water \ntemperature resulting in stronger winds every now and then (a few day \nintervals) until the air mass was stabilized again. These stronger winds meant \nthat we had to leave the ice edge and stay out at clear water. The stronger \nwinds also resulted in a break in the unloading operations. \nThe low pressure route is between the latitudes of 50°S and 60°S. During \nour journey down there were temporary winds up to 30 rn/s in this part of the \nroute. The sea state was such that the ship speed had to be reduced to \ndecrease pitching and heaving when sailing against the wind, especially when \nthe amount of cargo was small, about 3000 tons including bunker and water \n(the deadweight of the ship is 14.900 tons, deadweight = weight of cargo, \nfuel, water and provisions). \nAs mentioned earlier, we passed through the flow ice belt between the \nlatitudes 65°S and 70°S. This floe ice consisted of 50...80 cm thick ice floes \nwith a diameter of 5...50 m. Among the ice floes there were icebergs of \ndifferent sizes and shapes floating. The biggest had a height above sea level of \napprox. 30 m, which means a draft of about 200...250 m, depending on the \nshape and density. North of lat. 65°S there is a westerly current and south of \nlat. 65°S an easterly current. Close to the shelf ice the easterly current clears \nthe area from ice, which drifts to the Weddel Sea and is then carried further \nnorth by the westerly current, The landfast sea-ice by the continent has a \nthickness of about 2...4 m, depending on how many melting periods it has \nsurvived. When mooring alongside the sea-ice the task was to find a place \nwhich is kept clear of ice by the current so that the moving floes would not hit \nthe ship. The ship was moored by means of wooden poles. The sea-ice is \nbrittle (considerably more brittle than the brackish sea-water ice in the Baltic) \nso it cracks very easily when the swell starts and a new mooring site had to \nbe looked for. \nTHE SHIP \nMS Finnpolaris (main particulars: length 160 m, breadth 21 m) is originally \ndesigned for export of Finnish pulp and paper products from Finland and \nimport of bulk (coal, phosphate etc.) to Finland and is built to the Finnish ice \nclass 1A Super. The ship has in principle a double hull amidships between the \nengine room bulkhead aft and the collision bulkhead in the fore. The holds \nhave been given a parallelepipeds shape (box shape) for rational cargo \nhandling where the cargo is moved vertically only, The tweendecks are \nequipped with retractable bulkheads in order to keep the box-like shape when \nthe tweendeck hatch covers are closed. \nANTARCTIC FLOES.",
+      "char_count": 3055
+    },
+    {
+      "page_number": 49,
+      "text": "COMPLETING THE TASK \nFINNPOLARIS MOORED ON TO SHELF ICE. \nBy the end of January the cargo had been unloaded and during February the \nconstruction teams could fully concentrate on the erection of the stamen and \ninternal installations. The members of the construction teams belonged to the \nIndian Army. The Navy and the Air Force which had been responsible for the \ncargo handling operations could now assist in construction work and the \nstation was ready for preliminary test runs of different installations at the end \nof February on schedule. \nThe wintering party moved into the building on the lost days of February. \nSoon the day came when it was time to say goodbye to the wintering party, \ni.e. the 1st of March. When the ship sailed the same day the weather was as \nbeautiful as it was when we arrived at Antarctica on the 26th of December. \nOur voyage back to Mauritius passed without any particular events worth \nmentioning. The scientists took water samples almost every day utAl we \nreached Mauritius. \nThe goal of the marine research during the voyage was to determine the \nproductivity of the sea. Water samples taken from different water depths were \nprimarily analyzed in the temporary laboratory container onboard. Further \nanalyses were to be carried out in India. Different organisms (plankton, krill \netc.) were also caught for further studies. It is common knowledge that the \narctic and antarctic waters have the greatest productivity on earth. This is due \nto the vertical water streams, which bring a great amount of oxygen into the \nsea-water, and to the solar radiation in the summertime. Experience has \nshown that unrestricted exploration of a certain species (e.g. krill, whaile, \nseal, etc.) will result in an unpredictable disturbance in reproduction and in the \nrelation between different species. \nBeyond the conventional metheorological observations (balloon-carried radio \nsondes) research was conducted to find out the amount of ozone in the air. \nYet a fully acceptable theory for the distribution variation of ozone over the \nglobe has not been presented (the ozone concentration over oceans and \nindustrialized land areas is high while it is low over unindustrialized land \nareas). \nAmong the scientists (of which 2 were women) there was also a group of \ngeologists, who during our stay in Antarctica went for a few weeks trip to the \nmountain area further inland to take rock-samples and ice samples from the \nshelf ice. \nRESEARCH ACTIVITIES \nOwing to the longitudinal side bulkhead, the ship has a good safety even if \nthe outer shell would be punctured by a growler (ice formation with a height \nunder approx 1 m above sea level). These growlers are difficult to see at \nreduced visibility and too small to be seen on the radar, whereas icebergs can \nbe seen on the radar. All ship officers had experience in ship operations in \nicecovered waters and the ship was properly operated. \nThe propulsion machinery consists of one directly connected 6-cylinder \nslow-running supercharged two-stroke crosshead diesel, which has an output \nof 7300 kW (9900 hp). This kind of a diesel engine should be run at a high \ncontinuous rating (approx. 50.. .80%) in order to avoid soot and slag \nformation in the exhaust piping and turbine. This is an obvious disadvantage, \nwhich can partly be overcome by using diesel oil instead of heavy fuel oil. \nWhile looking for a suitable mooring site, pulling out for unfavourable weather \nor ice conditions and taking samples for marine research, we sailed with a low \nengine rating. It was not possible to anchor due to great water depths. \nOnboard the ship were ordinary crew and 81 Indians 15 of whom \nrepresented different research centres. The rest were from the Indian Army, \nNavy and Air Force.",
+      "char_count": 3771
+    },
+    {
+      "page_number": 50,
+      "text": "From The Notice Board: \nSERVICES AVAILABLE \nEXPERTS \n* IN CLADING WORK \n* WORK CAN BE UNDERTAKEN \nIN ANY WEATHER CONDITION \n(Up to Max. Wind Sp. 35 Kts) \n(Up to Min. Temp —20° C) \n•NOMINAL CHARGES \nEXPERTS IN \n* RUNNING CANTEEN/CAFETERIA/RESTAURANT \n* CAN PRODUCE ANYTHING OUT OF NOTHING \n* CERTIFICATE (FROM KAUKO) HELD. \nHOUSE FULL \nAT INDIAN HALL \nEVERY NIGHT \nAFTER 2200 HRS. \nHOUSE FULL \nHOUSE FULL \nHOUSE FULL \nHOUSE FULL \nRASAM HOUSE \nSambar Street \nBangalore, Karnataka India \nTel 001 \nCONTACT: \nCONTACT: \nCHOU HOUSE \nANTARCTICA STREET \nJULLUNDER \nPUNJAB INDIA \nTEL: 007",
+      "char_count": 578
+    },
+    {
+      "page_number": 51,
+      "text": "Ml-8 PILOT. \nSMILE! \nHELLO! \nDR ASHUTOSH SINGH AND AMATEUR STATION ONBOARD THE SHIP.",
+      "char_count": 84
+    },
+    {
+      "page_number": 52,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 53,
+      "text": "PRINCE \n/ \nEDWARD' \nISLAND/ \nBOUVERT \nISLAND \n.CROZET ISLAND \nKERGVELEN ISLAND \nINDIRA SEA MT...HEARD ISLAND \nTHIRD INDIAN ANTARCTIC EXPEDITION \n3rd DEC 1983 TO 29th MAR 1984 \nCRUISE TRACK FROM GOA \nTO ANTARCTICA AND BACK \n, INDIA \nGOA \nMAURITIUS \nINDIAN OCEAN \nDAKSHIN \nGANGOTRI \nCRUISE TRACK",
+      "char_count": 293
+    },
+    {
+      "page_number": 54,
+      "text": "",
+      "char_count": 0
+    },
+    {
+      "page_number": 55,
+      "text": "Shipbuilding In Wartsila \nWartsila is one of the largest industrial enterprises in Finland. The original \ncompany was founded in 1834 but Wartsila has grown to its present \nmagnitude by mergers and acquisition of other companies as well. Yet our \ntraditions os shipbuilders date back-to 1741 when the first shipyard was \nfounded in Finland. \nToday Wartsila comprises some 20 factories in Finland and has also \nproduction plants in Sweden, Norway, United States and Singapore. \nThe company which employs 17.500 people is engaged in shipbuilding, \ndiesel engine manufacturing, heavy engineering and in the production of locks \nand sanitary porcelain. The company also produces consumer goods such as \nhousehold porcelain, glass and enamel. \nThe major sector is shipbuilding, the sales of which amounted to USD 700 \nmillion in 1983. The Shipbuilding Division has specialized in the building of \ntechnically demanding tonnage, e.g. cruise ships, car/passenger ferries, \nicebreakers, gas tankers, chemical carriers and sophisticated dry cargo vessels. \nThe second biggest sector is diesel engine manufacturing with sales in excess \nof about USD 145 million. Wartsila, which is a public company, has 17.500 \nshareholders and is quoted on the Stock Exchange in Helsinki, Stockholm and \nLondon. In 1983 the total sales of the company amounted to about USD one \nbillion. \nHELSINKI SHIPYARD \nThe Helsinki Shipyard, founded 1865, is the most specialized shipyard within \nthe Wartsila Shipbuilding Division. The yard is the leading builder of \nicebreakers and other special vessels for navigation in arctic conditions. The \nmajority of the world's icebreakers since the Second World War have been \ncommissioned from the yard. \nAlso in the building of luxury cruise liners and car passenger ferries is this \nyard famed for unique design, advanced technology and high quality. Full \nconsideration of the customers' requirements and the know-how obtained from \nfollowing up the ships' performance have contributed to make the yard the \nmarket leader. \nThe production programme further includes such types of ships as \ncable-layers and advanced naval craft, which also demand a considerable \nresearch and design effort. \nThe yard has also been the first to lengthen modern cruise liners — no \ndoubt a challenging task for which the yard is eminently equipped. \nShipbuilding takes place in a 400.000 m3 enclosed building hall, one of the \nlargest indoor shipbuilding facilities in the world, which can accommodate \ncruise liners up to 50.000 GRT and icebreakers up to 160.000 SHP. Necessary \nfacilities for modern steel processing and rational ship outfitting are also of \nlatest construction. \nWARTSILA HELSINKI SHIPYARD.",
+      "char_count": 2705
+    },
+    {
+      "page_number": 56,
+      "text": "PERNO SHIPYARD \nThe Perno Shipyard, w h i c h is the biggest facility within the Wdrtsild \nShipbuilding Division, w a s built in 1976 as a hull construction facility. In 1982 \nall the shipbuilding facilities — outfitting included — were transferred from the \nolder Turku yard to the Perno facility. This two-stage investment and the \nconcentration of all newbuiiding activities in the Turku region to Perno resulted \nin one of the most comprehensively outfitted and efficient yards in Europe. The \nyard area of 1.440.000 square meters allows for future expansion and \ndiversification — even beyond the scope of traditional shipbuilding. Ships are \ngenerally built up to a size of abt. 100.000 t.d.w. but the flexible dock \narrangement enables the construction of vessels practically regardless of size. \nThe lenght of the building dock is 250/365 m the width being 80 m while the \ndepth is 12 m below sea level. The capacity of the gantry crane is 600 t the \nhoist height being 70 m. The dock and the outfitting quays in addition served \nby several 100-10 t jib cranes. The number of employees is about 3500. \nPERNO SHIPYARD.",
+      "char_count": 1125
+    },
+    {
+      "page_number": 57,
+      "text": "Icebreaking Research \nAt Wartsila \nThe growing interest in arctic and antarctic activities in particular, has \nconsiderably increased the need for icebreaking research. The basic technical \nproblems are the same for ships and offshore structures. Fig 1 shows a \nsystematic approach to analysing the problems related to icebreaking and to \ndifferent areas of icebreaking research. The effect of sea ice or low air \ntemperatures has to be considered in a great number of details of ships and \noffshore structures intended for service in ice. We can conclude that the special \nenvironment has to be considered in the desing and construction of almost \nevery system or component of a ship or offshore structure. And to make this \npossible, information must be available on the behaviour of the components \nand systems in real ice and frost conditions. \nIn icebreaking research, the following three techniques are in use: \n— full-scale testing \n— model testing using simulated ice \n— analytical investigation \nAll of these are important and in practice they are used to complement each \nother. \nHull main dimension! \nMaterials in »B»nl \nHull form \nEquipment and machinery \nHull appendage configuration \noutside or in cold apacea \nHull aurtece \nBallaat water, hydraulic oil etc. \nPropulaion machinery power \nfluid ayatema \nType of machinery \nHeating \nPower, torque, rpm - characteristics \nInsulation \nDynamic characteristics of machinery \nAccommodation \nManoeuvrability \nStructure on weather deck \nSpecial devices for improving \nwith regard to ice \nicebreaking capability \naccumulation \nHull structure \n(icing) \nHull appendage structure \nStructure of propeller(s), shafting and \npropulsion machinery \nBehaviour of propulsion machinery \nCooling water syatem \nFACTORS TO BE CONSIDERED WHEN DESIGNING ICE-GOING SHIP. \nEnvironmental feature! related \nto ice navigation \nReguiremente \nfor the ship \nA FULL-SCALE TEST IN A PRE-SAWN ICE FIELD UNDERTAKEN TO STADY THE COMPONENTS \nOF ICE RECITANCE. \nTHE ANTARCTIC ICEBREAKER \"ALMIRANTE IRIZAR\" UNDERGOING ICE TRIALS IN THE \nWEDDEL SEA.",
+      "char_count": 2070
+    },
+    {
+      "page_number": 58,
+      "text": "Full-scale testing is, of course, the technique which gives the most reliable \ndata. In this respect it is superior to the others and must form the basis of all \nicebreaking research. This technique itself can be used in icebreaking \ninvestigations, but it is chiefly needed for calibrating and developing the \nmethods to be used in other modes of research. \nAt the Wartsila Helsinki Shipyard we have tested or been involved in the \ntesting of ships of numerous different types, from small icebreaking tugs to a \nlarge icebreaking tanker (Fig. 2 and 3.) \nBasically, all kinds of ice conditions in nature can be simulated in an ice \nlaboratory, Fig. 4, and tests can be made with all kind of structures — ships, \nfloating offshore platforms, jack-up structures, etc (Fig. 5). \nAll situations normally encountered by a ship in arctic or subarctic \nnavigation can be simulated in the laboratory \n— level ice \n— channels (own and clogged channel) \n— ridges (first-year and multi-year ridges; floating and grounded) \n— ridge fields \n— rubble fields \n— ice under pressure \n— small growler-type icebergs \n— floes \n— restricted water depth \nMuch remains to be done to furter raise the level of icebreaking model tests, \nand the present techniques are still far from the accuracy of the techniques \nused in ice-free testing. It should be noted that model testing in ice-free \nconditions has been routine for more than a hundred years, while icebreaking \nmodel tests have not been performed for more than 20 years. One obstacle to \nthe utilization of ice model tests has been the characteristic of the model ice. \nRecent work done by Wartsila is expected to result in a new model ice material \ncalled MC Model Ice, which will have much better characteristics than the \ntraditional high-salinity ice or carbamide ice, and some other advantages as \nwell. \nDuring the last 14 years of regular model testing, we have found that the best \nresults are obtained when full-scale tests and model tests go hand in hand. We \nhave also found that close contact between the ice laboratory and the shipyard \nbuilding the icebreakers, though not absolutely necessary, is of the greatest \nbenefit. The icebreaking model test basin at the Wartsila Arctic Research \nCentre (WARC) is so far the only icebreaking laboratory in the world that is \nowned by a shipbuilding division and that has close collaboration with a \nshipyard. The whole range of activities is thus linked together in a chain, \nwhich leads from basic ice research through applied research and model tests, \nproduct development and design to production and full-scale tests. All these \nphases may give, and actually do give, feed-back to each other, and we thus \nhave real control over the whole field. This is why Wartsila, a privately owned \ncompany, has considered it well worthwhile to build its own ice laboratory. \nWARTSILA ARCTIC RESEARCH CENTRE IN HELSINKI, FINLAND. \nA DRILLING VESSEL IN AN ICE IMPACT TEST FOR DIMENSIONING THE DYNAMIC \nPOSITIONING SYSTEM.",
+      "char_count": 3003
+    },
+    {
+      "page_number": 59,
+      "text": "Index \n3 \n5 \n7 \n9 \n15 \n17 \n20 \n21 \n40 \n42 \n45 \n47 \n50 \n53 \n55 \n56 \nFOREWORD \nDR S.Z.QASIM \nDR HARSH GUPTA \nEXPEDITION MEMBERS \nWINTERING PARTY \nFINNPOLARIS OFFICERS AND CREW \nSEA CHART \nDIARY \nSCIENTIFIC WORK DURING THE EXPEDITION \nWINTERING IN ANTARCTICA \nGONSTRUCTION OF D.G. STATION \nNOTES FROM ANTARCTICA \nFROM THE NITICE BOARD \nCRUISE TRACK MAP \nWARTSILA \nSHIPBUILDING IN WARTSILA",
+      "char_count": 385
+    }
+  ]
+}

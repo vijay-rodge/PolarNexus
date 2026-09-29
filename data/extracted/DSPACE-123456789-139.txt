@@ -1,0 +1,723 @@
+=== Page 1 ===
+D i s t r i b u t i o n of a F e w Trace M e t a l s in a S e c t i o n
+i n t h e S o u t h - W e s t e r n I n d i a n O c e a n .
+Sujata Sanzgiry1, Analia Mesquita1 and R. Sen Gupta1
+ABSTRACT
+Determination of Cu, Cd, Fe, Mn, Zn, Pb, Co and Ni has been carried out at different depths at 8 stations- one station being in
+an Antarctic polynya and 7 in the Southern Ocean. The depthwise and surface-wise variations have been discussed in different parts
+of the sampling region - Antarctic polynya, Antarctic divergence, Antarctic convergence and subtropical convergence regions.
+Average dissolved Cu and Cd in the 100-500 m depth layer in the Antarctic region is nearly the same as the average concentrations of
+the two metals in the sub-tropical surface water. In general, dissolved Fe shows enrichment towards the bottom except in the
+Antarctic divergence region. Particulate Fe is high in the Antarctic region. Mn concentration is almost similar in the 100-500 m layer
+throughout the sampling region. Dissolved as well as particulate Zn is higher at surface and lower in the bottom layer. Pb, Co and Ni
+have no definite trend of variation in both dissolved as well as particulate forms.
+INTRODUCTION
+Man's impact on the oceanic environment has always been the cause for a great deal of concern.
+Inspite of several investigations on trace metals in different waters, the information from the world oceans
+is never complete either due to small number of samplings over a vast area or due to lack of reliable data
+because of varying techniques of sampling and analysis. The fact that the study of trace metals in different
+natural environments is essential, needs no emphasis. Several workers have reported data on the
+distribution of trace metals in different oceanic environments. Chester and Stoner (1974) have studied the
+distribution of some trace metals in different regions of the world ocean and have discussed their data in
+comparison with the earlier ones. Harris and Fabris (1979) have reported data on particulate Cd, Cu, Pb
+and Zn in the Indian Ocean sector of the Antarctic Ocean and Danielsson (1980) reported values of some
+trace metals in the Western Indian Ocean.
+Earlier studies carried out by us were mostly in regions close to the coast in the Arabian Sea and the
+Bay of Bengal where man's impact has an influence (Sea Gupta et al 1978, Sanzgiry and Moraes 1979,
+Braganca and Sanzgiry 1980 and Sanzgiry and Braganca 1981). Comparison of the coastal or nearshore
+data with open ocean data is very necessary to understand the magnitude of human influence on the
+oceanic environment. Utilizing the opportunity to collect data from the unpolluted Southern Ocean, water
+samples were collected for trace metal analysis during the First Indian Expedition to Antarctica on board
+M. V. Polar Circle from December 1981 to February 1982. This study deals with the distribution of
+dissolved and particulate forms of a few trace metals in the Southern Ocean and their comparison with
+earlier data.
+METHODS OF COLLECTION AND ANALYSIS
+Water samples were collected using Niskin GOFLO sampler using stainless steel wire. Sampling was
+done at different depths at 8 stations (G2 to 16) between 69o58.14'S Lat., 11o54.65'E. Long, and
+39o25.6'S Lat. and 45o0.3.8'E Long. To avoid contamination from the ship's hull the first sample was
+collected at 10 m and treated as a surface sample. Sampling could not be done at more frequent intervals as
+well as at the same depths at all the stations due to technical problems during the expedition. However,
+stations have been covered in such a way that waters having antarctic to subtropical characteristics have
+been sampled. Station G2 is in an antarctic polynya, G4, G8 and G9 are representative of antarctic
+divergence, G10 and G12 are in the antarctic convergence region and G14 and G16 are in the subtropical
+convergence waters.
+The method of analysis was similar to that described earlier (Sen Gupta et al 1978, Sanzgiry and
+Moraes 1979, Braganca and Sanzgiry 1980 and Sanzgiry and Braganca 1981). The precision of the analysis
+reported as coefficients of variation is less than or equal to 10% for all the metals.
+_____________________________________________________________________________________________________________________________________
+1 National Institute of Oceanography, Dona Paula, Goa 403 004.
+95
+
+--- Page Break ---
+
+=== Page 2 ===
+Distribution of Few Trace...
+TABLE 2 
+Concentrations of dissolved trace metals (in μg/1) (values are average ± SE)
+Region 
+Depth range
+(m)
+Antarctic 
+10
+Polynya
+100-500
+Antarctic 
+10
+Divergence
+100—500
+below 500
+Antarctic 
+10
+Convergence
+100-500
+Subtropical 
+10
+convergence
+100-500
+ND-non detectable
+Cu
+3.1 ± 0.2
+3 ±0.2
+4.7 ± 0.2
+1.9±0.1
+1.5 ±0.1
+1.1±0.1
+1.1±0.1
+1.5 + 0.1
+2.5 ±0.1
+Cd
+1.5 ± 0.1
+0.5 ± 0.03
+0.7 ±0.04
+0.8 ± 0.05
+0.4 ± 0.02
+0.4 ± 0.02
+0.8 ±0.02
+0.9 + 0.05
+0.5 ±0.04
+Fe
+2 ± 0.2
+4 ± 0.4
+6.5 ± 0.6
+5.2±0.5
+4.7±0.5
+6.9 ± 0.7
+7.8±0.7
+7.8 + 0.8
+18.9±1.9
+Mn
+ND
+2.8±0.2-
+1.3 ± 0.1
+3.7 ±0.3
+1.4 ±0.1
+2.1 ±0.2
+15± 0.1
+1.8 + 0.2
+1.6±0.1
+Zn
+46.8 ± 4.6
+12 ± 1.2
+29.6±3
+15.3±1.5
+11.1±1.1
+19.3±1.9
+18.7±1.9
+21+2
+20.4 ±2
+Pb
+2.6±0.2
+1.7 ± 0.1
+2.1 ±0.2
+3.2±0.3
+2.3±0.2
+2.5±0.2
+1.7 ± 0.1
+3.5 + 0.3
+3.3+0.3
+Co
+1.4±0.1
+1.4±0.1
+0.9 ±0.07
+0.5 ±0.04
+0.6 ±0.04
+0.6±0.04
+0.5 ± 0.04
+1.6+0.1
+1.6±0.1
+Ni
+3.7 ± 0.3
+3.5 ± 0.2
+3 ± 0.2
+3.9± 0.3
+2.6± 0.2
+1.6±0.1
+1.8 ± 0.1
+1.6±0.1
+2.9 ±0.2
+96
+Srn
+No
+G2
+G2
+G8
+G9
+G10
+til!
+G14
+G16
+ND–
+NA–
+Lat S 
+69o58.14'
+68o43.50'
+63o30.20'
+61o28.21'
+59o58.74'
+52=48.14'
+45o38.07'
+39o25.60'
+not detectable
+not analysed
+Long E 
+11o54.65'
+11o06.70'
+22o26.13'
+25o01.15'
+26o49.81'
+34=25.44'
+40°24.62'
+45o03.80'
+Depth
+m
+10
+200
+200
+1000
+1500
+100
+500
+10
+10
+100
+500
+10
+100
+500
+to
+100
+500
+10
+100
+500
+Cu
+D
+3.1
+3.0
+2.5
+1.7
+1.4
+1.9
+1.3
+4.7
+1.2
+1.5
+<1
+1.1
+<1
+1.0
+1.2
+1.8
+1.4
+1.8
+1.4
+5.5
+P
+107
+53
+103
+70
+59
+23
+48
+37
+104
+ND
+117
+54
+71
+71
+100
+35
+ND
+NA
+NA
+NA
+Cd
+D
+1.5
+0.5
+ND
+0.7
+0.2
+0.8
+0.8
+0.7
+0.2
+0.3
+0.24
+0.6
+0.6
+0.3
+0.9
+0.5
+1.1
+0.8
+0.8
+0.7
+P
+21
+23
+26
+18
+ND
+28
+ND
+19
+ND
+39
+27
+ND
+ND
+ND
+ND
+ND
+ND
+NA
+NA
+NA
+Fe
+D
+2
+4
+3.1
+2.7
+6.6
+8.2
+4.3
+6.5
+6
+11.1
+7
+7.1
+7
+6.1
+5.3
+13
+10
+10.25
+11.8
+40.7
+P
+2528
+222
+2002
+575
+72
+175
+709
+965
+1076
+632
+1780
+2220
+ND
+1146
+2417
+ND
+35
+NA
+NA
+NA
+Mn
+D
+ND
+2.8
+2.8
+1.6
+1.2
+4.1
+4.1
+1.3
+1.6
+2.1
+1.6
+2.6
+<1
+1.4
+2.5
+2.1
+<1
+1.1
+<1
+2.1
+P
+133
+ND
+ND
+23
+14
+ND
+17
+ND
+ND
+14
+ND
+ND
+ND
+ND
+10
+ND
+ND
+NA
+NA
+NA
+Zn
+D
+46.8
+12
+17
+8.9
+13.3
+10.9
+17.9
+29.6
+16.6
+28.5
+16.8
+21.9
+16.8
+12.8
+25.1
+11.6
+12.9
+17
+13.5
+43.6
+P
+350
+92
+274
+137
+ND
+93
+72
+141
+873
+147
+99
+189
+1445
+28
+2359
+ND
+173
+NA
+NA
+NA
+Pb
+D
+2.6
+1.7
+2.7
+2.2
+2.4
+3.5
+3.4
+2.1
+2.9
+2.9
+<1
+2.1
+1.7
+1.3
+2.4
+1.2
+4.9
+4.6
+3.5
+3.4
+P
+52
+ND
+37
+160
+ND
+ND
+71
+88
+214
+172
+ND
+ND
+ND
+46
+105
+69
+69
+NA
+NA
+NA
+Co
+D
+1.4
+1.4
+ND
+ND
+1.1
+ND
+1.5
+0.9
+1.1
+1.0
+ND
+ND
+<1
+ND
+1.5
+1.7
+1.9
+1.6
+<1
+1.8
+P
+ND
+ND
+ND
+ND
+17
+ND
+15
+ND
+ND
+ND
+ND
+17
+ND
+ND
+29
+16
+20
+NA
+NA
+NA
+Ni
+D
+3.7
+3.5
+1.8
+2.1
+3.0
+6.6
+3.4
+3.0
+3.2
+2.3
+1.2
+ND
+2.7
+<1
+1.5
+2.7
+3.4
+1.7
+2.5
+2.8
+P
+124
+ND
+25
+16
+14
+24
+ND
+ND
+ND
+ND
+25
+13
+16
+ND
+27
+ND
+ND
+NA
+NA
+NA
+_____________________________________________________________________________________________________________________
+RESULTS AND DISCUSSION
+Table 1 shows the location of the sampling stations and the trace metal concentrations (dissolved and
+particulate) at different depths. The average concentrations of all the trace metals in different regions, as
+discussed in the text, are given in Table 2. Due to difficulties encountered in sampling, data of very few
+stations could be discussed. However, an attempt has been made at comparison. The distribution of
+individual trace metals is discussed below.
+TABLE 1 
+Concentrations of trace metals (D—Dissolved in μ/1; P—Particulate in μg/gm,dry weight)
+
+--- Page Break ---
+
+=== Page 3 ===
+...Sujata Sanzgiry, Analia Mesquita and R. Sen Gupta
+Dissolved Cu concentration hardly shows depthwise variation in waters of the polynya as expected
+from the mixed nature of the water. In the antarctic region, average dissolved Cu decreases from surface
+to bottom while it is the reverse in the subtropical convergence region. Average Cu concentration in the
+antarctic waters in the depth range 100-500 m shows a similarity to that of the subtropical surface waters.
+The range of surface Cu observed in the present study-is 1-4.7μg/1 which agrees fairly well with the
+observations of Chester and Stoner (1974). However, average surface Cu in this study is higher than that in
+their study. This could be due to very few surface samples analysed by us.
+97
+Copper and Cadmium
+________________________________________________________________________________________________________________________________________
+In the antarctic polynya dissolved Cd decreases deeper down while the surface average is always
+lower than the average between 100-500 m for all the remaining 3 regions considered. As in the case of Cu,
+antarctic waters between 100-500 m have on an average almost the same Cd concentration as the
+subtropical surface waters. The overall range of surface Cd is 0.18-1.5μg/1 with an average of 0.8μg/1
+which is much higher than that reported by Chester and Stoner (1974) for the world ocean waters
+(0.02-0.18 μg/l; avg 0.07μg/1). Concentrations as high as 4.2μg/1 of Cd have been reported in surface
+waters of the English Channel by Abdullah et al(l972). Stations in the present study reflect intermediate
+characteristics between oceanic and shelf waters.
+Particulate Cu shows a scatter and indicates no trend of variation for drawing any definite conclusion
+while particulate Cd is almost negligible.
+Iron and Manganese
+Dissolved Fe shows a steady increase from the antarctic surface towards the subtropical surface while
+particulate Fe is fairly high in the antarctic region, reflecting the possibility of presence of high organic
+matter in the region resulting, probably, from ice melting. This can be seen from the very high value at the
+surface of the polynya (Stn. G2, Table 1). Average dissolved Fe shows an enrichment in the 100-500 m 
+depth in all the regions except in the antarctic divergence where the surface average is higher. At station
+G16, a typical station of the subtropical region, dissolved Fe is higher at all depths than at other stations,
+the highest being at 500 m. Observation of concentrations of dissolved Fe between 100-500 m shows that,
+average dissolved Fe in the antarctic polynya is the lowest, intermediate in the antarctic region and the
+highest in the subtropical region.
+Compared to Fe, Mn concentrations are low in the 100-500 m layer. In the polynya and antarctic
+divergence regions, Mn is higher in the 100-500 m layer than at surface while it is the reverse in the
+antarctic convergence region (Table 2). Particulate Mn is low throughout.
+Zinc
+Surface dissolved Zn is the highest in the antarctic polynya, the concentration being twice the surface
+average in the antarctic as well as the subtropical surface waters. At all the stations average Zn
+concentration at surface is higher than that at the 100-500 m layer. Average surface Zn in the antarctic and
+subtropical regions is about 23.3 μg/1. This compares well with the range 6.5-22 μg/1 from the North
+Eastern Atlantic (Riley and Taylor, 1972).
+Particulate Zn at all the stations is higher at surface and intermediate layers while it decreases at
+depths thus adding to soluble Zn pool (Table 1).
+Lead
+Surface average Pb concentrations in the polynya and antarctic region are comparable while the
+
+--- Page Break ---
+
+=== Page 4 ===
+Distribution of a Few Trace...
+subtropical surface average is higher (Table 2). Pb is an element quite prone to contamination and as sucn
+no definite conclusion about any region can be arrived at, unless there is a close frequency of sampling.
+Particulate Pb does not show any specific trend of variation however the range ND-214μg/gm (dry
+weight) agrees well with the observation of Harris and Fabris (1979) for the Indian Ocean sector of the
+Antarctic Ocean.
+NA—not analysed
+ND—not detectable
+98
+Stn. 
+Cu 
+Cd 
+Fe 
+Mn 
+Zn 
+Pb 
+Co 
+Ni
+No.
+G10
+G11
+G12
+G13
+14.5
+10.2
+59.9
+40.3
+NA
+NA
+NA
+NA
+765
+441.8
+2573
+2474
+7.6
+9.1
+25.7
+26.4
+96.3
+70.2
+621.2
+770.2
+43.3
+26.8
+527.2
+179.5
+3.3
+3.8
+—
+8.5
+ND
+2.9
+6.7
+16.6
+_________________________________________________________________________________________________________________________________________
+Cobalt and Nickel
+Concentrations of dissolved Co lie between non-detectable values to 1.9μg/1 while the particulate
+fraction is negligible. Average concentration from the polynya compares well with the subtropical
+average while in the antarctic region Co concentration is appreciably low (Table 2). In the subtropical
+region, average surface Ni concentration is 1.6μg/1 which is very similar to that in the antarctic converg-
+ence region while in the Antarctic divergence region it is almost twice as much. Our range of surface Ni is
+well within that quoted by Chester and Stoner (1974) for open ocean (<1-23.5 μg/1; avg 1.2 μg/1).
+However, our average is higher than theirs. This is due to very few samplings done by us. Particulate Ni is
+in general, negligible.
+Only a few zooplankton samples could be collected during this Expedition.The results of the analysis
+have been given in Table 3. However, no comments can be made due to lack of sufficient data.
+TABLE 3 
+Concentrations of trace metals in zooplankton (ppm, dry weight) 
+Before drawing any conclusion, regarding the intercomparison of trace metal concentrations between
+the antarctic and subtropical regions, we require to collect many more samples at stations closely spaced
+over a wide area.
+ACKNOWLEDGEMENT
+We have great pleasure in acknowledging the help, advice and leadership of Dr. S. Z. Qasim during the on board work and Dr.
+V. V. R. Varadachari for his valued support during the shore job. We thank all the members of the Expedition team particularly
+Mr. M. C Pathak, for their help during the samplings. Thanks are also due to our colleague, Mr. Tariq Kureishy for helpine in the
+analysis of zooplankton samples.
+REFERENCES
+Abdullah, M. I., L. G. Royle and A. W. Morris 1972
+Heavy metal concentration in coastal waters. Nature, 235,158-160,
+Braganca A. and S. Sanzgiry 1980
+Concentrations of a few trace metals in coastal and offshore regions of the Bay of Bengal.Ind. J. Mar. Sci., 9, 283-286.
+Chester R. and J. H, Stoner 1974
+The distributionof zinc , nickle, manganese,cadmimum,copper and iron in some surface water from the world ocean.Mar.
+Chem,2,17-32.
+
+--- Page Break ---
+
+=== Page 5 ===
+...Sujata Sanzgiry, Analia Mesquita and R. Sen Gupta
+Danielsson. L.G. 1980
+Cadmium, cobalt, copper, iron, lead, nickel and zinc in Indian Ocean water. Mar. Chem,, 8, 199-215
+Harris J. E. and G. J. Fabris 1979
+Concentrations of suspended matter and particulate cadmium, copper, lead and zinc in the Indian Ocean Sector of the Antarctic
+region. Mar. Chem., 8, 163-179.
+Riley, J. P. and D. Taylor 1972
+The concentrations of cadmium, copper, iron, manganese, molybdenum, nickel, vanadium and zinc in part of the tropical
+north-east Atlantic ocean. Deep-Sea Res., 19, 307-319.
+Sanzgiry S. and C. Moraes 1979
+Trace metals in the Laccadive Sea. Ind. J. mar. Sci., 8, 254-257.
+Sanzgiry S. and A. Braganca 1981
+Trace metals in the Andaman Sea. Ind. J. mar. Sci., 10, 238-240.
+Sen Gupta R., S. Y.S.Singbal and S. Sanzgiry 1978
+Atomic absorption analyses of a few trace metals in Arabian Sea waters. Ind. J. mar Sci., 7,295-299.
+99
+___________________________________________________________________________________________________________________________________________

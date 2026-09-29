@@ -1,0 +1,194 @@
+=== Page 1 ===
+Ninth Indian Expedition to Antarctica, Scientific Report, 1994 
+Department of Ocean Development, Technical Publication No. 6, pp. 29-34 
+Analysis of an Umbral Flare Observed from Antarctica
+WAHAB UDDIN
+Uttar Pradesh State Observatory, Manora Peak, Naini Tal - 263 129
+and
+JAGDEV SINGH
+Indian Institute of Astrophysics, Bangalore - 560 034
+Abstract
+We report here the observations in Call K of an umbral solar flare of optical importance class SF
+(subflare) which occurred on 12 Feb, 1990 . These observations have been correlated with the ones
+taken in H-alpha and in the radio region reported in Solar Geophysical Data (SGD). Though the
+umbral flare was small, it showed the impulsion behaviour in microwave region. We conclude that
+this is a special and very rare class of an umbral flare which is more energetic in microwave and
+radiowave regions than in the optical region.
+Introduction
+When the sun is observed in white light, the centres of activity on the solar disk
+(photosphere) are visible as the well known groups of sunspots. Central dark part of the
+sunspot is known as umbra where strong magnetic field exists and the outer less dark part
+is known as the penumbra. If we observe the sun through a filter having a very narrow pass
+band of about, say 1 A or less, centred on the H-alpha line (the first line of the Balmer series
+of hydrogen, 6563 A) or of the Call K (singly ionized calcium, 3934 A), the centres of
+activity are seen as bright plages surrounding the sunspot groups (cf., Figs 1a and 1b). We
+then observe the higher layers in the chromosphere above the sunspots which are at about
+104 K temperature. An optical flare is seen as a rapid brightening of a part of such a plage
+in the active centres where the magnetic field strength is more and its gradient higher than
+outside this region.
+Solar flares are violent explosions of energy (about 1032 ergs) that occur in the solar
+atmosphere leading to the emission of electromagnetic radiations (radio, visible, ultraviolet,
+X-rays and y-rays). From flares energetic particles (electrons, protons, neutrons and heavier
+nuclei), mass ejections and shock waves also have been observed. On the earth, these
+phenomena cause radio blackouts, failures in long distance power lines, changes in the
+terrestrial magnetic field, produce aurora in the polar regions and can even endanger
+astronauts in space. Their origin is not yet understood even after more than a century of study
+since the first recorded observations (Sweet, 1969). At present, the study of flare origin has
+a great importance for solar astronomers. An extensive study has been carried out by a large
+
+--- Page Break ---
+
+=== Page 2 ===
+30
+Wahab Uddin & Jagdev Singh 
+Figs 1a and 1b. Call K filtergrams at the maximum phase of umbral flare; it is a bright patch near 
+the major sunspot.
+
+--- Page Break ---
+
+=== Page 3 ===
+Analysis of an Umbral Flare ....
+31
+number of investigators, see, e.g. Svestka (1976), Sturrock (1980), Tandberg-Hanssen and
+Emslie (1988) for details.
+In the present analysis, we have carried out a study of a special and very rare class of an
+'umbral flare' which we observed on 12 Feb. 1990, in NOAA active region 5927. The
+calcium K (3934 A) line filtergrams were obtained with an interval of 30 seconds and spatial
+resolution of about 2 arcsec. The details of the experimental set up, observing conditions
+and telescope location at Maitri — the Indian permanent station in Antarctic region, are
+given separately by Jagdev Singh in this technical report. It may be noted that the prime
+objective of this program was to study the evolution and decay of the large convective cells
+known as supergranules.
+Data Analysis
+The observations of the NOAA active region 5927 (N 19°; E 34°) on 12 Feb. 1990 were
+carried out regularly at the rate of 1 filtergram every 30 seconds for 5 hours from 12 29 30
+to 17 29 20 UT. Spot class and magnetic class of this active region are reported as CKO type
+and bipolar type respectively in SGD, 1990 and magnetic field strength 2800 gauss has been
+reported for the major spot with south magnetic polarity in which the flare occurred (Solar
+Data, 1990, in Russian). In the active region, magnetic neutral line shows highly twisted or
+kinky shape near the major spot (cf., Fig. 2). Here sunspots, filaments and flare are shown
+near the spot by filled, hatched and blank areas respectively. Thick solid lines represent
+neutral lines drawn with the help of Mount Wilson Observatory magnetograms. The Call K 
+filtergrams of the flare taken at the maximum phase are shown in Figs la and lb. In these
+Fig.2. Composite diagram of Call K, H-alpha filtergrams and magnetogram of the flaring region.
+
+--- Page Break ---
+
+=== Page 4 ===
+32
+Wahab Uddin & Jagdev Singh 
+figures, the flare is visible as a bright patch near the major spot marked by an arrow and the
+umbra is partially covered by the flare which is clearly visible in Figs la, lb and 2. The
+plage brightness increased slowly and around 16 28 00 UT it brightened to a flare. The flare
+reached its maximum brightness within few minutes at 16 36 00 UT, fading out slowly
+around 16 50 00 UT. Careful inspection of Call K observations showed that there are two
+bright knots in the flare, with a small knot penetrating the umbral region and their knot just
+outside the border of the major spot, but they seemed to be one whole flare patch at the
+maximum phase. Furthermore, in the high temperature region i.e. in the radio region,
+Sagamore Hill Solar Observatory, U.S.A. recorded microwave burst of high importance
+class 49 GB and spike type burst of 4 minutes and 1 minute durations respectively in
+different frequencies and one type V radio burst of 1 minute duration during the maximum
+phase of the flare (SGD 1990). The association of microwave and type V radio burst with
+the flare shows that a stream of relativistic electrons were responsible for these bursts.
+According to Wild et al, (1959), the occurrence of type V radio burst is probably the
+manifestation of rich stream of relativistic electrons of which a fraction is trapped in the
+corona i.e. in the upper layer of solar atmosphere becoming visible either through synchro-
+tron radiation or through plasma waves (Weiss and Stewart, 1965).
+Results and Discussions
+The observed flare is an umbral flare (cf., Figs 1a, 1b and 2) of SF importance class in
+optical region.
+Generally flares avoid sunspot umbrae because they are the centres of very strong
+magnetic field. Only very energetic flares expand oyer the sunspot umbrae during their
+evolution (Joshi and Uddin, 1992). However, there is a special and very rare class of 'umbral
+flares' when one of the ribbons of the two ribbon flare is formed, inside a sunspot umbra as
+is the case in the above mentioned flare seen in Call K. Only four such flares have been
+observed in detail so far (Tang, 1978); all being subflares, and all occurred in a simple
+magnetic configuration with a large dominant 'preceding' spot and tiny and or non-existing
+'following' spots (cf., Figs 1 and 2). Using H-alpha observations, Dizer (1969) has shown
+that subflares very often occur at places that were brighter than the surroundings. Prior to
+the subflare onset, he called these bright preflare patches as live points. An analysis of
+subflares, which were observed during CINOF (Compaign for the Integrated Observation
+of Solar Flares) in June 1972 was carried out by de Jager (1975). The analysis showed that
+such type of flares were associated with surges and/or filament activities, radio bursts and
+particle acceleration to higher energies. The existence of the filament near the major sunspot
+and the sharp kink in the neutral line near the same place show that the magnetic field is
+sheared in thatregion (Uddin etal., 1986; Moore, 1988; Sivaraman et al., 1992), since every
+filament marks a sheared neutral line. Magnetic energy is stored in that region which later
+on is released during the flare occurrence. It seems that the flare is triggered by the activation
+of existing filament near the spot. During the flare occurrence, this filament erupted with
+high velocity and the flare was also accompanied with the active filament SGD (1990).
+As mentioned earlier flares generally avoid strong magnetic field areas (sunspots). If a 
+flare penetrates a spot, which sometimes happens with large flares and with exceptional
+flares of small size (as in the case of present Call K flare), that flare as a rule, is very
+
+--- Page Break ---
+
+=== Page 5 ===
+Analysis of an Umbral Flare.... 
+33
+productive in X-ray and radio microwave radiations (Dodson and Hedeman, 1960; Martres
+and Pick, 1962; Malville and Smith, 1963; Hagen and Neidig, 1971). Generally, the
+hardness of the spectrum of an impulsive microwave burst increases with the flares
+closeness to the spot umbra (Neidig, 1977).
+Conclusions
+The umbral flare of SF importance class observed from Antarctica seems a very interest-
+ing event. This flare of a low importance class in optical region is a small two ribbon umbral
+flare. From the occurrence of impulsive microwave bursts and type V radio burst during the
+maximum phase, it is clear that the flare is very energetic in high temperature region about
+106 K (in the corona) as compared to the low temperature region about 104 K (in the
+chromosphere). It is clear from Fig.l that flare area is small which is about 26 millionth of
+solar disk, so we can say that this is a special and a very rare class of umbral flare.
+Data on such type of flares in various wavelengths are very useful for the study of their
+origin. In our view, quantitative analysis of the data would lead to more fruitful results for
+the flares.
+Acknowledgements
+Financial support for the observational program and local hospitality at Antarctica station
+were provided by the Department of Ocean Development. We are very thankful to Profs.
+J.C. Bhattacharyya, K.R. Sivaraman and V.K. Gaur for their keen interest and support
+throughout the project. One of us (W.U.) is very grateful to Dr. M.C. Pande for giving every
+kind of help and encouragement during participation in the Ninth Antarctica Expedition. He
+is also thankful to Dr. K.R. Bondal for critically going through the manuscript and for
+helpful suggestions.
+References
+de Jager, C. (1975): Phenomenology of the subflare; A synthesis of CINOF, Solar Phys.. v. 40, pp.
+133-140.
+Dizer, M, (1969): Isophotal photometry and morphological changes in the flares. Solar Phys.. v. 10,
+pp. 416-428.
+Dodson, H.W. and Hedeman, E.R. (I960): Flareof July 16, 1959, Astron. J. . v. 65, p. 51.
+Hagen, J .P. and Neidig, D.F. (1971): Identification of two distinctive types of centimeter radio bursts
+with flare location, Solar Phys., v. 18, pp. 305-310.
+Joshi, A. and Uddin, W. (1992): Analysis of solar flare in Call K on March 13, 1989 Bull. Astron. 
+Soc. India,v. 20, pp. 231-241.
+Malville, J.M. and Smith, S.F. (1963): Type IV radiation from flares covering sunspots. J. Geophys. 
+Res., v. 68, pp. 3181-3185.
+Martres J M. and Pick, M. (1962): Caracteres Propres aux eruptions chromospheriques associees a 
+des emissions radioelectriques (in French), Ann. Astrophys., v, 25, pp. 293-300.
+
+--- Page Break ---
+
+=== Page 6 ===
+34
+Wahab Uddin & Jagdev Singh 
+Moore, R.L, (1988): Evidence that magnetic energy shedding in solar filament eruptions is the drive
+in accompanying flares and coronal mass ejections, Astrophys. ]., v. 324, pp. 1132-1137.
+Neidig, D.F. (1977): Microwave burst spectra and solar flare magnetic fields, Solar Phys., v. 54, pp.
+165-168,
+Sivaraman, K.R., Rausaria, R.R. and Aleem, S.M. (1992): Magnetic shear in flaring regions, Solar 
+Phys., v. 138, pp. 353-360.
+Solar Data (in Russian) (1990): No. 2.
+Solar Geophysical Data,( 1990):Part I, No. 548 and Part II, No. 552, U.S. Department of Commerce,
+Boulder, Colorado, U.S.A.
+Sturrock, P.A. (ed.) (1980): Solar Flares, A Monograph from Skylab Solar Workshop II, Colorado
+Associated University Press, Boulder, Colorado, U.S.A.
+Svestka, Z. (ed.) (1976): Solar Flares, D. Reidel Publishing Company, Holland.
+Sweet, P.A. (1969): Mechanisms of solar flares, Annual Reviews of Astronomy and Astrophys., v.
+7, pp. 149-176.
+Tandberg-Hanssen, E. and Emslie, A.G. (eds.) (1988) The Physics of Solar Flares, Cambridge
+University Press.
+Tang, F. (1978): Umbral flares, Solar Phys., v. 60, pp. 119-122.
+Uddin, W., Pande, M.C. and Shelke, R.N. (1986): Association of solar flares with twisting of magnetic
+neutral lines, Bull Astron. Soc. India, v. 14, pp. 91-94.
+Weiss, A.A. and Stewart, R.T. (1965): Solar radio bursts of spectral type V, Australian J. Phys., v.
+18, pp. 143-165.
+Wild, J.P., Sheridan, K.V. and Noylan, A.A. (1959): An investigation of the speed of the solar
+disturbances responsible for type III radio bursts, Australian J. Phys., v. 12, pp. 369-398.

@@ -1,0 +1,122 @@
+{
+  "item_id": "DSPACE-123456789-281",
+  "title": "Typical Meteorological and Oceanological Situation Encountered during the\r\nFifth Indian Scientific Expedition to Antarctica (1985-86)",
+  "authors": "Singh, Surinderjit",
+  "year": 2006,
+  "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+  "collection": "4]Meteorolgy",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/281",
+  "total_pages": 6,
+  "total_characters": 10804,
+  "is_scanned": false,
+  "extraction_status": "completed",
+  "coordinates": [
+    {
+      "name": "Automatic Weather Station (AWS)",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "70°45'12.963\"S",
+      "dms_lon": "11°38'13.618\"E",
+      "latitude": -70.753601,
+      "longitude": 11.637116,
+      "elevation_m": 150.12,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Southern Ocean Low Pressure Track (06Z)",
+      "station": "Southern Ocean",
+      "dms_lat": "60°00'00\"S",
+      "dms_lon": "15°00'00\"E",
+      "latitude": -60.0,
+      "longitude": 15.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Synoptic Weather Chart"
+    },
+    {
+      "name": "Severe Storm Vortex Center (16 Dec 1985)",
+      "station": "Southern Ocean",
+      "dms_lat": "62°00'00\"S",
+      "dms_lon": "35°00'00\"E",
+      "latitude": -62.0,
+      "longitude": 35.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Synoptic Weather Chart"
+    },
+    {
+      "name": "Tropical Cyclone Encounter (Indian Ocean Return)",
+      "station": "South Indian Ocean",
+      "dms_lat": "18°00'00\"S",
+      "dms_lon": "75°00'00\"E",
+      "latitude": -18.0,
+      "longitude": 75.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Ship Navigation Log"
+    },
+    {
+      "name": "Antarctic Fast-Ice Limit Boundary",
+      "station": "Princess Astrid Coast",
+      "dms_lat": "68°00'00\"S",
+      "dms_lon": "12°00'00\"E",
+      "latitude": -68.0,
+      "longitude": 12.0,
+      "elevation_m": 0.0,
+      "confidence": 0.95,
+      "datum": "Sea-Ice Facsimile Boundary"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-P3-1",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-281_Typical_Meteorological_and_Oceanological_Situation_Encounter.pdf)"
+    },
+    {
+      "figure_id": "FIG-P3-2",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-281_Typical_Meteorological_and_Oceanological_Situation_Encounter.pdf)"
+    },
+    {
+      "figure_id": "FIG-P5-2",
+      "page": 5,
+      "file_path": "data\\media\\extracted_figures\\fig_p5_2_DSPACE-12345678.png",
+      "caption": "Fig. 3. Meteorological chart showing the"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 303-308.\nTypical Meteorological and Oceanological Situations Encountered\nduring the Fifth Indian Scientific Expedition to Antarctica\n(1985-86)\nSURINDERJIT SINGH\nNaval Headquarters, New Delhi-110001\nAbstract\nDuring the Fifth Indian Scientific Expedition to Antarctica, round the clock marine\nmeteorological data was collected during the passage of the ship to and fro Antarctica,\nincluding the stay in polynya near Dakshin Gangotri. The paper highlights some of the\nprominent meteorological conditions encountered including the two typical storms on the\nreturn journey. Extreme values of meteorological parameters recorded in the polynya are\nalso given in the paper.\nIntroduction\nFifth Indian Scientific Expedition on board MV Thuleland sailed for Antarctica\non 30 Nov. 85 from Marmugoa harbour. During the passage to Antarctica from\n30 Nov. to 24 Dec. 85 and return passage from 03 Mar. to 24 Mar. 86, the\nfollowing typical meteorological and oceanological conditions were experienced:-\nI. \nIntense low pressure area on 15 Dec. 85 in Southern Ocean.\nII. \nThick pack ice.\nIII. \nThick fog causing reduction in visibility on 07 Mar. and 08 Mar. 86.\nIV. Tropical storms 'Horoninia' and 'Irimma'.\nThe above mentioned meteorological and oceanological situations are discussed\nin this report.\nIntense Low Pressure Area on 15 Dec 85\nMost of the vortices in the Southern Ocean develop between 35° and 45°S,\nin winter and 50° and 55°S, during summer. The axis of most frequent cyclogenesis\ncoincides with the Polar Front. In summer, the highest frequency is along 50°S\nwith a branch from lower latitudes aligned NW-SE across the central and eastern\nparts of the ocean. Tropical cyclones develop in the zone of 10-20°S and most\nof them move westward at first and subsequently SW, S and SE in the zone",
+      "char_count": 1919
+    },
+    {
+      "page_number": 2,
+      "text": "304\nSurinderjit \nSingh \n20-35°S. Three centres of maximum cyclone frequency identified in the Antarctic\nzone are 20-40°E, 60-75°E and 95° to beyond 115°E. The average speed of these\ncyclones is of the order of 24-29 kt in zone 40-60°S, 30 kt along 45-50°S and\n35 kt in the zone 30-40°S.\nOn 15 Dec 85, a cyclonic storm with central pressure of 968 mb was\nobserved at 60°S-15°E on the facsimile chart received from Pretoria. The system\nwas associated with a cold front extending N-S. The expected movement of the\nstorm was eastward. Ship started experiencing very rough weather with extremely\nhigh speed winds of the order of 55 kt with overcast skies and gradual drop\nin pressure from 1007.5 mb to 989.6 mb in 12 hours. Sea state went upto 9.\nOn 16 Dec 85, the storm had moved to position 62°S-35°E at 06Z. The\nmeteorological situation was appreciated taking into account that maximum winds\nupto 80 to 100 kt would be experienced if the ship be allowed to pass through\nthe storm. Such high speed winds with high swell and very rough seas could\ncause considerable damage to the ship's cargo which was of utmost importance\nfor the Expedition. Any damage to helos or cargo could have been detrimental\nto the objectives of the expedition. Keeping these in view, the ship's Captain\nand the Expedition Leader were advised to change course of the ship westwards\nthereby allowing the storm to pass ahead of the ship's earlier intended course.\nOn change to westerly course, the pressure gradually commenced rising after a \nlittle drop in the beginning; 1003.0 mb was recorded at 062 on 17 Dec 85.\nWesterly course was maintained till 19 Dec 85, when the storm passed clear,\nand the ship's course altered back towards destination thereby saving the cargo\nand the ship from any damage. Copy of the meteorological chart with ship's\nposition duly, indicated is placed at Fig. 1.\nPassage through Thick Pack Ice\nThe minimum extent of pack ice around Antarctica is observed in March.\nFreezing of sea commences in the end of March and the area covered by the\npack ice increase until maximum in September or October—more than double\nthe area of Antarctica. The width of the ice belt around Antarctica ranges from\n600 km to 30,00 km. The ice limits normally coincide with —1.8°C sea isotherm.\nMelting of ice starts in November. However, rapid melting and retreat occur\nmainly during December and continue till March. During February and March,\nlarge parts of the Antarctic coast are ice free. During this period, the outer limit\nof pack ice varies from 1 to 4 degrees from the coast. It is during the period\nNovember to March each year that ships can attempt to reach the Antarctic\ncoast. The mobility of the pack ice under the influence of ships force, allows\nships to penetrate it. Winds and ocean currents causing the pack ice to close\nsometimes results in trapping and crushing of ships.\nMV Thuleland entered the pack ice on 17 Dec 85. On 18 Dec 85 a special\nrequest was made to Molodezhnaya station through Dakshin Gangotri for the",
+      "char_count": 3015
+    },
+    {
+      "page_number": 3,
+      "text": "305\nTypical Meteorological and Oceanological Situations... \nFie. I. \nMeteorological \nChart Showing the ships position and the altered Cruise line \nFig, 2, Satellite chart showing ice concentration on 14.12.85 (Received on 19.12.85)",
+      "char_count": 231
+    },
+    {
+      "page_number": 4,
+      "text": "306 \nSurinderjit Singh \nspecial facsimile transmission of the latest ice chart. The chart was transmitted\nby Molodezhnaya on 19 Dec 85 with two route-recommendations marked on\nit. A copy of this chart is placed at Fig. 2. The ship immediately altered course\nto converge to the nearest point of the recommended route and was able to\nreach the polynya without much difficulty.\nGenerally, in the month of March, whenever the ocean cools and the surface\nbegins to freeze, it takes an oily appearance as frazil ice crystals start to form\nin the water. These crystals float to surface of the ocean to create grease ice.\nFurther cooling causes pan cake ice to form. Formation of pan cake ice is a \ngood indication for a ship to start preparing to leave Antarctica.\nStoppage of ship on Return Journey in Thick Fog due to Cold Front\nClimatology of Fronts\nFronts are equally frequent in summer and winter with the maxima reaching\n60 systems per 100 days along 40-45°S. Frequencies along 25°S and along the\nAntarctic coast are about twice as high in winter as in summer. Generally cold\nfronts move in NE or ENE direction. These fronts in the Indian Ocean are\nassociated with thick fog conditions.\nStoppage of Ship due to Fog\nOn 06 Mar 86, a cold front in N-S orientation at 25°E longitude between\n50 and 60°S latitudes was observed on 06Z chart. The front was moving eastward.\nOn 07 Mar 86, the ship was affected by the cold front and visibility reduced\nat night to less than 50 m. It was extremely difficult to detect growlers even\nwith two strong search lights and enhanced night vision binoculars. Search lights\nare generally used to spot growlers at night, as the growlers cannot be picked\nup on the radar screen especially when the sea is rough. Search lights become\nineffective in extremely poor visibility and hence it was impossible to detect\ngrowlers. The advance of the ship had to be arrested from 1938Z on 07 Mar\n86 to 0235Z on 08 Mar 86 and from 1306Z on 08 Mar 86 to 0016Z on 09 Mar 86.\nTropical Storm 'Horoninia' and 'Irimma'\nA tropical storm named 'Horoninia' was observed on 09 Mar 86 during\nreturn passage at position 18°S 75°E. The cyclone was reported to be moving\nwestward. As per the climatology of tracks of cyclones in this area, the cyclone\nwas expected to move upto Madagascar and then take a recurvature. Thus there\nwas a considerable chance of 'Horoninia' crossing the future path of the ship.\nA close watch on the movement of 'Horoninia' was kept on facsimile charts\nreceived twice daily from Pretoria. Special cyclone warning were also received\nregularly on HF from Pretoria, indicating the exact position, intensity and\nprobable direction and speed of movement of the cyclone. The cyclone moved\nin W/WSW direction and became stagnant over northern parts of Madagascar.",
+      "char_count": 2788
+    },
+    {
+      "page_number": 5,
+      "text": "Typical Meteorological and Oceanological Situations... \n307\nOn 15 Mar 86, it became unimportant for the ship as the future path of the\nship was not under its influence. A meteorological chart showing the relative\npositions of the ship and 'Horoninia' is placed at Fig. 3.\nOn 15 Mar 86, another tropical depression, this time 'Irimma', was sighted\non the facsimile chart. A quick meteorological appreciation was carried out and\nit was found that even if 'Irimma' takes a worst possible westerly course and\nmoves at maximum speed of 10 kt the ship would be just able to sail clear\nwithout coming under the influence of 'Irimma'. However, rough sea was\nexperienced on 17 Mar 86. Meteorological appreciation for 'Irimma' is shown\non Fig. 4.\nFig. 3. Meteorological chart showing the \nrelative position of ship and 'Horonina' \nFig. 4. Meteorological chart showing the \nrelative position of ship and 'Irimma' \nAs per the facsimile chart received on 16 Mar 86 (06Z), 'Irimma' was\nobserved moving slowly towards SE and hence caused no worry.\nMeteorological Data (Extreme Values) Recorded during Ship's Stay in Polynya\nDuring stay of the ship in Polynya near Dakshin Gangotri from 25 Dec\n85 to 03 Mar 86, the following extreme values of the meteorological data have\nbeen recorded:-\n(a) Max. Surface Wind \n— 70 kt on 26 Feb 86 at 182\n(b) Temperature (PB) \n— Max. + 10.6°C on 21 Jan 86 at 12Z Least-10.0°C\non 23, 24 and 25 Feb 86 at 212, 002 and 002\nrespectively.\n(c) Min. Visibility \n— 50 m on 12 Feb 86 at 092",
+      "char_count": 1499
+    },
+    {
+      "page_number": 6,
+      "text": "308 \nSurinderjit Singh \n(d) Min. Atmospheric Pressure — 980.0 mb on 28 Jan and 30 Jan 86 at 09 and\n15Z respectively.\n(e) Magnetic Storm \n— 1200Z (07 Feb 86) to 0300Z (09 Feb 86) during\nwhich communication failure occurred.\nConclusions\nDuring the passage of MV Thuleland, four typical meteorological situations\nexperienced have been described. These were encountered with a low pressure\narea, passage through thick pack-ice, extremely poor visibility due to thick fog\ncaused by a cold front and movement of two tropical storms 'Horoninia' and\n'Irimma'. These situations were dealt with by the Leader, Captain of the Ship\nand meteorological staff with total professionalism and aptness. The safety of\nthe ship, cargo and personnel was not compromised at any stage. The avoiding\nactions taken to handle the emergencies, brought out in this article, should act\nas guidelines for the future expeditions. Keeping a helicopter on deck prior to\nentering ice field during onward journey and till ship comes out of ice field\nduring return voyage has been found to be extremely useful for ice recce of the\npack-ice for ship routing.,\nReferences\nThe Antarctic Pilot (1974): Published by the Hydrographers of the Navy.\nWeather and Climate of the Antarctic W. Schwerdtfeger, Elsevier 1984.\nAntarctica; Readers' Digest.\nMet Data collected during the Fifth Expedition.",
+      "char_count": 1352
+    }
+  ]
+}

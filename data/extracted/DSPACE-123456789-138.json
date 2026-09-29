@@ -1,0 +1,146 @@
+{
+  "item_id": "DSPACE-123456789-138",
+  "title": "On the distribution of calcium, magnesium, sulphate and boron in the\r\nsouthwestern Indian Ocean region of the Southern Ocean",
+  "authors": "Naik, Sugandhini Noronha, R.J. Shirodkar, P.V. Gupta, R.Sen",
+  "year": 2006,
+  "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+  "collection": "4]Chemistry & Environmental Studies",
+  "source_url": "http://14.139.119.23:8080/dspace/handle/123456789/138",
+  "total_pages": 8,
+  "total_characters": 20319,
+  "is_scanned": false,
+  "extraction_status": "completed",
+  "coordinates": [
+    {
+      "name": "Automatic Weather Station (AWS)",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "70°45'12.963\"S",
+      "dms_lon": "11°38'13.618\"E",
+      "latitude": -70.753601,
+      "longitude": 11.637116,
+      "elevation_m": 150.12,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Hut) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'12.672\"S",
+      "dms_lon": "11°55'07.263\"E",
+      "latitude": -69.986853,
+      "longitude": 11.918684,
+      "elevation_m": 35.0,
+      "confidence": 0.99,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    },
+    {
+      "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+      "station": "Dakshin Gangotri",
+      "dms_lat": "69°59'23.119\"S",
+      "dms_lon": "11°56'26.830\"E",
+      "latitude": -69.989755,
+      "longitude": 11.940786,
+      "elevation_m": 44.25,
+      "confidence": 0.98,
+      "datum": "WGS-84 / Satellite 3D Doppler"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-P2-1",
+      "page": 2,
+      "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 2 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P3-2",
+      "page": 3,
+      "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 3 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-2",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_2_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-3",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_3_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-4",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_4_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P4-5",
+      "page": 4,
+      "file_path": "data\\media\\extracted_figures\\fig_p4_5_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P5-6",
+      "page": 5,
+      "file_path": "data\\media\\extracted_figures\\fig_p5_6_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 5 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P5-12",
+      "page": 5,
+      "file_path": "data\\media\\extracted_figures\\fig_p5_12_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 5 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    },
+    {
+      "figure_id": "FIG-P6-1",
+      "page": 6,
+      "file_path": "data\\media\\extracted_figures\\fig_p6_1_DSPACE-12345678.png",
+      "caption": "Figure extracted from Page 6 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "On the Distribution of Calcium, Magnesium, Sulphate and Boron\nin the South-Western Indian Ocean Region\nof the Southern Ocean\n1 National Institute of Oceanography, Dona Paula, Goa-403 004, India.\nABSTRACT\nThe major ions namely, calcium, magnesium, sulphate and boron arc studied in the south-west Indian Ocean. The concentra-\ntions and their ratios to chlorinity of these ions arc found to be 418K ± 5 mg/kg and 0.02191 ± 0.00017 for calcium, 1285 ± 17 mg/kg\nand 0.06730 ± 0.00057 for magnesium, 2.67 ± 0.004 mg/kg and 0.01399 ± 0.000067 for sulphate and 4.62 ± 0.44 mg/kg and 0.242 ± \n0.023 for boron.\nCalcium showed distinct variations at sub-tropical convergence and Antarctic divergence whereas magnesium, though a \nconservative element, did not show any regular pattern of variation. Sulphate, a biologically inactive anion was found to be most\nconservative. Moron shows dissimilar pattern of variation in the Antartica and sub-tropical region and varies inversely with chlorinity\nin the sub-tropical region. The depthwise variations of all these four ions have been described.\nINTRODUCTION\nThe concept of ratio between constant major ion and chlorinity is well known. But deviations from\nthis conservative behaviour arc many a times encountered due to slight changes in the physical properties\nof sea water brought about by factors such as precipitation, evaporation, dilution by influx of land water,\nmostly in the coastal region and melting of ice, mixing of different water masses in the open ocean. Thus, a \nstudy of major ions becomes an useful index of identifying changes in the physical properties of sea water.\nThe major ions calcium, magnesium and fluoride have been studied in the Northern Indian Ocean by\nseveral workers (Sen Gupta et al 1978, Naqvi et al, 1979, Noronha et al, 1981, Naqvi & Naik, 1982).\nSouthern region of the Indian Ocean and the Antarctic region needs a considerable attention to\nunderstand the influence of physical processes on the major constituents and their relations with chlorinity\nsince the waters in this region influence the deep and bottom waters of all the oceans in the Northern\nregion. In view of this, water samples were collected along a section from 32°S to 70°S during the First\nIndian Expedition to Antarctica. The present report deals with the distribution of some major con-\nstituents like calcium, magnesium, sulphate and boron in the .South-West Indian Ocean region of the\nSouthern Ocean, An attempt has also been made to correlate the data with the physical properties of sea\nwater.\nMATERIALS AND METHODS\nWater samples were collected from standard depths at 17 hydrographic stations lying between\n32°06'S to 69°58'S latitudes and 11o 06'E to 500 12'E longitudes as shown in Fig. 1, Samples were\nanalysed on board the ship for salinity and stored in stoppered plastic bottles which were subsequently\nanalysed in the shore laboratory. Salinity was estimated using an \"Autosal\" salinometer. Calcium and\nmagnesium were determined by the method of Culkin & Cox (1966). Magnesium values were corrected\nfor strontium (0.6%) and for the end-point overestimate (1%) as suggested by Carpenter and Manella\n(1973).\nSulphate was analysed indirectly according to the method of Kwiecinski (1965), This method, despite\nits limitations, is fairly accurate for the determination of sulphate in the salinity range encountered for\nocean water (Howarth 1978).\n________________________________________________________________________________________________________________________________________________\n87\nS u g a n d h i n i Naik 1, R. J. Noronha 1, P. V. Shirodkar 1 & R. S e n Gupta 1",
+      "char_count": 3629
+    },
+    {
+      "page_number": 2,
+      "text": "On the Distribution of...\n____________________________________________________________________________________________________________________________________\no\n0\n10o\no\n20\no\n30\no\n40\no\n50\no\n60\n70\no\n80\no\n90\n100°\nno\n120°\nINDIA\nGoa\n20°\n10°\no\n0\n10°\n20o\no\n30\n40°\nO\n50\nO\n60\no\n70\n120°\n110o\nO\n100\n90o\n80o\n70°\n60o\n50o\n40°\n30\n20o\n10°\n0o\nBouvet Is\nG 12\nG 11\nG10\nG9\nG8\nG7\nG5\nG4\nG1\nG6\nG3\nG2\n0\n60\n70o\n50°\no\n40\n30o\n20o\n10o\no\n0\n10o\n20o\nMauritius\n/ \nN \nD I \nA \nN \nO C E A N\n>GI7\nG16\nXurguolen Is. \nXurguolen Is.\nHeard Is.\nPrience Edward Is \nG14\nG15\nOAKSHIN GANGOTRI\nFig. 1 : Map showing the stations position\n88\nG13",
+      "char_count": 597
+    },
+    {
+      "page_number": 3,
+      "text": "...Sugandhini Naik, R. J. Noronha, P.V. Shirodkar and R. Sen Gupta\nSamples were analysed for boron content by the method of Hulthe et al (1970) with slight modifica-\ntion. The method involves treatment of the water sample with 1:1 concentrated sulphuric acid/glacial\nacetic acid so that organic matter is destroyed and any particulate matter is dissolved. Propionic anhydride\nand oxalyl chloride were replaced by acetic anhydride and hydrochloric acid and acetone with iso-butyl\nmethyl ketone.\nThe precision of analyses for calcium and magnesium was determined by carrying out ten replicate\nanalyses of a mixture of samples and expressed as coefficient of variation which was found to be ± 0.30%\nfor calcium and ± 0.29% for magnesium. The precision of the method for sulphate was determined by six\nreplicate analyses on 1 ml of I.A.P.S.O. standard sea water (C1%o = 19.375). This showed an average\nsulphate concentration of 2.1762 ± 0.01162 gm/kg(SO4/C1 = 0.14019), which corresponds to a coefficient\nof variation of ± 0.43%. Boron was estimated with a precision of 0.51%.\nFig. \n2 : Vertical distribution of integrated values of calcium and calcium/chlorinity in the Antarctic and\nsub-tropical region.\n89\nC0 mg/kg (# G1 — G14 ) \nC0/C1 ( \" ) \nCo mg /kg (# G15-G17 ) \nC0/C1 \n( \n\" \n) \n2000\n1500\n1000\nDEPTH \n(m)\n900\nC0/C1\nC0 mg/Kg\n0 02170\n0 02180\n0 02180 \n410\n400\n0\n420\n0 02200 \n0 02210\n4 40 \n430\n25\n50\n75\n100\nCalcium\nThe average concentration of calcium for the entire region ± 5 mg/kg with an average Ca/C1 ratio of\n0.02191 ±0.00017. Average calcium was found to be 416 mg/kg for the Antarctic region and 425 mg/kg for\nthe sub tropical region. There is not much data available to compare our results in this area. Tsunogai et al\n(1971) obtained a Ca/C1 ratio of 0.01295 for the Antarctic Ocean. The Ca/C1 ratio in this region lies in\nbetween those reported so far in the Northern Indian Ocean. Our value of Ca/C1 seems to be somewhat\nhigher compared to those reported in the other parts of the world oceans. The average chlorinity for the\nt w o regions, in which the area under observations is divided, is 18.99%o and 19.35%o respectively. The\nhigher Ca/C1 ratio is probably the result of high calcium concentration associated with comparatively low\nchlorinity in the waters. It may also be the effect of averaging.\nFig. 2 shows the depth profiles of calcium and Ca/C1 ratio in the two regions. The values at stations\nRESULTS AND DISCUSSION\nFollowing Gamberoni et al 1982, the stations have been grouped together according to their\ngeographical location as those in the Antarctic region (G1-G14) and the sub-tropical region\n( G 1 5 - G 1 7 ) .\n_________________________________________________________________________________________________________________________________________",
+      "char_count": 2779
+    },
+    {
+      "page_number": 4,
+      "text": "On the Distribution of...\nG1 to G14 have been pooled together depthwise and those at G15 to G17 have been arranged\nseparately .It can be seen from the figure that in curve (1) the calcium concentration increases from surface\nto 2000 m whereas in curve (2) concentration pf calcium gradually increases from 0 to 200 m below which\nthere is a rapid decrease up to 500 m, At higher depths calcium concentration is found to remain constant.\nIt can also be noted that concentrations in the calcium profiles are of a higher order in curve (2) than in\ncurve (1). The profiles of Ca/C1 for the Antarctic region, (curve (3)) follow a similar pattern of variation as\nthat of its calcium profiles except between 200 to 500 m. Tsunogai et al observed that the Ca/C1 ratio was\nlower for the surface Indian Ocean water than the Antarctic Ocean which they attributed to lower\nconcentration of calcium in the warm waters. The decrease in Ca/C1 at this depth can be attributed to the\nincrease in the chlorinity from 200 m to 500 m and shows a sudden increase upto 1000 m. This may be the\nresult of Antarctic intermediate water of low salinity at this depth. The effect of the change in salinity is more\nevident in the sub-tropical region due to greater difference in chlorinity of the two watermasses than in the\nAntarctic region.\nAn attempt was made to identify the physical processes and their influence on different watermasses\nusing calcium as an indicator. Fig. 3 shows the latitudinal variation of calcium. Calcium profile shows\nFig. 3 : Profiles of latitudinal variation of calcium.\n90\n425\n424\n423\n422\n421\n420\n419\n418\n417\n416\n415\n414\n413\n412\n420\n418\n419\n422\n421\n417\n416\n415\n414\n413\n32\n50\n_____________________________________________________________________________________________________________________________________________________\n0\n34\n36\n38\n40\n42\n44\n46\n48\n50\n52\n54\n56\n58\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n2000\n1900\n1800\n1700\n1600\n1500\n1400\n1300\n1200\n1100\n1000\n900\n800\n700\n600\n500\n400\n300\n200\n100\n420",
+      "char_count": 1992
+    },
+    {
+      "page_number": 5,
+      "text": "•••Sugandhini Naik, R. J. Noronha, P. V. Shirodkar and R. Sen Gupta\ndistinct variation at sub-tropical convergence region between 40oS to 42°S, the sinking of watermass at\n46°S and the Antarctic divergence around 68 to 69oS. The Antarctic intermediate water is seen around\n200 m at 61 to 62°S which sinks towards the north and flows at a depth of about 1000 m. Thus, variations\nin the calcium concentration in this region depend on the characteristic of the watermass as they vary with\nthe physical changes in sea water, without significant indication of geochemical processes.\nThe average concentration of magnesium is 1285 ±17 mg/kg with a Mg/C1 ratio of 0.06730 ± \n0.00057. Average magnesium concentration in the Antarctic region is 1281 mg/kg and in the sub-tropical\nregion it is 1298 mg/kg. Our Mg/C1 ratio exceeds those reported for the other world oceans. A comparison\nof the present Mg/C1 with 0.06692, reported by Culkin & Cox (1966) for the world oceans, shows that this\nvalue exceeds by 0.00038 which is within the standard deviation of the Mg/C1 ratio.\nFig. 4 : Vertical distribution of integrated values of magnesium and magnesium/chlorinity in the\nAntarctic and sub-tropical region.\n91\n50\nMg mg / Kg ( #G1\n _ G14 ) \nMg/cl\nMg mg/Kg( # G 1 5 - G 1 7 ) \nMg/cl\n( \n\" \n) \n( \n\" \n) \n2000\n1000\n1260\n1270\n1280\n1300\n1310\n1315\n12 90\n006780\n0-0676O\n006740\n0 06720\n0 06700\n0 06680\nMg/cl\nMg mg/Kg\n25\n0\n1500\n500\n75\n100\nDEPTH (ml\nMagnesium\nFig. 4 shows the depth profiles of magnesium and Mg/C1 ratio in the two regions. Comparison of Fig. 4 \nwith Fig. 3 indicates similar pattern of variation in both the regions. Magnesium as well as Mg/C1 show\nlarge variations with depth. These variations have been attributed to geological and biological activity of\nmagnesium (Culkin and Cox, 1966).\n___________________________________________________________________________________________________________________________________________________",
+      "char_count": 1933
+    },
+    {
+      "page_number": 6,
+      "text": "On the Distribution of...\nMagnesium did not show any regular pattern of variation geographically due to large and irregular\npattern of its distribution. This suggests that calcium is a better index for identifying different watermasses\nthan magnesium. However, we feel that the high concentration of this element and perhaps s o m e\nsystematic error in analysis, involved in its estimation, may be responsible for the large scatter of t h i s\nelement, as preparation of standard solution always has the inherent risk of introducing systematic error in\nthe final result.\nAverage SO4\n2- concentration and the corresponding SO42-/C1 ratio in the region under study a r e\n2.67 ± 0.004 gm/kg and 0.1399 ± 0.000067 respectively. The SO4\n2-/C1 ratio was observed to be fairly\nconstant over depth range and location studied, ranging from 0.1394 to 0.1414. Our present value agrees\nremarkably well, with the S042-/-7C1 ratio reported by several other workers; 0.1400 (Morris & Riley,\n1966) for surface and deep water samples from major seas and ocean basins; 0.1395 (Bather & Riley,\n1954), for the Irish Sea, 0.1395 (Thompson, Johnston & Wirth, 1931) in ocean water. However, for t h e\nBaltic Sea, the ratio tends to vary (Kwiecinski, 1965).\nFig. 5a & 5b : Vertical distribution of integrated values of chlorinity, sulphate and sulphate/chlorinity in\nthe Antarctic (a) and sub-tropical region (b).\n4000\n100\n200\n300\n400\n500\n600\n700\n800\n900\n1000\nDEPTH \n(m)\nSO2\n4/C1%o 01395\n0 1399 \n01403\n01407\nso2-\n4 \nmg/kg \n2 55 \n2 57 \n259\n2 61 \n2 63\n2 65 \n2 67\n2 69\n271\n19 60 \n19 4 0\n19 20\n1900\n18 80\n18 60 \n18 4 0\n18 2 0\nCL%o\nC1 %o \nso2-\n4\nSo2-\n4 /C1 %o \n3000\n2000\nso2-\n4/C1 %o 01395\n01399\n0 1403\n0 1407\nSO2-\n4 g/kg \n2 6 0\n2 62\n2 64\n2 66\n2 70 \n2 70\n2 72\n274\nCL \n%o \n19 0 0\nI9 2 0\n19 4 0\n19 6 0\n19 8 0\n20 0 \n100\n2 0 0\n3 0 0\n4 0 0\n500\n600\n7 0 0\n8 0 0\n9 0 0\n1000\nDEPTH (m)\n2 0 0 0\n3000\nCl \n%o \nso2-\n4\nso2\n4 /C1 %o \nSulphate\n_______________________________________________________________________________________________________________________________________________________\nThe chlorinity values from stations G1-G14 were seen to increase with depth, however, at stations\nG5 -G7 C1%o values decrease with the depth. For this purpose, values of SO4\n2-C1%o and for the two regions,\nwere pooled together and arranged out then plotted against depth to give a generalised picture of t h e\nvertical distribution of these parameters (Fig. 5a & 5b). As observed from either figure, it can be seen that\nas the C1%o increases (Fig. 5a) or decreases (Fig. 5b) with depth, there is a corresponding increase or\ndecrease in the SO4\n2- concentration. The SO4\n2-/C1 ratio profile does vary marginally with depth, but this\nis hardly significant and as such can be assumed to be constant over depth range studied.\n92",
+      "char_count": 2773
+    },
+    {
+      "page_number": 7,
+      "text": "...Sugandhini Naik, R. J. Noronha, P.V. Shirodkar and R. Sen Gupta\n_________________________________________________________________________________________________________________________________\nAverage mean values of SO2- and SO4\n2 -/C1 are 2.6617 gm/kg and 0.1399 for the Antarctic and\n2.7108 mg/kg and 0.1402 for the subtropical region. A comparison of these average values shows that for\nthe Antarctic region the values are lower than those in the sub-tropical region. This increase in sulphate\nconcentration is attributed to the higher chlorinity values, the SO42-/C1 ratios in both the cases almost\nbeing constant, indicating that sulphate is a biologically inactive and the most conservative anion in ocean\nwater.\nBoron\nThe average concentration of boron for the entire region is 4.62 ± 0.44 mg/kg and the B/C1 ratio is\n0.242 ± 0.023. The relation B(mg/kg) = 0.227 x .C1%o + 0.050 with the observed mean C1%o in this case as\n19.124 gives boron concentration as 4.39 mg/kg and the corresponding B/Cl as 0.230. The ratio, as\ncalculated, is somewhat higher than that obtained from low chlorinity Baltic Sea water by Dyrssen and\nUppstrom (1973), which was 0.230. Culkin (1965) has reported the average concentration of boron to be\n4.5 mg/kg at a salinity of 35%o. Goldschmidt and Peters (1932), after making a systematic study of boron in\nsea water from different locations and depths observed a wide range of variation. These observations\nsuggest that some systematic relationship exists between boron content of sea water, the sediment formed\nin this water and the salinity of water at the time of deposition. The concentration of boron observed in the\nAntarctic region is higher than the calculated value. The difference is due to higher salinity in Antarctic\noceans, as compared to Baltic waters.\nBoron also shows dissimilar pattern of variation in the two regions. Values of boron at stations G1 to\nG14 and at stations G15 to G17 are pooled together depthwise to present a general picture. Graphical\nrepresentations are shown in Fig. 6a and 6b. The depthwise variations of boron content in the two regions is\ncompared with that of chlorinity shown in Fig. 5a and 5b respectively. It can be observed from Fig. 5a that\nchlorinity increases with the depth. In the case of boron and B/C1 ratio (Fig. 6a) two minima are\nobserved, one at 100 m and the other at 1000 m beyond which the boron concentration goes on increasing\nupto 4000 m depth.\nA reverse pattern of variation of boron is observed as compared to chlorinity at stations G15-G17\n(Fig. 6b), where boron and B/C1 ratio generally increases from surface upto 1000 m while a decreasing\nFig. 6a & 6b : Vertical distribution of integrated values of boron and boron/chlorinity in the Antarctic\nand sub-tropical region.\n93\nDepth \nIn \nmeter \n0. 21 \n0.22\n4.2\n0\n4.3\n4.4\n4.5\n0.23\n4.6\n0.24\n4.7\n0.25 B/Cl\n4.8\n4.9 Boron Mg/Kg\nS t a t i o n s G 1 - G 1 4\nBoron-O- \n--O-\nB/Cl\n50\n100\n200\n400\n500\n1000\n1.0\n3.0\n4.0\n2.0\n0\n0.23\n4.4\n4.5\n0.24\n4.6\n4.7\n0.25\n4.8\n4.9\n6.0\n0.26\nB/Cl\nBoron\nStation \nG16- \nG17\nBoron \n-O--O-\nB \n/Cl \nmg/kg\n50\n100\n200\n300\n400\n500\nIn\nDepth\n1000\n1.5\n2000\n300",
+      "char_count": 3121
+    },
+    {
+      "page_number": 8,
+      "text": "On the Distribution of...\n________________________________________________________________________________________________________________________________________\ntrend is observed in case of chlorinity at this depth interval. Below 1000 m, chlorinity increases slightly\nwith a corresponding decrease in boron and B/C1 ratio. Boron as well B/C1 ratio show a maxima at 100 and\n1000 m which is the reverse of what is observed in previous stations.\nACKNOWLEDGEMENT S \nWe have great pleasure in acknowledging the leadership of Dr. S. Z. Qasim and the valued help rendered by all the members of\nthe First Indian Expedition to Antarctica, particularly our colleagues from National Institute of Oceanography, during the sampling\noperations, often under very unfriendly weather conditions.\nREFERENCES\nBarther J. M. and Riley J. P, (1954)\nThe chemistry of the Irish Sea Part I: The sulfate chlorinity ratio. Jr. Con. perm. int. Explor. Mer. 20; 145-152\nCarpenter J. H. and Manella M. E. (1973)\nMagnesium to chlorinity ratios in sea water. J. Geophys. Res., 78; 3621-3626.\nCulkin F. (1965)\nIn Chemical Oceanography vol. 1;ed. by J. P. Riley and G. Skirrow (Academic Press) London, 121.\nCulkin F. and Cox R. A. (1966)\nSodium, potassium, magnesium, calcium and strontium in sea water. Deep Sea Res. 13; 789-804.\nDyrssen D. W. and Uppstroom L. R. (1974)\nB/C1 ratio in the Baltic Sea water. Ambio; vol. 3; No. I pg. 44-46\nDyrssen D.W. and Uppstrom L. R. (1973) \n-\nIn Report on the chemistry of sea water. IX, Univ. Gotenburg 1-6.\nGamberoni, Ceronimi and Jeannin P. F. and Marail J.F. (1982)\nStudy of frontal zones in the Crosze-Kerguelen region. Oceano acta, vol. 5,3, (1982)\nGoldschmidt V. M. and Peters G. (1932)\nZur geochimie des Bors. Nachr. gesselsch, Naturwissench, Gottingen, Mathphys. Klasse III, 25IV, 402.\nHowarth R. W. (1978)\nA rapid and precise method for determining sulfate in sea water; estuarine waters and sediment pore water.\nLimnology and Oceanography 23 :1066-1069.\nHulthe P., Uppstrom L and Ostling G. (1970)\nAn automatic procedure for the determination of boron in sea water. Anal Chim. Acta, 51; 31.\nKwiecinski B. (1965)\nThe sulfate content of Baltic sea water and its relationship to chlorinity. DeepSeaRes., 12,797-804.\nMorris A. W. and Riley J. P. (1966)\nThe bromide-chlorinity and sulfate chlorinity ratio in sea water. Deep-Sea Res., 13,699-705,\nNaqvi S. W. A. and Reddy C. V. G. (1978)\nOn the variation in calcium content of the waters of Laccadives (Arabian Sea). Mar-Chem. 8,1-7.\nNaqvi S. W. A. and Naik S. (1983)\nCalcium/chlorinity ratio and carbonate dissolution in the northwestern Indian Ocean. Deep-Sea Res., 30,381-392.\nNoronha R. J., Moraes, C. and Sen Gupta R. (1981)\nCalcium, magnesium and fluoride concentration in the Andaman Sea. Ind. J. mar. Sci. 10,234-237.\nSen Gupta R., Naik S., Singbal S. Y. S. (1978)\nA study of fluoride, calcium and magnesium in the Northern Indian Ocean. Marine Chem. 6,125-141.\nShirodkar P. V. (1982)\nDistribution of boron in shallow waters over the Wadge Bank. Mahasagar-Bull. Nam. Inst. Oceanogr. (In press)\nShirodkar P. V., Singbal S. Y. S. and Sen Gupta R. (1982)\nStudies on boron along the Central West Coast of India. Ina. J. mar. Sci. 11,251-252.\nThompsonT. G., Johnston W. R. and Wirth H.E., (1931)\nThe sulfate chlorinity ratio in ocean-water. Jr. cons. perm. int. Explor. Mer., 6,246-251\nTsunogaiS.,.Yamazaki T and Nishimura M. (1971)\nCalcium in the Antarctic ocean. Journal of the Oceanography, Society of Japan, 27, 5,191-196.\n94",
+      "char_count": 3495
+    }
+  ]
+}

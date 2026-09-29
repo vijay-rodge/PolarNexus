@@ -1,0 +1,426 @@
+2026-09-29 18:37:16,613 [INFO] ======================================================================
+2026-09-29 18:37:16,613 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 18:37:16,613 [INFO] Target: http://14.139.119.23:8080/dspace/community-list
+2026-09-29 18:37:16,613 [INFO] Mode: DRY-RUN | Page Limit: 15 | Max Depth: 3
+2026-09-29 18:37:16,613 [INFO] ======================================================================
+2026-09-29 18:37:16,622 [INFO] [1/15] Crawling (Depth 0): http://14.139.119.23:8080/dspace/community-list
+2026-09-29 18:37:20,461 [INFO] [2/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/
+2026-09-29 18:37:21,914 [INFO] [3/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/advanced-search
+2026-09-29 18:37:23,303 [INFO] [4/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-title
+2026-09-29 18:37:25,023 [INFO] [5/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-author
+2026-09-29 18:37:26,758 [INFO] [6/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-date
+2026-09-29 18:37:28,391 [INFO] [7/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/subscribe
+2026-09-29 18:37:29,659 [INFO] [8/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/profile
+2026-09-29 18:37:30,886 [INFO] [9/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/634
+2026-09-29 18:37:32,137 [INFO] [10/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 18:37:33,537 [INFO] [11/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/125
+2026-09-29 18:37:34,850 [INFO] [12/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/123
+2026-09-29 18:37:36,157 [INFO] [13/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/127
+2026-09-29 18:37:37,452 [INFO] [14/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 18:37:38,750 [INFO] [15/15] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/129
+2026-09-29 18:37:40,075 [INFO] Reached configured page limit (15). Stopping discovery.
+2026-09-29 18:37:40,075 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 18:37:40,083 [INFO] ======================================================================
+2026-09-29 18:37:40,083 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 18:37:40,083 [INFO] Summary: {'total_urls_discovered': 394, 'total_urls_visited': 15, 'total_items_discovered': 0, 'total_pdfs_downloaded': 0, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 0, 'total_ocr_required': 0}
+2026-09-29 18:37:40,084 [INFO] ======================================================================
+2026-09-29 18:48:46,254 [INFO] ======================================================================
+2026-09-29 18:48:46,255 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 18:48:46,255 [INFO] Target: http://14.139.119.23:8080/dspace/handle/123456789/123
+2026-09-29 18:48:46,255 [INFO] Mode: ALL | Page Limit: 10 | Max Depth: 4
+2026-09-29 18:48:46,255 [INFO] ======================================================================
+2026-09-29 18:48:46,257 [INFO] [1/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/130
+2026-09-29 18:48:47,680 [INFO] [2/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/766
+2026-09-29 18:48:48,926 [INFO] [3/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/154
+2026-09-29 18:48:50,330 [INFO] [4/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/160
+2026-09-29 18:48:51,631 [INFO] [5/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/155
+2026-09-29 18:48:52,955 [INFO] [6/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/156
+2026-09-29 18:48:54,398 [INFO] [7/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/157
+2026-09-29 18:48:55,877 [INFO] [8/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/158
+2026-09-29 18:48:57,185 [INFO] [9/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/768
+2026-09-29 18:48:58,431 [INFO] [10/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/194
+2026-09-29 18:48:59,823 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 18:48:59,831 [INFO] ======================================================================
+2026-09-29 18:48:59,831 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 18:48:59,831 [INFO] Summary: {'total_urls_discovered': 420, 'total_urls_visited': 25, 'total_items_discovered': 0, 'total_pdfs_downloaded': 0, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 0, 'total_ocr_required': 0}
+2026-09-29 18:48:59,831 [INFO] ======================================================================
+2026-09-29 18:51:37,645 [INFO] ======================================================================
+2026-09-29 18:51:37,645 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 18:51:37,645 [INFO] Target: http://14.139.119.23:8080/dspace/handle/123456789/133
+2026-09-29 18:51:37,645 [INFO] Mode: ALL | Page Limit: 5 | Max Depth: 4
+2026-09-29 18:51:37,645 [INFO] ======================================================================
+2026-09-29 18:51:37,653 [INFO] [1/5] Crawling (Depth 0): http://14.139.119.23:8080/dspace/handle/123456789/133
+2026-09-29 18:51:39,029 [INFO]   -> Discovered Item: 'Position fixing in Antarctica' (DSPACE-123456789-133)
+2026-09-29 18:51:39,033 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/133/5/ARTICLE+4.pdf
+2026-09-29 18:51:41,542 [INFO]   ✓ PDF Verified (140,880 bytes, sha256: cedf01906d...)
+2026-09-29 18:51:41,881 [INFO]   ✓ Text Extracted: 8509 chars across 5 pages -> 15 RAG chunks.
+2026-09-29 18:51:41,931 [INFO] [2/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 18:51:43,339 [INFO] [3/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/123
+2026-09-29 18:51:44,656 [INFO] [4/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/133?mode=full
+2026-09-29 18:51:45,954 [INFO]   -> Discovered Item: 'Position fixing in Antarctica' (DSPACE-123456789-133)
+2026-09-29 18:51:45,960 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/133/5/ARTICLE+4.pdf
+2026-09-29 18:51:46,962 [INFO]   ✓ PDF Verified (140,880 bytes, sha256: cedf01906d...)
+2026-09-29 18:51:46,992 [INFO]   ✓ Text Extracted: 8509 chars across 5 pages -> 15 RAG chunks.
+2026-09-29 18:51:47,017 [INFO] [5/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/community-list
+2026-09-29 18:51:50,889 [INFO] Reached configured page limit (5). Stopping discovery.
+2026-09-29 18:51:50,889 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 18:51:50,909 [INFO] ======================================================================
+2026-09-29 18:51:50,909 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 18:51:50,909 [INFO] Summary: {'total_urls_discovered': 261, 'total_urls_visited': 5, 'total_items_discovered': 1, 'total_pdfs_downloaded': 1, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 1, 'total_ocr_required': 0}
+2026-09-29 18:51:50,909 [INFO] ======================================================================
+2026-09-29 18:58:18,539 [INFO] ======================================================================
+2026-09-29 18:58:18,540 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 18:58:18,540 [INFO] Target: http://14.139.119.23:8080/dspace/handle/123456789/133
+2026-09-29 18:58:18,540 [INFO] Mode: ALL | Page Limit: 5 | Max Depth: 4
+2026-09-29 18:58:18,540 [INFO] ======================================================================
+2026-09-29 18:58:18,549 [INFO] [1/5] Crawling (Depth 0): http://14.139.119.23:8080/dspace/handle/123456789/133
+2026-09-29 18:58:19,940 [INFO]   -> Discovered Item: 'Position fixing in Antarctica' (DSPACE-123456789-133)
+2026-09-29 18:58:19,945 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/133/5/ARTICLE+4.pdf
+2026-09-29 18:58:20,968 [INFO]   ✓ PDF Verified (140,880 bytes, sha256: cedf01906d...)
+2026-09-29 18:58:21,512 [INFO]   ✓ Text Extracted: 8509 chars across 5 pages -> 15 RAG chunks.
+2026-09-29 18:58:21,571 [INFO] [2/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 18:58:22,964 [INFO] [3/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/123
+2026-09-29 18:58:24,266 [INFO] [4/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/133?mode=full
+2026-09-29 18:58:25,537 [INFO]   -> Discovered Item: 'Position fixing in Antarctica' (DSPACE-123456789-133)
+2026-09-29 18:58:25,544 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/133/5/ARTICLE+4.pdf
+2026-09-29 18:58:26,546 [INFO]   ✓ PDF Verified (140,880 bytes, sha256: cedf01906d...)
+2026-09-29 18:58:26,578 [INFO]   ✓ Text Extracted: 8509 chars across 5 pages -> 15 RAG chunks.
+2026-09-29 18:58:26,605 [INFO] [5/5] Crawling (Depth 1): http://14.139.119.23:8080/dspace/community-list
+2026-09-29 18:58:30,407 [INFO] Reached configured page limit (5). Stopping discovery.
+2026-09-29 18:58:30,407 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 18:58:30,429 [INFO] ======================================================================
+2026-09-29 18:58:30,429 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 18:58:30,429 [INFO] Summary: {'total_urls_discovered': 261, 'total_urls_visited': 5, 'total_items_discovered': 1, 'total_pdfs_downloaded': 1, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 1, 'total_ocr_required': 0}
+2026-09-29 18:58:30,429 [INFO] ======================================================================
+2026-09-29 19:09:36,557 [INFO] ======================================================================
+2026-09-29 19:09:36,557 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 19:09:36,558 [INFO] Target: http://14.139.119.23:8080/dspace/community-list
+2026-09-29 19:09:36,558 [INFO] Mode: ALL | Page Limit: 25 | Max Depth: 4
+2026-09-29 19:09:36,558 [INFO] ======================================================================
+2026-09-29 19:09:36,564 [INFO] [1/25] Crawling (Depth 0): http://14.139.119.23:8080/dspace/community-list
+2026-09-29 19:09:40,155 [INFO] [2/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/634
+2026-09-29 19:09:41,419 [INFO] [3/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 19:09:42,869 [INFO] [4/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/125
+2026-09-29 19:09:44,118 [INFO] [5/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/123
+2026-09-29 19:09:45,426 [INFO] [6/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/127
+2026-09-29 19:09:47,287 [INFO] [7/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 19:09:48,643 [INFO] [8/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/129
+2026-09-29 19:09:50,002 [INFO] [9/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/130
+2026-09-29 19:09:51,350 [INFO] [10/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/766
+2026-09-29 19:09:52,602 [INFO] [11/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/154
+2026-09-29 19:09:53,970 [INFO] [12/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/160
+2026-09-29 19:09:55,226 [INFO] [13/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/155
+2026-09-29 19:09:56,607 [INFO] [14/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/156
+2026-09-29 19:09:57,954 [INFO] [15/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/157
+2026-09-29 19:09:59,284 [INFO] [16/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/158
+2026-09-29 19:10:00,624 [INFO] [17/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/768
+2026-09-29 19:10:01,902 [INFO] [18/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/194
+2026-09-29 19:10:03,287 [INFO] [19/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/195
+2026-09-29 19:10:04,561 [INFO] [20/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/196
+2026-09-29 19:10:05,870 [INFO] [21/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/197
+2026-09-29 19:10:07,264 [INFO] [22/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/198
+2026-09-29 19:10:08,616 [INFO] [23/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/199
+2026-09-29 19:10:09,871 [INFO] [24/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/200
+2026-09-29 19:10:11,145 [INFO] [25/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/201
+2026-09-29 19:10:12,446 [INFO] Reached configured page limit (25). Stopping discovery.
+2026-09-29 19:10:12,446 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 19:10:12,452 [INFO] ======================================================================
+2026-09-29 19:10:12,453 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 19:10:12,453 [INFO] Summary: {'total_urls_discovered': 314, 'total_urls_visited': 25, 'total_items_discovered': 0, 'total_pdfs_downloaded': 0, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 0, 'total_ocr_required': 0}
+2026-09-29 19:10:12,453 [INFO] ======================================================================
+2026-09-29 19:12:03,517 [INFO] ======================================================================
+2026-09-29 19:12:03,517 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 19:12:03,517 [INFO] Target: http://14.139.119.23:8080/dspace/community-list
+2026-09-29 19:12:03,517 [INFO] Mode: DRY-RUN | Page Limit: 25 | Max Depth: 4
+2026-09-29 19:12:03,518 [INFO] ======================================================================
+2026-09-29 19:12:03,519 [INFO] [1/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/669
+2026-09-29 19:12:04,941 [INFO] [2/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/770
+2026-09-29 19:12:06,211 [INFO] [3/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/224
+2026-09-29 19:12:07,606 [INFO] [4/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/225
+2026-09-29 19:12:08,896 [INFO] [5/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/226
+2026-09-29 19:12:10,275 [INFO] [6/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/229
+2026-09-29 19:12:11,584 [INFO] [7/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/227
+2026-09-29 19:12:12,878 [INFO] [8/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/228
+2026-09-29 19:12:14,229 [INFO] [9/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/772
+2026-09-29 19:12:15,544 [INFO] [10/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/247
+2026-09-29 19:12:16,929 [INFO] [11/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/248
+2026-09-29 19:12:18,205 [INFO] [12/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/249
+2026-09-29 19:12:19,567 [INFO] [13/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/250
+2026-09-29 19:12:20,967 [INFO] [14/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/251
+2026-09-29 19:12:22,354 [INFO] [15/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/252
+2026-09-29 19:12:23,705 [INFO] [16/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/253
+2026-09-29 19:12:25,019 [INFO] [17/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/254
+2026-09-29 19:12:26,363 [INFO] [18/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/255
+2026-09-29 19:12:27,680 [INFO] [19/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/256
+2026-09-29 19:12:28,967 [INFO] [20/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/774
+2026-09-29 19:12:30,275 [INFO] [21/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/257
+2026-09-29 19:12:31,593 [INFO] [22/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/762
+2026-09-29 19:12:32,811 [INFO] [23/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/763
+2026-09-29 19:12:34,215 [INFO] [24/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/764
+2026-09-29 19:12:35,420 [INFO] [25/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/326
+2026-09-29 19:12:36,820 [INFO] Reached configured page limit (25). Stopping discovery.
+2026-09-29 19:12:36,821 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 19:12:36,826 [INFO] ======================================================================
+2026-09-29 19:12:36,826 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 19:12:36,827 [INFO] Summary: {'total_urls_discovered': 368, 'total_urls_visited': 50, 'total_items_discovered': 0, 'total_pdfs_downloaded': 0, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 0, 'total_ocr_required': 0}
+2026-09-29 19:12:36,827 [INFO] ======================================================================
+2026-09-29 19:43:10,392 [INFO] ======================================================================
+2026-09-29 19:43:10,392 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 19:43:10,393 [INFO] Target: http://14.139.119.23:8080/dspace/community-list
+2026-09-29 19:43:10,393 [INFO] Mode: ALL | Page Limit: 25 | Max Depth: 4
+2026-09-29 19:43:10,393 [INFO] ======================================================================
+2026-09-29 19:43:10,401 [INFO] [1/25] Crawling (Depth 0): http://14.139.119.23:8080/dspace/community-list
+2026-09-29 19:43:14,151 [INFO] [2/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/634
+2026-09-29 19:43:15,458 [INFO] [3/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 19:43:16,930 [INFO] [4/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/125
+2026-09-29 19:43:18,306 [INFO] [5/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/123
+2026-09-29 19:43:19,658 [INFO] [6/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/127
+2026-09-29 19:43:21,014 [INFO] [7/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 19:43:22,424 [INFO] [8/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/129
+2026-09-29 19:43:23,910 [INFO] [9/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/130
+2026-09-29 19:43:25,273 [INFO] [10/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/766
+2026-09-29 19:43:26,637 [INFO] [11/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/154
+2026-09-29 19:43:28,122 [INFO] [12/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/160
+2026-09-29 19:43:29,521 [INFO] [13/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/155
+2026-09-29 19:43:31,086 [INFO] [14/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/156
+2026-09-29 19:43:32,482 [INFO] [15/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/157
+2026-09-29 19:43:33,886 [INFO] [16/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/158
+2026-09-29 19:43:35,258 [INFO] [17/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/768
+2026-09-29 19:43:36,537 [INFO] [18/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/194
+2026-09-29 19:43:38,014 [INFO] [19/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/195
+2026-09-29 19:43:39,443 [INFO] [20/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/196
+2026-09-29 19:43:40,868 [INFO] [21/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/197
+2026-09-29 19:43:42,290 [INFO] [22/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/198
+2026-09-29 19:43:43,724 [INFO] [23/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/199
+2026-09-29 19:43:45,135 [INFO] [24/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/200
+2026-09-29 19:43:46,509 [INFO] [25/25] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/201
+2026-09-29 19:43:47,860 [INFO] Reached configured page limit (25). Stopping discovery.
+2026-09-29 19:43:47,861 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 19:43:47,868 [INFO] ======================================================================
+2026-09-29 19:43:47,868 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 19:43:47,868 [INFO] Summary: {'total_urls_discovered': 314, 'total_urls_visited': 25, 'total_items_discovered': 0, 'total_pdfs_downloaded': 0, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 0, 'total_ocr_required': 0}
+2026-09-29 19:43:47,868 [INFO] ======================================================================
+2026-09-29 19:58:05,059 [INFO] ======================================================================
+2026-09-29 19:58:05,059 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 19:58:05,059 [INFO] Target: http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 19:58:05,060 [INFO] Mode: ALL | Traversal: DEPTH-FIRST | Page Limit: 10
+2026-09-29 19:58:05,060 [INFO] ======================================================================
+2026-09-29 19:58:05,068 [INFO] [1/10] Crawling (Depth 0): http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 19:58:06,637 [INFO] [2/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/137
+2026-09-29 19:58:07,885 [INFO]   -> Discovered Item: 'On fluoride, bromide and iodide in the southwestern Indian Ocean sector
+of the Southern Ocean' (DSPACE-123456789-137)
+2026-09-29 19:58:07,892 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/137/3/ARTICLE%2B9.pdf
+2026-09-29 19:58:10,427 [INFO]   ✓ PDF Verified (177,873 bytes, sha256: 97bf812ce4...)
+2026-09-29 19:58:11,133 [INFO]   ✓ Text Extracted: 23343 chars across 9 pages -> 40 RAG chunks.
+2026-09-29 19:58:11,134 [INFO]   ✓ Geodetic Benchmarks Found: 2 coordinates parsed.
+2026-09-29 19:58:11,134 [INFO]   ✓ Figures Extracted: 3 images isolated.
+2026-09-29 19:58:11,158 [INFO] [3/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/138
+2026-09-29 19:58:12,499 [INFO]   -> Discovered Item: 'On the distribution of calcium, magnesium, sulphate and boron in the
+southwestern Indian Ocean region of the Southern Ocean' (DSPACE-123456789-138)
+2026-09-29 19:58:12,518 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/138/3/ARTICLE+8.pdf
+2026-09-29 19:58:14,358 [INFO]   ✓ PDF Verified (123,759 bytes, sha256: ae38dacc98...)
+2026-09-29 19:58:14,504 [INFO]   ✓ Text Extracted: 20319 chars across 8 pages -> 35 RAG chunks.
+2026-09-29 19:58:14,504 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 19:58:14,504 [INFO]   ✓ Figures Extracted: 9 images isolated.
+2026-09-29 19:58:14,528 [INFO] [4/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/139
+2026-09-29 19:58:15,805 [INFO]   -> Discovered Item: 'Distribution of a few trace metals in a section in the south-western Indian Ocean' (DSPACE-123456789-139)
+2026-09-29 19:58:15,811 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/139/3/ARTICLE+9.pdf
+2026-09-29 19:58:17,588 [INFO]   ✓ PDF Verified (64,226 bytes, sha256: dbfb5c7d69...)
+2026-09-29 19:58:17,648 [INFO]   ✓ Text Extracted: 15298 chars across 5 pages -> 25 RAG chunks.
+2026-09-29 19:58:17,648 [INFO]   ✓ Geodetic Benchmarks Found: 1 coordinates parsed.
+2026-09-29 19:58:17,672 [INFO] [5/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/140
+2026-09-29 19:58:19,010 [INFO]   -> Discovered Item: 'Measurement of aerosol particles along a section from 8 ° N latitude to
+Antarctica in the southwestern region of the Indian Ocean' (DSPACE-123456789-140)
+2026-09-29 19:58:19,017 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/140/3/ARTICLE+10.pdf
+2026-09-29 19:58:20,706 [INFO]   ✓ PDF Verified (79,882 bytes, sha256: ca402adc04...)
+2026-09-29 19:58:20,807 [INFO]   ✓ Text Extracted: 13725 chars across 6 pages -> 23 RAG chunks.
+2026-09-29 19:58:20,807 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 19:58:20,807 [INFO]   ✓ Figures Extracted: 3 images isolated.
+2026-09-29 19:58:20,828 [INFO] [6/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/1142
+2026-09-29 19:58:22,111 [INFO]   -> Discovered Item: 'Chemical oceanographic studies along a section from 32°S to Antarctica in the south western Indian Ocean' (DSPACE-123456789-1142)
+2026-09-29 19:58:22,131 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/1142/1/ARTICLE%2B8.pdf
+2026-09-29 19:58:24,520 [INFO]   ✓ PDF Verified (321,019 bytes, sha256: 4c145ca0cc...)
+2026-09-29 19:58:24,631 [INFO]   ✓ Text Extracted: 20382 chars across 9 pages -> 36 RAG chunks.
+2026-09-29 19:58:24,631 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 19:58:24,631 [INFO]   ✓ Figures Extracted: 12 images isolated.
+2026-09-29 19:58:24,658 [INFO] [7/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 19:58:26,590 [INFO] [8/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-date
+2026-09-29 19:58:28,376 [INFO] [9/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-author
+2026-09-29 19:58:30,072 [INFO] [10/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-title
+2026-09-29 19:58:31,934 [INFO] Reached configured page limit (10). Stopping discovery.
+2026-09-29 19:58:31,934 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 19:58:31,942 [INFO] ======================================================================
+2026-09-29 19:58:31,942 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 19:58:31,942 [INFO] Summary: {'total_urls_discovered': 148, 'total_urls_visited': 10, 'total_items_discovered': 5, 'total_pdfs_downloaded': 5, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 5, 'total_ocr_required': 0}
+2026-09-29 19:58:31,942 [INFO] ======================================================================
+2026-09-29 20:02:30,677 [INFO] ======================================================================
+2026-09-29 20:02:30,678 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 20:02:30,678 [INFO] Target: http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 20:02:30,678 [INFO] Mode: ALL | Traversal: DEPTH-FIRST | Page Limit: 10
+2026-09-29 20:02:30,678 [INFO] ======================================================================
+2026-09-29 20:02:30,686 [INFO] [1/10] Crawling (Depth 0): http://14.139.119.23:8080/dspace/handle/123456789/128
+2026-09-29 20:02:32,287 [INFO] [2/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/137
+2026-09-29 20:02:33,599 [INFO]   -> Discovered Item: 'On fluoride, bromide and iodide in the southwestern Indian Ocean sector
+of the Southern Ocean' (DSPACE-123456789-137)
+2026-09-29 20:02:33,603 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/137/3/ARTICLE%2B9.pdf
+2026-09-29 20:02:34,607 [INFO]   ✓ PDF Verified (177,873 bytes, sha256: 97bf812ce4...)
+2026-09-29 20:02:34,946 [INFO]   ✓ Text Extracted: 23343 chars across 9 pages -> 40 RAG chunks.
+2026-09-29 20:02:34,946 [INFO]   ✓ Geodetic Benchmarks Found: 2 coordinates parsed.
+2026-09-29 20:02:34,947 [INFO]   ✓ Figures Extracted: 3 images isolated.
+2026-09-29 20:02:34,968 [INFO] [3/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/138
+2026-09-29 20:02:36,255 [INFO]   -> Discovered Item: 'On the distribution of calcium, magnesium, sulphate and boron in the
+southwestern Indian Ocean region of the Southern Ocean' (DSPACE-123456789-138)
+2026-09-29 20:02:36,274 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/138/3/ARTICLE+8.pdf
+2026-09-29 20:02:37,277 [INFO]   ✓ PDF Verified (123,759 bytes, sha256: ae38dacc98...)
+2026-09-29 20:02:37,397 [INFO]   ✓ Text Extracted: 20319 chars across 8 pages -> 35 RAG chunks.
+2026-09-29 20:02:37,398 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 20:02:37,398 [INFO]   ✓ Figures Extracted: 9 images isolated.
+2026-09-29 20:02:37,420 [INFO] [4/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/139
+2026-09-29 20:02:38,680 [INFO]   -> Discovered Item: 'Distribution of a few trace metals in a section in the south-western Indian Ocean' (DSPACE-123456789-139)
+2026-09-29 20:02:38,686 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/139/3/ARTICLE+9.pdf
+2026-09-29 20:02:39,699 [INFO]   ✓ PDF Verified (64,226 bytes, sha256: dbfb5c7d69...)
+2026-09-29 20:02:39,741 [INFO]   ✓ Text Extracted: 15298 chars across 5 pages -> 25 RAG chunks.
+2026-09-29 20:02:39,741 [INFO]   ✓ Geodetic Benchmarks Found: 1 coordinates parsed.
+2026-09-29 20:02:39,764 [INFO] [5/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/140
+2026-09-29 20:02:41,087 [INFO]   -> Discovered Item: 'Measurement of aerosol particles along a section from 8 ° N latitude to
+Antarctica in the southwestern region of the Indian Ocean' (DSPACE-123456789-140)
+2026-09-29 20:02:41,106 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/140/3/ARTICLE+10.pdf
+2026-09-29 20:02:42,120 [INFO]   ✓ PDF Verified (79,882 bytes, sha256: ca402adc04...)
+2026-09-29 20:02:42,197 [INFO]   ✓ Text Extracted: 13725 chars across 6 pages -> 23 RAG chunks.
+2026-09-29 20:02:42,197 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 20:02:42,198 [INFO]   ✓ Figures Extracted: 3 images isolated.
+2026-09-29 20:02:42,219 [INFO] [6/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/1142
+2026-09-29 20:02:43,480 [INFO]   -> Discovered Item: 'Chemical oceanographic studies along a section from 32°S to Antarctica in the south western Indian Ocean' (DSPACE-123456789-1142)
+2026-09-29 20:02:43,498 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/1142/1/ARTICLE%2B8.pdf
+2026-09-29 20:02:44,512 [INFO]   ✓ PDF Verified (321,019 bytes, sha256: 4c145ca0cc...)
+2026-09-29 20:02:44,576 [INFO]   ✓ Text Extracted: 20382 chars across 9 pages -> 36 RAG chunks.
+2026-09-29 20:02:44,576 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 20:02:44,576 [INFO]   ✓ Figures Extracted: 12 images isolated.
+2026-09-29 20:02:44,595 [INFO] [7/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/handle/123456789/122
+2026-09-29 20:02:46,133 [INFO] [8/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-date
+2026-09-29 20:02:47,777 [INFO] [9/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-author
+2026-09-29 20:02:49,340 [INFO] [10/10] Crawling (Depth 1): http://14.139.119.23:8080/dspace/browse-title
+2026-09-29 20:02:51,097 [INFO] Reached configured page limit (10). Stopping discovery.
+2026-09-29 20:02:51,097 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 20:02:51,106 [INFO] ======================================================================
+2026-09-29 20:02:51,106 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 20:02:51,107 [INFO] Summary: {'total_urls_discovered': 148, 'total_urls_visited': 10, 'total_items_discovered': 5, 'total_pdfs_downloaded': 5, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 5, 'total_ocr_required': 0}
+2026-09-29 20:02:51,107 [INFO] ======================================================================
+2026-09-29 20:36:19,462 [INFO] ======================================================================
+2026-09-29 20:36:19,463 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 20:36:19,463 [INFO] Target: http://14.139.119.23:8080/dspace/simple-search?query=oceanology
+2026-09-29 20:36:19,463 [INFO] Mode: ALL | Traversal: DEPTH-FIRST | Page Limit: 10
+2026-09-29 20:36:19,464 [INFO] ======================================================================
+2026-09-29 20:36:19,472 [INFO] [1/10] Crawling (Depth 0): http://14.139.119.23:8080/dspace/simple-search?query=oceanology
+2026-09-29 20:36:21,142 [INFO] [2/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/338
+2026-09-29 20:36:22,504 [INFO]   -> Discovered Item: 'Analysis of an Umbral Flare Observed from Antarctica' (DSPACE-123456789-338)
+2026-09-29 20:36:22,512 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/338/3/ARTICLE+3.pdf
+2026-09-29 20:36:25,245 [INFO]   ✓ PDF Verified (111,446 bytes, sha256: 1a58b83442...)
+2026-09-29 20:36:25,487 [INFO]   ✓ Text Extracted: 12603 chars across 6 pages -> 22 RAG chunks.
+2026-09-29 20:36:25,488 [INFO]   ✓ Geodetic Benchmarks Found: 2 coordinates parsed.
+2026-09-29 20:36:25,488 [INFO]   ✓ Figures Extracted: 2 images isolated.
+2026-09-29 20:36:25,523 [INFO] [3/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/1236
+2026-09-29 20:36:26,870 [INFO]   -> Discovered Item: 'Ambient air quality studies at different Islands of Larsemann Hills in East Antarctica' (DSPACE-123456789-1236)
+2026-09-29 20:36:26,880 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/1236/1/pages159-166.pdf
+2026-09-29 20:36:48,188 [INFO]   ✓ PDF Verified (6,404,636 bytes, sha256: 10fbebb3b5...)
+2026-09-29 20:36:48,704 [INFO]   ✓ Text Extracted: 0 chars across 8 pages -> 0 RAG chunks.
+2026-09-29 20:36:48,740 [INFO] [4/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/223
+2026-09-29 20:36:50,300 [INFO]   -> Discovered Item: 'Amateur radio operation during the Third Indian Antarctic Expedition 1983-84' (DSPACE-123456789-223)
+2026-09-29 20:36:50,306 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/223/4/ARTICLE%2B20+-2.pdf
+2026-09-29 20:36:51,965 [INFO]   ✓ PDF Verified (29,091 bytes, sha256: edb15145a5...)
+2026-09-29 20:36:52,019 [INFO]   ✓ Text Extracted: 3853 chars across 2 pages -> 7 RAG chunks.
+2026-09-29 20:36:52,052 [INFO] [5/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/472
+2026-09-29 20:36:53,701 [INFO]   -> Discovered Item: 'Alteration of Immunoglobulin and Temperature Rhythm duringWinter Over Stay in Antarctica' (DSPACE-123456789-472)
+2026-09-29 20:36:53,709 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/472/3/ARTICLE+28.pdf
+2026-09-29 20:36:56,562 [INFO]   ✓ PDF Verified (100,627 bytes, sha256: 0391506e94...)
+2026-09-29 20:36:56,657 [INFO]   ✓ Text Extracted: 22488 chars across 10 pages -> 40 RAG chunks.
+2026-09-29 20:36:56,657 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 20:36:56,693 [INFO] [6/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/422
+2026-09-29 20:36:59,279 [INFO]   -> Discovered Item: 'Algal Colonization of the Schirmacher Oasis, Antarctica' (DSPACE-123456789-422)
+2026-09-29 20:36:59,297 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/422/3/ARTICLE+15_1.pdf
+2026-09-29 20:37:02,078 [INFO]   ✓ PDF Verified (68,343 bytes, sha256: 5e6c92251f...)
+2026-09-29 20:37:02,148 [INFO]   ✓ Text Extracted: 9130 chars across 6 pages -> 18 RAG chunks.
+2026-09-29 20:37:02,148 [INFO]   ✓ Figures Extracted: 1 images isolated.
+2026-09-29 20:37:02,184 [INFO] [7/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/452
+2026-09-29 20:37:04,364 [INFO]   -> Discovered Item: 'Algal Colonization of Schirmacher Oasis, Antarctica' (DSPACE-123456789-452)
+2026-09-29 20:37:04,384 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/452/3/ARTICLE+8.pdf
+2026-09-29 20:37:06,467 [INFO]   ✓ PDF Verified (156,277 bytes, sha256: 7d4dc8b17c...)
+2026-09-29 20:37:06,580 [INFO]   ✓ Text Extracted: 11671 chars across 8 pages -> 21 RAG chunks.
+2026-09-29 20:37:06,580 [INFO]   ✓ Figures Extracted: 5 images isolated.
+2026-09-29 20:37:06,612 [INFO] [8/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/670
+2026-09-29 20:37:07,911 [INFO]   -> Discovered Item: 'Album of third Expedition' (DSPACE-123456789-670)
+2026-09-29 20:37:07,931 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/670/1/V3+T+ALBUM.pdf
+2026-09-29 20:37:20,050 [INFO]   ✓ PDF Verified (3,874,725 bytes, sha256: 80becfddb6...)
+2026-09-29 20:37:20,387 [INFO]   ✓ Text Extracted: 75760 chars across 59 pages -> 141 RAG chunks.
+2026-09-29 20:37:20,387 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 20:37:20,387 [INFO]   ✓ Figures Extracted: 82 images isolated.
+2026-09-29 20:37:20,416 [INFO] [9/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/681
+2026-09-29 20:37:21,768 [INFO]   -> Discovered Item: 'ALBUM' (DSPACE-123456789-681)
+2026-09-29 20:37:21,775 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/681/1/V3+T+ALBUM.pdf
+2026-09-29 20:37:36,551 [INFO]   ✓ PDF Verified (3,874,725 bytes, sha256: 80becfddb6...)
+2026-09-29 20:37:36,890 [INFO]   ✓ Text Extracted: 75760 chars across 59 pages -> 141 RAG chunks.
+2026-09-29 20:37:36,891 [INFO]   ✓ Geodetic Benchmarks Found: 3 coordinates parsed.
+2026-09-29 20:37:36,891 [INFO]   ✓ Figures Extracted: 82 images isolated.
+2026-09-29 20:37:36,926 [INFO] [10/10] Crawling (Depth 2): http://14.139.119.23:8080/dspace/handle/123456789/569
+2026-09-29 20:37:38,250 [INFO]   -> Discovered Item: 'Albedo Studies In Antarctica' (DSPACE-123456789-569)
+2026-09-29 20:37:38,271 [INFO]   -> Downloading PDF: http://14.139.119.23:8080/dspace/bitstream/123456789/569/3/ARTICLE+6.pdf
+2026-09-29 20:37:40,296 [INFO]   ✓ PDF Verified (166,368 bytes, sha256: ef796ebb45...)
+2026-09-29 20:37:40,553 [INFO]   ✓ Text Extracted: 22024 chars across 18 pages -> 43 RAG chunks.
+2026-09-29 20:37:40,553 [INFO]   ✓ Geodetic Benchmarks Found: 1 coordinates parsed.
+2026-09-29 20:37:40,553 [INFO]   ✓ Figures Extracted: 14 images isolated.
+2026-09-29 20:37:40,586 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 20:37:40,604 [INFO] ======================================================================
+2026-09-29 20:37:40,604 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 20:37:40,604 [INFO] Summary: {'total_urls_discovered': 176, 'total_urls_visited': 20, 'total_items_discovered': 14, 'total_pdfs_downloaded': 14, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 13, 'total_ocr_required': 1}
+2026-09-29 20:37:40,604 [INFO] ======================================================================
+2026-09-29 20:51:56,342 [INFO] ======================================================================
+2026-09-29 20:51:56,342 [INFO] STARTING NCPOR DSPACE CRAWLER PIPELINE
+2026-09-29 20:51:56,343 [INFO] Target: http://14.139.119.23:8080/dspace/community-list
+2026-09-29 20:51:56,343 [INFO] Mode: ALL | Traversal: DEPTH-FIRST | Page Limit: 25
+2026-09-29 20:51:56,343 [INFO] Intent Filter Query: 'oceanology'
+2026-09-29 20:51:56,343 [INFO] ======================================================================
+2026-09-29 20:51:56,346 [INFO] [1/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/569?mode=full
+2026-09-29 20:51:58,174 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Albedo Studies In Antarctica'
+2026-09-29 20:51:58,179 [INFO] [2/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/507
+2026-09-29 20:51:59,824 [INFO] [3/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/505
+2026-09-29 20:52:01,428 [INFO] [4/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/681?mode=full
+2026-09-29 20:52:02,975 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'ALBUM'
+2026-09-29 20:52:02,992 [INFO] [5/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/680
+2026-09-29 20:52:04,415 [INFO] [6/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/679
+2026-09-29 20:52:05,841 [INFO] [7/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/670?mode=full
+2026-09-29 20:52:07,801 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Album of third Expedition'
+2026-09-29 20:52:07,810 [INFO] [8/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/669
+2026-09-29 20:52:09,251 [INFO] [9/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/452?mode=full
+2026-09-29 20:52:10,912 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Algal Colonization of Schirmacher Oasis, Antarctica'
+2026-09-29 20:52:10,932 [INFO] [10/25] Crawling (Depth 3): http://14.139.119.23:8080/dspace/handle/123456789/440
+2026-09-29 20:52:12,831 [INFO] [11/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/455
+2026-09-29 20:52:14,192 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'A Note on Experimental Study of Natural Radiation on the Vegetable Seeds in Antarctica'
+2026-09-29 20:52:14,197 [INFO] [12/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/456
+2026-09-29 20:52:16,376 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Developing A Long Term Monitoring Programme for Birds and Mammals in the Indian Ocean and Antarctica'
+2026-09-29 20:52:16,396 [INFO] [13/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/457
+2026-09-29 20:52:17,703 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Daily Monitoring and Aerial Census of Penguins and Seals in Antarctica'
+2026-09-29 20:52:17,721 [INFO] [14/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/458
+2026-09-29 20:52:19,085 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'A Note on Bird Surveys at Various Nesting Sites'
+2026-09-29 20:52:19,103 [INFO] [15/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/459
+2026-09-29 20:52:20,510 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Some Observations on the Controversy of "Stray-Penguins" in Schirmacher Range Area'
+2026-09-29 20:52:20,529 [INFO] [16/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/587
+2026-09-29 20:52:21,849 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'A Summary of the Communication Tasks Carried Out During the Wintering of the 19th Expedition'
+2026-09-29 20:52:21,856 [INFO] [17/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/588
+2026-09-29 20:52:23,369 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'A Medical Note on Significant Cases During the 19th Expedition'
+2026-09-29 20:52:23,375 [INFO] [18/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/589
+2026-09-29 20:52:24,862 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Indian Women in Antarctic Expeditions, A Historical Perspective'
+2026-09-29 20:52:24,880 [INFO] [19/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/678
+2026-09-29 20:52:26,246 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'The Diary and the Highlights of the 19th Indian Anatartic Expedition'
+2026-09-29 20:52:26,254 [INFO] [20/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/795
+2026-09-29 20:52:27,708 [INFO]   - Skipping Item (Does not match query 'oceanology'): 'Document Control Data Sheet'
+2026-09-29 20:52:27,718 [INFO] [21/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/794
+2026-09-29 20:52:29,141 [INFO] [22/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/563
+2026-09-29 20:52:30,746 [INFO] [23/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/562
+2026-09-29 20:52:32,368 [INFO] [24/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/561
+2026-09-29 20:52:33,773 [INFO] [25/25] Crawling (Depth 4): http://14.139.119.23:8080/dspace/handle/123456789/509
+2026-09-29 20:52:35,290 [INFO] Reached configured page limit (25). Stopping discovery.
+2026-09-29 20:52:35,290 [INFO] Generating crawl manifests, structured JSON, CSV, and RAG chunks...
+2026-09-29 20:52:35,307 [INFO] ======================================================================
+2026-09-29 20:52:35,307 [INFO] CRAWL EXECUTION COMPLETE
+2026-09-29 20:52:35,307 [INFO] Summary: {'total_urls_discovered': 204, 'total_urls_visited': 45, 'total_items_discovered': 14, 'total_pdfs_downloaded': 14, 'total_failed_downloads': 0, 'total_restricted_documents': 0, 'total_text_extracted': 13, 'total_ocr_required': 1}
+2026-09-29 20:52:35,307 [INFO] ======================================================================

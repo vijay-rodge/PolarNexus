@@ -1,0 +1,19 @@
+DOCUMENT TITLE: Maitri Antarctic Research Station - Comprehensive Technical & Scientific Dossier
+SOURCE: National Centre for Polar and Ocean Research (NCPOR), Ministry of Earth Sciences, Govt. of India
+STATION: Maitri
+REGION: Schirmacher Oasis, Queen Maud Land, East Antarctica (Coordinates: 70°45'57" S, 11°44'09" E)
+COMMISSIONED: 1989
+OPERATIONAL STATUS: Permanent Year-Round Research Base
+
+SECTION 1: OVERVIEW AND GEOGRAPHICAL LOCATION
+Maitri is India's second permanent research station in Antarctica, commissioned in 1989 after the historic first base, Dakshin Gangotri, was decommissioned due to ice burial. Maitri is situated in the ice-free rocky terrain of the Schirmacher Oasis in Dronning Maud Land (Queen Maud Land) at an elevation of approximately 117 meters above sea level. Unlike Dakshin Gangotri which was built on the floating ice shelf, Maitri is anchored directly on bedrock, enabling decades of structural stability.
+
+SECTION 2: SCIENTIFIC INFRASTRUCTURE AND LABORATORIES
+Maitri features specialized, climate-controlled scientific containers and central living modules connected by insulated passageways:
+1. Meteorological Observatory: Maintained in collaboration with the India Meteorological Department (IMD). Operates an Automatic Weather Station (AWS), digital ozonesonde soundings, radiation sensors, and surface wind monitors.
+2. Lake Priyadarshini Hydrobiology Lab: Located directly adjacent to Lake Priyadarshini, a pristine freshwater lake that provides the life-support water supply to the station. Researchers conduct continuous limnological, microbial diversity, and chemical contamination monitoring.
+3. Geomagnetism and Atmospheric Physics Observatory: Operates a digital fluxgate magnetometer, riometer, and VLF receiver to monitor magnetospheric substorms, auroral electrojet dynamics, and ionospheric scintillation.
+4. Seismological Observatory: Established with the National Geophysical Research Institute (NGRI) to record global earthquake teleseismic waveforms and intraplate Antarctic seismic events.
+
+SECTION 3: KEY EXPEDITIONS AND MILESTONES
+Maitri has continuously sheltered wintering teams consisting of 20 to 25 scientists, engineers, medical doctors, and logistics personnel during the harsh polar winter (temperatures plunging below -40°C with hurricane-force blizzards exceeding 150 km/h). Maitri served as the primary launching pad for the historic Indian South Pole Scientific Expedition in 2010.

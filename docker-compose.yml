@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: polar_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: polar_password
+      POSTGRES_DB: polar_science
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  web:
+    build: .
+    container_name: polar_web
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://postgres:polar_password@db:5432/polar_science
+      CHROMA_PERSIST_DIRECTORY: /app/data/vectorstore/chroma
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    depends_on:
+      - db
+    volumes:
+      - ./data:/app/data
+
+volumes:
+  postgres_data:

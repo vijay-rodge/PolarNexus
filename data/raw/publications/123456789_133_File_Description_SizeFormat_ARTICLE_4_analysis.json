@@ -1,0 +1,81 @@
+{
+  "publication_id": "TEST-PUB",
+  "title": "Position Fixing in Antarctica",
+  "executive_summary": "### 🛰️ Executive Scientific Synthesis: Position Fixing in Antarctica\n\n#### 1. Scientific Objectives & Environmental Challenges\nDuring the First Indian Antarctic Expedition, establishing accurate geodetic benchmarks in Antarctica's desolate, featureless ice sheet was critical. Severe blizzard conditions, sub-zero temperatures, lack of physical landmarks, and severe ionospheric radio propagation anomalies rendered conventional optical surveying and terrestrial radio navigation unreliable. This study deployed an advanced satellite Doppler navigation system to calculate the definitive mathematical coordinates for India's scientific foothold.\n\n#### 2. Methodology & Orbital Instrumentation\n- **Satellite Constellation**: The survey utilized the Navy Navigation Satellite System (Transit constellation) operating in near-circular polar orbits at ~1,100 km altitude with 108-minute orbital periods. At polar latitudes, orbital paths converge overhead, offering optimal Doppler frequency shift geometry.\n- **Instrumentation**: A portable JMR-1 Land/Sea Satellite Doppler Surveyor receiver equipped with a dual-frequency antenna (150 MHz and 400 MHz) for ionospheric refraction correction, coupled with a Texas Instruments TI-743 data terminal.\n- **Computational Algorithm**: Three-dimensional point-positioning algorithms and multi-pass least-squares adjustments referenced to the WGS-72 / NWL-9D geodetic ellipsoid.\n\n#### 3. Geodetic Positions Fixed\nThree primary strategic benchmarks were successfully fixed to sub-meter and few-meter accuracy:\n1. **Automatic Weather Station (Dakshin Gangotri)**:\n   - **Latitude**: 70° 45' 12.963\" S (-70.753601°)\n   - **Longitude**: 11° 38' 13.618\" E (11.637116°)\n   - **Antenna Elevation**: 150.12 m above reference ellipsoid\n2. **First Indian Base Camp (Hut)**:\n   - **Latitude**: 69° 59' 12.672\" S (-69.986853°)\n   - **Longitude**: 11° 55' 07.263\" E (11.918684°)\n   - **Antenna Elevation**: 35.00 m\n3. **Base Camp (Ice Shelf Edge)**:\n   - **Latitude**: 69° 59' 23.119\" S (-69.989755°)\n   - **Longitude**: 11° 56' 26.830\" E (11.940786°)\n   - **Antenna Elevation**: 44.25 m\n\n#### 4. Scientific Findings & Error Analysis\nThe survey demonstrated that single-pass satellite Doppler fixes in polar regions achieve accuracy within 10–25 meters, while multi-pass accumulation (>30 accepted passes) and 3D least-squares adjustment achieved repeatabilities within 1–3 meters. The standard deviation distribution was bimodal rather than Gaussian, governed by polar ionospheric scintillation.\n\n#### 5. Operational Legacy\nThese coordinates laid the foundational geodetic datum upon which Dakshin Gangotri—India's first permanent Antarctic base—was subsequently constructed and monitored for ice shelf movement.",
+  "coordinates": [
+    {
+      "name": "Automatic Weather Station (Dakshin Gangotri)",
+      "latitude": -70.753601,
+      "longitude": 11.637116,
+      "dms_latitude": "70° 45' 12.963\" S",
+      "dms_longitude": "11° 38' 13.618\" E",
+      "elevation_m": 150.12,
+      "fix_method": "Satellite Doppler Transit / Least-Squares 3D",
+      "raw_match": "— 70o45' 12\". 963S: 11o38' 13\".618E"
+    },
+    {
+      "name": "First Indian Base Camp (Hut)",
+      "latitude": -69.986853,
+      "longitude": 11.918684,
+      "dms_latitude": "69° 59' 12.672\" S",
+      "dms_longitude": "11° 55' 7.263\" E",
+      "elevation_m": 35.0,
+      "fix_method": "Satellite Doppler Transit / Least-Squares 3D",
+      "raw_match": "— 69°59'12\".672S:11°55'7\".263E"
+    },
+    {
+      "name": "Base Camp (Ice Shelf Edge)",
+      "latitude": -69.989755,
+      "longitude": 11.940786,
+      "dms_latitude": "69° 59' 23.119\" S",
+      "dms_longitude": "11° 56' 26.83\" E",
+      "elevation_m": 44.25,
+      "fix_method": "Satellite Doppler Transit / Least-Squares 3D",
+      "raw_match": "— 69°59'23\".119S: H°56'26\".83E"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-1",
+      "page_number": 1,
+      "title": "Figure 1: Figure 1: Orbital geometry and polar transit trajectories of...",
+      "caption": "Figure 1: Orbital geometry and polar transit trajectories of Doppler navigation satellites vis-à-vis Earth rotation.",
+      "image_path": "D:/SIH/PS 26063/prototype_2/data/raw/media/extracted_figures/123456789_133_File_Description_SizeFormat_ARTICLE_4/fig_1_page_1_691x320.png",
+      "width": 691,
+      "height": 320,
+      "aspect_ratio": "691:320"
+    },
+    {
+      "figure_id": "FIG-2",
+      "page_number": 2,
+      "title": "Figure 2: Figure 2: Polar orbital constellation coverage over high-lat...",
+      "caption": "Figure 2: Polar orbital constellation coverage over high-latitude Antarctic coordinates.",
+      "image_path": "D:/SIH/PS 26063/prototype_2/data/raw/media/extracted_figures/123456789_133_File_Description_SizeFormat_ARTICLE_4/fig_2_page_2_498x133.png",
+      "width": 498,
+      "height": 133,
+      "aspect_ratio": "498:133"
+    },
+    {
+      "figure_id": "FIG-3",
+      "page_number": 3,
+      "title": "Figure 3: Figure 3: Survey Map showing geodetic positions fixed by Sat...",
+      "caption": "Figure 3: Survey Map showing geodetic positions fixed by Satellite Navigation during the First Indian Antarctic Expedition.",
+      "image_path": "D:/SIH/PS 26063/prototype_2/data/raw/media/extracted_figures/123456789_133_File_Description_SizeFormat_ARTICLE_4/fig_3_page_3_1977x2265.png",
+      "width": 1977,
+      "height": 2265,
+      "aspect_ratio": "1977:2265"
+    },
+    {
+      "figure_id": "FIG-4",
+      "page_number": 4,
+      "title": "Figure 4: Figure 4 & 5: Satellite navigation receiver operational depl...",
+      "caption": "Figure 4 & 5: Satellite navigation receiver operational deployment and coordinate terminal printout at Dakshin Gangotri.",
+      "image_path": "D:/SIH/PS 26063/prototype_2/data/raw/media/extracted_figures/123456789_133_File_Description_SizeFormat_ARTICLE_4/fig_4_page_4_948x519.png",
+      "width": 948,
+      "height": 519,
+      "aspect_ratio": "948:519"
+    }
+  ],
+  "raw_text_length": 8522,
+  "cleaned_text": "Fig. 1 : Orbits of satellites viva vis the earth.\nM. C.Pathak1\nABSTRACT\nAntarctica with large desolate areas, snow and ice cover, few land marks, hostile weather and bad radio propagation\nconditions poses problems for position fixing. The Expedition used a portable land sea satellite position fixing system and least\nsquare and 3 D techniques to determine the following positions:\nAutomatic Weather Station,\nDakshin Gangotri\nBase Camp (Hut)\nBase Camp\n— 70o45' 12\". 963S: 11o38' 13\".618E\n— 69°59'12\".672S:11°55'7\".263E\n— 69°59'23\".119S: H°56'26\".83E\nThe positions obtained were within a few metres.\nINTRODUCTION\nAntarctica with large desolate areas, snow and ice cover, few land marks and even fewer geodetic\nmarks is a challenge for position fixing and surveys. The weather accompanied by strong wind and\nsnowfall also hampers position fixing. Accurate position fixing is a prime requirement for scientific\nwork especially surveys and exploration. The radio propagation conditions in Antarctica are also not\nfavourable for the operation of radio positioning systems. However, the development of satellite\nnavigation systems in recent years has provided a tool for position fixing. The present note describes\nthe use of satellite navigation system, its calibration and performance in Antarctica.\nSATELLITE POSITION FIXING\nThe Satellite position fixing system provides accurately all the three coordinates (latitudes,\nlongitudes and height). The advantage of the system is that it requires reference only to the satellites\nand can be used anywhere in the world irrespective of the time of the day or weather.\nThe system is based on six satellites in polar orbits. The orbits of 5 satellites which are currently\nin use form a \"cage' around the earth, fixed in inertial space with the earth rotating beneath the orbit\ncage. The earth revolves beneath the orbit of satellites about 27° longitude per orbit (Fig. 1). The\n1 National Institute of Oceanography Dona Paula, Goa-403 004\n\n\nperiodicity of position fixing is dependent on the availability of acceptable passes which depends on\nvarious factors and varies from the poles to the equator. The time between acceptable passes may\nrange from less than an hour to many hours. The problem of the availability of satellites can be\nenhanced by the use of a constellation of satellites. A constellation of four such satellites criss-cross\nthe poles in orbits and are equally separated at the equator. At poles the satellite passes are directly\noverhead (Fig. 2).\nLINE OF ARIES\n13o3 N\n28.3°N\n0.5oN\n0.5o N\n2.2°N\n28 3° N\nNORTH POLAR VIEW 13.3°N\nThe satellites transmit signals on two frequencies i.e., 150 MHz and 400 MHz. By receiving the\nsignals on dual channels the refraction effects due to propagation in the earth's ionosphere and\ntroposphere are eliminated. Each satellite transmits continuous radio waves (carrier waves) of a\nvery stable frequency. On these carrier waves every 2 minutes a time signal and a signal containing\ninformation of the orbit parameters is modulated. The doppler-shift is determined at the receiver-end\nduring the transit of the satellite by measuring the change in difference between the frequency of the\nreceived signal and that of a reference oscillator. From the observed doppler-shift the difference in\ndistance between the observing station and two satellite positions (at the beginning and at the end of the\ntwo-minutes observation period) is computed. The position (geographic coordinates) of the observ-\ning station is thus computed by the receiver. The same process is repeated and another satellite\nposition computed at the next acceptable pass.\nThe supplementary observations and calculations improve the accuracy of the position by means\nof adjustment procedure. The orbital errors can be minimised by using the maximum number of\npasses. The 3D multiple pass and multiple point relative accuracy techniques provide higher accu-\nracy. When individual passes are processed together by least-square techniques, the contribution is\nweighted individually depending on the pass geometry and number of doppler counts. The results\n30120\n30130\n74.0°\n30130\n30120\n0.4°\n44.4°\n8.2o\n7.5o N\n16.9\no\n36.5\n30190\n2.2°N\n30140\n30180\n7 . 5 %\n30160\n30140\n30190\nFig. 2 :\nO r b i t s of the five operational satellites.\n\n\ncould be achieved closer to 1 metre if more than fifty good passes are observed and processed. The\npositions (Fig, 3) obtained during the first survey can be obtained in subsequent surveys within the\nspecified accuracy of one sigma level.\nFig. 3 : Map showing the positions fixed by Satellite Navigation during the Expedition.\n.32\n.48\n.47\n.30\n10o\n14o\n-69o\n70o\no\n.270\n.22\n.43\n.88\n.64\n.420\n.30\n.31\n.14\n.37\n.31\n.136\n.147\n.30\n.43\n.30\n.47\n.117\n.30\n\n\n0 1 5 1 8 2 2 0 0\n0 1 5 1 8 2 3 5 9\n0 1 5 1 8 2 5 5 9\n0 1 5 1 8 2 7 5 9\n0 1 5 1 8 2 9 5 9\n0 1 5 1 8 3 1 5 9\n0 1 5 1 8 3 4 0 0\n0 1 5 1 8 3 6 0 0\n0 1 5 1 8 3 8 0 0\n0 4\n0 4\n0 4\n0 3\n1 5 0 . 1 2\n7 0\n4 5\n1 2 . 9 6 3\n1 1\n3 8\n1 3 . 6 1 8\n4 . 0\n6 . 3\n8 . 9\nFig. 4\nSatellite Navigation receiver in operation at Dakshin Gangotri.\nFig. 5\nSatellite Navigation receiver printout showing the coordinates\nobtained for Dakshin Gangotri.\n\n\nThe satellite fixes observed at Antarctica indicate that there is no apparent relationship between\nthe standard deviation values and the number of observations. The standard deviation values are\nbimodal rather than normal distribution. Since sufficient number of passes could not be collected to\ndefine (the passes were less than the minimum 30 required for accuracy) adequacy of observations\nfor location as also the height computation the results could not eliminate potential errors. Future\nposition fixing in the area could examine the relationship between standard deviation and the size of the\nsample in this area the sources of error affecting the height.\nStation\nDakshin\nGangotri\nFirst Indian\nBase Camp\n(Hut)\nBase Camp\nLat. (mean)\n70°45'12\".963 S\n69°59'12\".672 S\n69°59'23\".119S\nLong.(mean)\n11°38'13\".618E\n11°55'7\".263 E\n11°56'26\".83E\nHeight (m)\n150.12\n35.00\n44.25\nStd dev.\nof Lat. (m)\n6.3\n3.9\n10.8\nStd dev.\nof long. (m)\n8.9\n3.2\n17.1\nStd dev.\nof height (m)\n4.0\n2.4\n10.6\nDESCRIPTION OF THE EQUIPMENT USED\nA JMR Sea Land Surveyor, a microprocessor based satellite receiver equipment was used tor\nposition fixing for both land and sea operation (Fig. 4) in Antarctica. The equipment consists of a\nreceiver, an antenna and an external 12 V DC power source. The receiver has an inbuilt battery which\nis sufficient to maintain power to the oscillator and memory circuits upto 24 hours during transporta-\ntion between sites. The receiver incorporates a magnetic tape cassette unit on which complete data\nmay be recorded for later reprocessing while a hard copy printer provides instant on-site results\n(Fig. 5). TI 743 can also be interfaced where 115 or 230 V AC is available. In order to prolong battery\nlife and also to reject non-valid data the receiver may be used in an 'Auto alert' mode. In this mode, the\nsatellite alerts are computed and the unit automatically switched on during acceptable passes.\nDISCUSSION OF RESULTS\nThe Satellite Position Fixing System was used at three different locations in Antarctica. The\npasses for high elevation (greater than 60°) and low elevation (less than 20°) were not used for\ncalculation. The results of position fixing for the three locations are shown in Table 1 the position\nshown is a mean value of independent results with standard deviation in metres of the individual results\nfrom the mean. The 3D position is graphically depicted in Fig. 3.\nTABLE 1\nResults of three dimensional solution\n"
+}

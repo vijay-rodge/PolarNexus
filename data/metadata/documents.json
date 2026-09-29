@@ -1,0 +1,2318 @@
+[
+  {
+    "item_id": "DSPACE-123456789-137",
+    "title": "On fluoride, bromide and iodide in the southwestern Indian Ocean sector\r\nof the Southern Ocean",
+    "authors": "DeSouza, Francisca P. Gupta, R.Sen",
+    "year": 2006,
+    "issue_date": "13-Nov-2006",
+    "keywords": [
+      "1983 Flouride Bromide Iodide Water Masses Concentration"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;1",
+    "collection": "4]Chemistry & Environmental Studies",
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "hierarchy": [
+      "01] Scientific Report Of First Indian Expedition To Antarctica",
+      "4]Chemistry & Environmental Studies"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/137",
+    "handle_uri": "http://hdl.handle.net/123456789/137",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+9.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/137/3/ARTICLE%2B9.pdf",
+        "link_text": "View/Open",
+        "size_text": "173Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/137/3/ARTICLE%2B9.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/137",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\01]_Scientific_Report_Of_First_Indian_Expedition_T\\DSPACE-123456789-137_On_fluoride,_bromide_and_iodide_in_the_southwestern_Indian_O.pdf",
+    "sha256": "97bf812ce401ce317cce61385f55ace5ff523e3f65b8522cb56fb04782fcd7a9",
+    "file_size_bytes": 177873,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P2-1",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-137_On_fluoride,_bromide_and_iodide_in_the_southwestern_Indian_O.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-1",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-137_On_fluoride,_bromide_and_iodide_in_the_southwestern_Indian_O.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-2",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-137_On_fluoride,_bromide_and_iodide_in_the_southwestern_Indian_O.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-138",
+    "title": "On the distribution of calcium, magnesium, sulphate and boron in the\r\nsouthwestern Indian Ocean region of the Southern Ocean",
+    "authors": "Naik, Sugandhini Noronha, R.J. Shirodkar, P.V. Gupta, R.Sen",
+    "year": 2006,
+    "issue_date": "13-Nov-2006",
+    "keywords": [
+      "1983 ions Callcium Magnesium Sulphate Boron"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;1",
+    "collection": "4]Chemistry & Environmental Studies",
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "hierarchy": [
+      "01] Scientific Report Of First Indian Expedition To Antarctica",
+      "4]Chemistry & Environmental Studies"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/138",
+    "handle_uri": "http://hdl.handle.net/123456789/138",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+8.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/138/3/ARTICLE+8.pdf",
+        "link_text": "View/Open",
+        "size_text": "120Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/138/3/ARTICLE+8.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/138",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\01]_Scientific_Report_Of_First_Indian_Expedition_T\\DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf",
+    "sha256": "ae38dacc98c92772019051dde538e09a0fed4b35ff582fa809d023ebdcbd471d",
+    "file_size_bytes": 123759,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P2-1",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-2",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-2",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-3",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_3_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-4",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_4_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-5",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_5_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-6",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_6_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-12",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_12_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-1",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-138_On_the_distribution_of_calcium,_magnesium,_sulphate_and_boro.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-139",
+    "title": "Distribution of a few trace metals in a section in the south-western Indian Ocean",
+    "authors": "Sanzgiry, Sujata Mesquita, Analia Gupta, R.Sen",
+    "year": 2006,
+    "issue_date": "13-Nov-2006",
+    "keywords": [
+      "1983 Antarctic polynya Southern Ocean Antartic Divergence Iron & Manganese"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;1",
+    "collection": "4]Chemistry & Environmental Studies",
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "hierarchy": [
+      "01] Scientific Report Of First Indian Expedition To Antarctica",
+      "4]Chemistry & Environmental Studies"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/139",
+    "handle_uri": "http://hdl.handle.net/123456789/139",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+9.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/139/3/ARTICLE+9.pdf",
+        "link_text": "View/Open",
+        "size_text": "62Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/139/3/ARTICLE+9.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/139",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\01]_Scientific_Report_Of_First_Indian_Expedition_T\\DSPACE-123456789-139_Distribution_of_a_few_trace_metals_in_a_section_in_the_south.pdf",
+    "sha256": "dbfb5c7d6980d6ff0a3ab817528093b6d8b91a2573fda55ce0405761b64d68f8",
+    "file_size_bytes": 64226,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": []
+  },
+  {
+    "item_id": "DSPACE-123456789-140",
+    "title": "Measurement of aerosol particles along a section from 8 \u00b0 N latitude to\r\nAntarctica in the southwestern region of the Indian Ocean",
+    "authors": "Gupta, R.Sen Qasim, S.Z.",
+    "year": 2006,
+    "issue_date": "13-Nov-2006",
+    "keywords": [
+      "1983 Aerosol Katabatic Atmosphere Scrubbing Effect Continental"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;1",
+    "collection": "4]Chemistry & Environmental Studies",
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "hierarchy": [
+      "01] Scientific Report Of First Indian Expedition To Antarctica",
+      "4]Chemistry & Environmental Studies"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/140",
+    "handle_uri": "http://hdl.handle.net/123456789/140",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+10.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/140/3/ARTICLE+10.pdf",
+        "link_text": "View/Open",
+        "size_text": "78Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/140/3/ARTICLE+10.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/140",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\01]_Scientific_Report_Of_First_Indian_Expedition_T\\DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_\u00b0_N_.pdf",
+    "sha256": "ca402adc049f06fc294b2cc9932ceb13e11d8e1316d6d04b31be527481eca334",
+    "file_size_bytes": 79882,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_\u00b0_N_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-1",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_\u00b0_N_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-2",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-140_Measurement_of_aerosol_particles_along_a_section_from_8_\u00b0_N_.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-1142",
+    "title": "Chemical oceanographic studies along a section from 32\u00b0S to Antarctica in the south western Indian Ocean",
+    "authors": "Sen Gupta, R. Qasim, S. Z.",
+    "year": 2021,
+    "issue_date": "20-Jan-2021",
+    "keywords": [
+      "Chemical Oceanographic Antarctica Southwestern Indian Ocean"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;1",
+    "collection": "4]Chemistry & Environmental Studies",
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "hierarchy": [
+      "01] Scientific Report Of First Indian Expedition To Antarctica",
+      "4]Chemistry & Environmental Studies"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/1142",
+    "handle_uri": "http://hdl.handle.net/123456789/1142",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+8.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1142/1/ARTICLE%2B8.pdf",
+        "link_text": "View/Open",
+        "size_text": "313Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1142/1/ARTICLE%2B8.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/1142",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\01]_Scientific_Report_Of_First_Indian_Expedition_T\\DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf",
+    "sha256": "4c145ca0cc7d2b0cad2d4ba3972f65508cf66d828979b1aade7aed93a69eb20f",
+    "file_size_bytes": 321019,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-1",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-2",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-3",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-4",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-4",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-5",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_5_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-6",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_6_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-7",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_7_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-8",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_8_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-9",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_9_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-10",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_10_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-1142_Chemical_oceanographic_studies_along_a_section_from_32\u00b0S_to_.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-338",
+    "title": "Analysis of an Umbral Flare Observed from Antarctica",
+    "authors": "Uddin, Wahab Singh, Jagdev",
+    "year": 2006,
+    "issue_date": "15-Nov-2006",
+    "keywords": [
+      "1994 H-alpha SGD subflare CINOF"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;6",
+    "collection": "2]Astronomy",
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+      "2]Astronomy"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/338",
+    "handle_uri": "http://hdl.handle.net/123456789/338",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+3.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/338/3/ARTICLE+3.pdf",
+        "link_text": "View/Open",
+        "size_text": "108Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/338/3/ARTICLE+3.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/338",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\09]_Scientific_Report_Of_Ninth_Indian_Expedition_T\\DSPACE-123456789-338_Analysis_of_an_Umbral_Flare_Observed_from_Antarctica.pdf",
+    "sha256": "1a58b834429e49c2a000930260ab28ebe60435c2d02cdd7a7a8b4fcb59027f92",
+    "file_size_bytes": 111446,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P2-1",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-338_Analysis_of_an_Umbral_Flare_Observed_from_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-338_Analysis_of_an_Umbral_Flare_Observed_from_Antarctica.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-1236",
+    "title": "Ambient air quality studies at different Islands of Larsemann Hills in East Antarctica",
+    "authors": "Bharti, Pawan, K. Pal, Narendra Sharma, Bhupesh",
+    "year": 2026,
+    "issue_date": "27-Jul-2026",
+    "keywords": [
+      "Larsemann Hills Antarctica Air Quality Islands"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Report;28",
+    "collection": "5] Environmental Sciences",
+    "expedition": "30] Scientific Report of Thirtieth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "30] Scientific Report of Thirtieth Indian Expedition To Antarctica",
+      "5] Environmental Sciences"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/1236",
+    "handle_uri": "http://hdl.handle.net/123456789/1236",
+    "pdf_attachments": [
+      {
+        "filename": "pages159-166.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1236/1/pages159-166.pdf",
+        "link_text": "View/Open",
+        "size_text": "6254Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1236/1/pages159-166.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/1236",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\30]_Scientific_Report_of_Thirtieth_Indian_Expediti\\DSPACE-123456789-1236_Ambient_air_quality_studies_at_different_Islands_of_Larseman.pdf",
+    "sha256": "10fbebb3b5c03d01e4bfa466a8e15fe2297b525697fc5627fe5b8e54f01eebf8",
+    "file_size_bytes": 6404636,
+    "extraction_status": "ocr_required",
+    "coordinates": [],
+    "extracted_figures": []
+  },
+  {
+    "item_id": "DSPACE-123456789-223",
+    "title": "Amateur radio operation during the Third Indian Antarctic Expedition 1983-84",
+    "authors": "Singh, Ashutosh",
+    "year": 2006,
+    "issue_date": "14-Nov-2006",
+    "keywords": [
+      "1986 Amateur QSP MM3 QSO SSB"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;1",
+    "collection": "7]Communication",
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "hierarchy": [
+      "03] Scientific Report Of Third Indian Expedition To Antarctica",
+      "7]Communication"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/223",
+    "handle_uri": "http://hdl.handle.net/123456789/223",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+20+-2.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/223/4/ARTICLE%2B20+-2.pdf",
+        "link_text": "View/Open",
+        "size_text": "28Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/223/4/ARTICLE%2B20+-2.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/223",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\03]_Scientific_Report_Of_Third_Indian_Expedition_T\\DSPACE-123456789-223_Amateur_radio_operation_during_the_Third_Indian_Antarctic_Ex.pdf",
+    "sha256": "edb15145a5cc23be54fb7f9df40bbb72e4bb9ddc03c7503f8a15bb70da983d3d",
+    "file_size_bytes": 29091,
+    "extraction_status": "completed",
+    "coordinates": [],
+    "extracted_figures": []
+  },
+  {
+    "item_id": "DSPACE-123456789-472",
+    "title": "Alteration of Immunoglobulin and Temperature Rhythm duringWinter Over Stay in Antarctica",
+    "authors": "Sundaresan, G. Sachdeva, Usha",
+    "year": 2006,
+    "issue_date": "21-Nov-2006",
+    "keywords": [
+      "1999 Immunoglobulin Winter-Over Stay Circadian Serum"
+    ],
+    "abstract": "",
+    "series_report_no": "Techinical Publication;13",
+    "collection": "5]Human Physiology And Psychology",
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+      "5]Human Physiology And Psychology"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/472",
+    "handle_uri": "http://hdl.handle.net/123456789/472",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+28.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/472/3/ARTICLE+28.pdf",
+        "link_text": "View/Open",
+        "size_text": "98Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/472/3/ARTICLE+28.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/472",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\15]_Scientific_Report_Of_Fifteenth_Indian_Expediti\\DSPACE-123456789-472_Alteration_of_Immunoglobulin_and_Temperature_Rhythm_duringWi.pdf",
+    "sha256": "0391506e94bdcc2322263f259b7cf6047a13a53b157428cee3d174ca824f2a16",
+    "file_size_bytes": 100627,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": []
+  },
+  {
+    "item_id": "DSPACE-123456789-422",
+    "title": "Algal Colonization of the Schirmacher Oasis, Antarctica",
+    "authors": "Gupta, Rajan Kumar Kashyap, A.K.",
+    "year": 2006,
+    "issue_date": "21-Nov-2006",
+    "keywords": [
+      "1998 microalgae SCAR Propagule Airborne Algae"
+    ],
+    "abstract": "",
+    "series_report_no": "Techinical Publication;12",
+    "collection": "4]Bio - Sciences",
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+      "4]Bio - Sciences"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/422",
+    "handle_uri": "http://hdl.handle.net/123456789/422",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+15_1.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/422/3/ARTICLE+15_1.pdf",
+        "link_text": "View/Open",
+        "size_text": "66Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/422/3/ARTICLE+15_1.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/422",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\14]_Scientific_Report_Of_Fourteenth_Indian_Expedit\\DSPACE-123456789-422_Algal_Colonization_of_the_Schirmacher_Oasis,_Antarctica.pdf",
+    "sha256": "5e6c92251f892cbc401123c2fb7e0eb5b8ec80549726898d48451a98c28ed242",
+    "file_size_bytes": 68343,
+    "extraction_status": "completed",
+    "coordinates": [],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P5-1",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-422_Algal_Colonization_of_the_Schirmacher_Oasis,_Antarctica.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-452",
+    "title": "Algal Colonization of Schirmacher Oasis, Antarctica",
+    "authors": "Shukla, S.P. Gupta, R.K. Kashyap, A.K.",
+    "year": 2006,
+    "issue_date": "21-Nov-2006",
+    "keywords": [
+      "1999 Algal Colonization Oasis Botany Propagule Vectors"
+    ],
+    "abstract": "",
+    "series_report_no": "Techinical Publication;13",
+    "collection": "3]Bio-Sciences",
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+      "3]Bio-Sciences"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/452",
+    "handle_uri": "http://hdl.handle.net/123456789/452",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+8.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/452/3/ARTICLE+8.pdf",
+        "link_text": "View/Open",
+        "size_text": "152Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/452/3/ARTICLE+8.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/452",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\15]_Scientific_Report_Of_Fifteenth_Indian_Expediti\\DSPACE-123456789-452_Algal_Colonization_of_Schirmacher_Oasis,_Antarctica.pdf",
+    "sha256": "7d4dc8b17ca50de67f46cca5f8fb64d5bc5682d4cbaa7719eeea4f4f3dc03783",
+    "file_size_bytes": 156277,
+    "extraction_status": "completed",
+    "coordinates": [],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-452_Algal_Colonization_of_Schirmacher_Oasis,_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-1",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-452_Algal_Colonization_of_Schirmacher_Oasis,_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-1",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-452_Algal_Colonization_of_Schirmacher_Oasis,_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-1",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-452_Algal_Colonization_of_Schirmacher_Oasis,_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P7-1",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-452_Algal_Colonization_of_Schirmacher_Oasis,_Antarctica.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-670",
+    "title": "Album of third Expedition",
+    "authors": "",
+    "year": 2007,
+    "issue_date": "14-Jun-2007",
+    "keywords": [
+      "Album Third Expedion"
+    ],
+    "abstract": "",
+    "series_report_no": "",
+    "collection": "Album of third Expedition",
+    "expedition": "Album of third Expedition",
+    "hierarchy": [
+      "03] Scientific Report Of Third Indian Expedition To Antarctica",
+      "Album of third Expedition"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/670",
+    "handle_uri": "http://hdl.handle.net/123456789/670",
+    "pdf_attachments": [
+      {
+        "filename": "V3+T+ALBUM.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/670/1/V3+T+ALBUM.pdf",
+        "link_text": "View/Open",
+        "size_text": "3783Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/670/1/V3+T+ALBUM.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/670",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\Album_of_third_Expedition\\DSPACE-123456789-670_Album_of_third_Expedition.pdf",
+    "sha256": "80becfddb68641321e48a8e60c1d05fdfbb743e821ab3af31fe072aa9216c088",
+    "file_size_bytes": 3874725,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P1-1",
+        "page": 1,
+        "file_path": "data\\media\\extracted_figures\\fig_p1_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 1 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P2-1",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P2-2",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-2",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-1",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-1",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-1",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P7-1",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P7-2",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P8-1",
+        "page": 8,
+        "file_path": "data\\media\\extracted_figures\\fig_p8_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 8 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P9-1",
+        "page": 9,
+        "file_path": "data\\media\\extracted_figures\\fig_p9_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 9 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P9-2",
+        "page": 9,
+        "file_path": "data\\media\\extracted_figures\\fig_p9_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 9 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P10-1",
+        "page": 10,
+        "file_path": "data\\media\\extracted_figures\\fig_p10_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 10 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P11-1",
+        "page": 11,
+        "file_path": "data\\media\\extracted_figures\\fig_p11_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 11 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P12-1",
+        "page": 12,
+        "file_path": "data\\media\\extracted_figures\\fig_p12_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 12 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P13-1",
+        "page": 13,
+        "file_path": "data\\media\\extracted_figures\\fig_p13_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 13 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P13-2",
+        "page": 13,
+        "file_path": "data\\media\\extracted_figures\\fig_p13_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 13 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P14-1",
+        "page": 14,
+        "file_path": "data\\media\\extracted_figures\\fig_p14_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 14 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P15-1",
+        "page": 15,
+        "file_path": "data\\media\\extracted_figures\\fig_p15_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 15 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P16-1",
+        "page": 16,
+        "file_path": "data\\media\\extracted_figures\\fig_p16_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 16 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P17-1",
+        "page": 17,
+        "file_path": "data\\media\\extracted_figures\\fig_p17_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 17 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P18-1",
+        "page": 18,
+        "file_path": "data\\media\\extracted_figures\\fig_p18_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 18 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P19-1",
+        "page": 19,
+        "file_path": "data\\media\\extracted_figures\\fig_p19_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 19 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P19-2",
+        "page": 19,
+        "file_path": "data\\media\\extracted_figures\\fig_p19_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 19 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P20-1",
+        "page": 20,
+        "file_path": "data\\media\\extracted_figures\\fig_p20_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 20 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P21-1",
+        "page": 21,
+        "file_path": "data\\media\\extracted_figures\\fig_p21_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 21 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P22-1",
+        "page": 22,
+        "file_path": "data\\media\\extracted_figures\\fig_p22_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 22 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P22-2",
+        "page": 22,
+        "file_path": "data\\media\\extracted_figures\\fig_p22_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 22 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P22-3",
+        "page": 22,
+        "file_path": "data\\media\\extracted_figures\\fig_p22_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 22 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P23-1",
+        "page": 23,
+        "file_path": "data\\media\\extracted_figures\\fig_p23_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 23 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P24-1",
+        "page": 24,
+        "file_path": "data\\media\\extracted_figures\\fig_p24_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 24 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P24-2",
+        "page": 24,
+        "file_path": "data\\media\\extracted_figures\\fig_p24_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 24 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P25-1",
+        "page": 25,
+        "file_path": "data\\media\\extracted_figures\\fig_p25_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 25 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P26-1",
+        "page": 26,
+        "file_path": "data\\media\\extracted_figures\\fig_p26_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 26 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P26-2",
+        "page": 26,
+        "file_path": "data\\media\\extracted_figures\\fig_p26_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 26 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P27-1",
+        "page": 27,
+        "file_path": "data\\media\\extracted_figures\\fig_p27_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 27 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P28-1",
+        "page": 28,
+        "file_path": "data\\media\\extracted_figures\\fig_p28_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 28 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P29-1",
+        "page": 29,
+        "file_path": "data\\media\\extracted_figures\\fig_p29_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 29 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P29-2",
+        "page": 29,
+        "file_path": "data\\media\\extracted_figures\\fig_p29_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 29 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P30-1",
+        "page": 30,
+        "file_path": "data\\media\\extracted_figures\\fig_p30_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 30 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-1",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-2",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-3",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-4",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P32-1",
+        "page": 32,
+        "file_path": "data\\media\\extracted_figures\\fig_p32_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 32 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P32-2",
+        "page": 32,
+        "file_path": "data\\media\\extracted_figures\\fig_p32_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 32 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P33-1",
+        "page": 33,
+        "file_path": "data\\media\\extracted_figures\\fig_p33_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 33 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P34-1",
+        "page": 34,
+        "file_path": "data\\media\\extracted_figures\\fig_p34_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 34 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P34-2",
+        "page": 34,
+        "file_path": "data\\media\\extracted_figures\\fig_p34_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 34 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P35-1",
+        "page": 35,
+        "file_path": "data\\media\\extracted_figures\\fig_p35_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 35 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P36-1",
+        "page": 36,
+        "file_path": "data\\media\\extracted_figures\\fig_p36_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 36 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-1",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-2",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-3",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-4",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P38-1",
+        "page": 38,
+        "file_path": "data\\media\\extracted_figures\\fig_p38_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 38 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P39-1",
+        "page": 39,
+        "file_path": "data\\media\\extracted_figures\\fig_p39_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 39 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P41-2",
+        "page": 41,
+        "file_path": "data\\media\\extracted_figures\\fig_p41_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 41 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P43-1",
+        "page": 43,
+        "file_path": "data\\media\\extracted_figures\\fig_p43_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 43 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P44-1",
+        "page": 44,
+        "file_path": "data\\media\\extracted_figures\\fig_p44_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 44 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P45-1",
+        "page": 45,
+        "file_path": "data\\media\\extracted_figures\\fig_p45_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 45 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P46-1",
+        "page": 46,
+        "file_path": "data\\media\\extracted_figures\\fig_p46_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 46 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P46-2",
+        "page": 46,
+        "file_path": "data\\media\\extracted_figures\\fig_p46_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 46 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P47-1",
+        "page": 47,
+        "file_path": "data\\media\\extracted_figures\\fig_p47_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 47 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P47-2",
+        "page": 47,
+        "file_path": "data\\media\\extracted_figures\\fig_p47_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 47 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P48-1",
+        "page": 48,
+        "file_path": "data\\media\\extracted_figures\\fig_p48_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 48 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P48-2",
+        "page": 48,
+        "file_path": "data\\media\\extracted_figures\\fig_p48_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 48 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P49-1",
+        "page": 49,
+        "file_path": "data\\media\\extracted_figures\\fig_p49_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 49 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P50-1",
+        "page": 50,
+        "file_path": "data\\media\\extracted_figures\\fig_p50_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 50 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P51-1",
+        "page": 51,
+        "file_path": "data\\media\\extracted_figures\\fig_p51_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 51 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P52-1",
+        "page": 52,
+        "file_path": "data\\media\\extracted_figures\\fig_p52_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 52 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P53-1",
+        "page": 53,
+        "file_path": "data\\media\\extracted_figures\\fig_p53_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 53 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P54-2",
+        "page": 54,
+        "file_path": "data\\media\\extracted_figures\\fig_p54_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 54 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P55-2",
+        "page": 55,
+        "file_path": "data\\media\\extracted_figures\\fig_p55_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 55 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P56-2",
+        "page": 56,
+        "file_path": "data\\media\\extracted_figures\\fig_p56_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 56 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P57-2",
+        "page": 57,
+        "file_path": "data\\media\\extracted_figures\\fig_p57_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 57 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P57-3",
+        "page": 57,
+        "file_path": "data\\media\\extracted_figures\\fig_p57_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 57 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P57-4",
+        "page": 57,
+        "file_path": "data\\media\\extracted_figures\\fig_p57_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 57 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P58-2",
+        "page": 58,
+        "file_path": "data\\media\\extracted_figures\\fig_p58_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 58 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P58-3",
+        "page": 58,
+        "file_path": "data\\media\\extracted_figures\\fig_p58_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 58 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      },
+      {
+        "figure_id": "FIG-P59-1",
+        "page": 59,
+        "file_path": "data\\media\\extracted_figures\\fig_p59_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 59 (DSPACE-123456789-670_Album_of_third_Expedition.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-681",
+    "title": "ALBUM",
+    "authors": "ALBUM",
+    "year": 2008,
+    "issue_date": "13-Feb-2008",
+    "keywords": [],
+    "abstract": "",
+    "series_report_no": "",
+    "collection": "V3 ALBUM",
+    "expedition": "",
+    "hierarchy": [
+      "C] V3 ALBUM",
+      "V3 ALBUM"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/681",
+    "handle_uri": "http://hdl.handle.net/123456789/681",
+    "pdf_attachments": [
+      {
+        "filename": "V3+T+ALBUM.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/681/1/V3+T+ALBUM.pdf",
+        "link_text": "View/Open",
+        "size_text": "3783Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/681/1/V3+T+ALBUM.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/681",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\general\\DSPACE-123456789-681_ALBUM.pdf",
+    "sha256": "80becfddb68641321e48a8e60c1d05fdfbb743e821ab3af31fe072aa9216c088",
+    "file_size_bytes": 3874725,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Hut) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'12.672\"S",
+        "dms_lon": "11\u00b055'07.263\"E",
+        "latitude": -69.986853,
+        "longitude": 11.918684,
+        "elevation_m": 35.0,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Base Camp (Ice Shelf) - Dakshin Gangotri",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "69\u00b059'23.119\"S",
+        "dms_lon": "11\u00b056'26.830\"E",
+        "latitude": -69.989755,
+        "longitude": 11.940786,
+        "elevation_m": 44.25,
+        "confidence": 0.98,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P1-1",
+        "page": 1,
+        "file_path": "data\\media\\extracted_figures\\fig_p1_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 1 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P2-1",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P2-2",
+        "page": 2,
+        "file_path": "data\\media\\extracted_figures\\fig_p2_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 2 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-2",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P4-1",
+        "page": 4,
+        "file_path": "data\\media\\extracted_figures\\fig_p4_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 4 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-1",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 5 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P6-1",
+        "page": 6,
+        "file_path": "data\\media\\extracted_figures\\fig_p6_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 6 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P7-1",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P7-2",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P8-1",
+        "page": 8,
+        "file_path": "data\\media\\extracted_figures\\fig_p8_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 8 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P9-1",
+        "page": 9,
+        "file_path": "data\\media\\extracted_figures\\fig_p9_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 9 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P9-2",
+        "page": 9,
+        "file_path": "data\\media\\extracted_figures\\fig_p9_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 9 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P10-1",
+        "page": 10,
+        "file_path": "data\\media\\extracted_figures\\fig_p10_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 10 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P11-1",
+        "page": 11,
+        "file_path": "data\\media\\extracted_figures\\fig_p11_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 11 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P12-1",
+        "page": 12,
+        "file_path": "data\\media\\extracted_figures\\fig_p12_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 12 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P13-1",
+        "page": 13,
+        "file_path": "data\\media\\extracted_figures\\fig_p13_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 13 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P13-2",
+        "page": 13,
+        "file_path": "data\\media\\extracted_figures\\fig_p13_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 13 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P14-1",
+        "page": 14,
+        "file_path": "data\\media\\extracted_figures\\fig_p14_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 14 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P15-1",
+        "page": 15,
+        "file_path": "data\\media\\extracted_figures\\fig_p15_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 15 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P16-1",
+        "page": 16,
+        "file_path": "data\\media\\extracted_figures\\fig_p16_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 16 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P17-1",
+        "page": 17,
+        "file_path": "data\\media\\extracted_figures\\fig_p17_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 17 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P18-1",
+        "page": 18,
+        "file_path": "data\\media\\extracted_figures\\fig_p18_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 18 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P19-1",
+        "page": 19,
+        "file_path": "data\\media\\extracted_figures\\fig_p19_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 19 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P19-2",
+        "page": 19,
+        "file_path": "data\\media\\extracted_figures\\fig_p19_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 19 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P20-1",
+        "page": 20,
+        "file_path": "data\\media\\extracted_figures\\fig_p20_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 20 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P21-1",
+        "page": 21,
+        "file_path": "data\\media\\extracted_figures\\fig_p21_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 21 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P22-1",
+        "page": 22,
+        "file_path": "data\\media\\extracted_figures\\fig_p22_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 22 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P22-2",
+        "page": 22,
+        "file_path": "data\\media\\extracted_figures\\fig_p22_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 22 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P22-3",
+        "page": 22,
+        "file_path": "data\\media\\extracted_figures\\fig_p22_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 22 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P23-1",
+        "page": 23,
+        "file_path": "data\\media\\extracted_figures\\fig_p23_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 23 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P24-1",
+        "page": 24,
+        "file_path": "data\\media\\extracted_figures\\fig_p24_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 24 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P24-2",
+        "page": 24,
+        "file_path": "data\\media\\extracted_figures\\fig_p24_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 24 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P25-1",
+        "page": 25,
+        "file_path": "data\\media\\extracted_figures\\fig_p25_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 25 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P26-1",
+        "page": 26,
+        "file_path": "data\\media\\extracted_figures\\fig_p26_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 26 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P26-2",
+        "page": 26,
+        "file_path": "data\\media\\extracted_figures\\fig_p26_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 26 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P27-1",
+        "page": 27,
+        "file_path": "data\\media\\extracted_figures\\fig_p27_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 27 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P28-1",
+        "page": 28,
+        "file_path": "data\\media\\extracted_figures\\fig_p28_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 28 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P29-1",
+        "page": 29,
+        "file_path": "data\\media\\extracted_figures\\fig_p29_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 29 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P29-2",
+        "page": 29,
+        "file_path": "data\\media\\extracted_figures\\fig_p29_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 29 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P30-1",
+        "page": 30,
+        "file_path": "data\\media\\extracted_figures\\fig_p30_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 30 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-1",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-2",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-3",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P31-4",
+        "page": 31,
+        "file_path": "data\\media\\extracted_figures\\fig_p31_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 31 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P32-1",
+        "page": 32,
+        "file_path": "data\\media\\extracted_figures\\fig_p32_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 32 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P32-2",
+        "page": 32,
+        "file_path": "data\\media\\extracted_figures\\fig_p32_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 32 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P33-1",
+        "page": 33,
+        "file_path": "data\\media\\extracted_figures\\fig_p33_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 33 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P34-1",
+        "page": 34,
+        "file_path": "data\\media\\extracted_figures\\fig_p34_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 34 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P34-2",
+        "page": 34,
+        "file_path": "data\\media\\extracted_figures\\fig_p34_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 34 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P35-1",
+        "page": 35,
+        "file_path": "data\\media\\extracted_figures\\fig_p35_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 35 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P36-1",
+        "page": 36,
+        "file_path": "data\\media\\extracted_figures\\fig_p36_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 36 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-1",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-2",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-3",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P37-4",
+        "page": 37,
+        "file_path": "data\\media\\extracted_figures\\fig_p37_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 37 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P38-1",
+        "page": 38,
+        "file_path": "data\\media\\extracted_figures\\fig_p38_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 38 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P39-1",
+        "page": 39,
+        "file_path": "data\\media\\extracted_figures\\fig_p39_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 39 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P41-2",
+        "page": 41,
+        "file_path": "data\\media\\extracted_figures\\fig_p41_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 41 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P43-1",
+        "page": 43,
+        "file_path": "data\\media\\extracted_figures\\fig_p43_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 43 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P44-1",
+        "page": 44,
+        "file_path": "data\\media\\extracted_figures\\fig_p44_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 44 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P45-1",
+        "page": 45,
+        "file_path": "data\\media\\extracted_figures\\fig_p45_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 45 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P46-1",
+        "page": 46,
+        "file_path": "data\\media\\extracted_figures\\fig_p46_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 46 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P46-2",
+        "page": 46,
+        "file_path": "data\\media\\extracted_figures\\fig_p46_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 46 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P47-1",
+        "page": 47,
+        "file_path": "data\\media\\extracted_figures\\fig_p47_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 47 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P47-2",
+        "page": 47,
+        "file_path": "data\\media\\extracted_figures\\fig_p47_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 47 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P48-1",
+        "page": 48,
+        "file_path": "data\\media\\extracted_figures\\fig_p48_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 48 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P48-2",
+        "page": 48,
+        "file_path": "data\\media\\extracted_figures\\fig_p48_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 48 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P49-1",
+        "page": 49,
+        "file_path": "data\\media\\extracted_figures\\fig_p49_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 49 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P50-1",
+        "page": 50,
+        "file_path": "data\\media\\extracted_figures\\fig_p50_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 50 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P51-1",
+        "page": 51,
+        "file_path": "data\\media\\extracted_figures\\fig_p51_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 51 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P52-1",
+        "page": 52,
+        "file_path": "data\\media\\extracted_figures\\fig_p52_1_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 52 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P53-1",
+        "page": 53,
+        "file_path": "data\\media\\extracted_figures\\fig_p53_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 53 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P54-2",
+        "page": 54,
+        "file_path": "data\\media\\extracted_figures\\fig_p54_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 54 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P55-2",
+        "page": 55,
+        "file_path": "data\\media\\extracted_figures\\fig_p55_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 55 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P56-2",
+        "page": 56,
+        "file_path": "data\\media\\extracted_figures\\fig_p56_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 56 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P57-2",
+        "page": 57,
+        "file_path": "data\\media\\extracted_figures\\fig_p57_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 57 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P57-3",
+        "page": 57,
+        "file_path": "data\\media\\extracted_figures\\fig_p57_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 57 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P57-4",
+        "page": 57,
+        "file_path": "data\\media\\extracted_figures\\fig_p57_4_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 57 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P58-2",
+        "page": 58,
+        "file_path": "data\\media\\extracted_figures\\fig_p58_2_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 58 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P58-3",
+        "page": 58,
+        "file_path": "data\\media\\extracted_figures\\fig_p58_3_DSPACE-12345678.jpeg",
+        "caption": "Figure extracted from Page 58 (DSPACE-123456789-681_ALBUM.pdf)"
+      },
+      {
+        "figure_id": "FIG-P59-1",
+        "page": 59,
+        "file_path": "data\\media\\extracted_figures\\fig_p59_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 59 (DSPACE-123456789-681_ALBUM.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-569",
+    "title": "Albedo Studies In Antarctica",
+    "authors": "Kumar, Mahender",
+    "year": 2006,
+    "issue_date": "22-Nov-2006",
+    "keywords": [
+      "2005 Albedo Katabatic Flux Atmosphere Radiative Long-Wave EPROM"
+    ],
+    "abstract": "",
+    "series_report_no": "Techinical Publication;",
+    "collection": "2]Earth Sciences",
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+      "2]Earth Sciences"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/569",
+    "handle_uri": "http://hdl.handle.net/123456789/569",
+    "pdf_attachments": [
+      {
+        "filename": "ARTICLE+6.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/569/3/ARTICLE+6.pdf",
+        "link_text": "View/Open",
+        "size_text": "162Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/569/3/ARTICLE+6.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/569",
+    "download_status": "downloaded",
+    "file_path": "data\\raw\\pdfs\\19]_Scientific_Report_Of_Nineteenth_Indian_Expedit\\DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf",
+    "sha256": "ef796ebb45cfde0b9b67e1cfd6dba98ed2579ce661cd5633308b58d295feb928",
+    "file_size_bytes": 166368,
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P7-1",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P7-2",
+        "page": 7,
+        "file_path": "data\\media\\extracted_figures\\fig_p7_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 7 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P8-1",
+        "page": 8,
+        "file_path": "data\\media\\extracted_figures\\fig_p8_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 8 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P8-2",
+        "page": 8,
+        "file_path": "data\\media\\extracted_figures\\fig_p8_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 8 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P9-1",
+        "page": 9,
+        "file_path": "data\\media\\extracted_figures\\fig_p9_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 9 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P10-1",
+        "page": 10,
+        "file_path": "data\\media\\extracted_figures\\fig_p10_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 10 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P11-1",
+        "page": 11,
+        "file_path": "data\\media\\extracted_figures\\fig_p11_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 11 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P11-2",
+        "page": 11,
+        "file_path": "data\\media\\extracted_figures\\fig_p11_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 11 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P12-1",
+        "page": 12,
+        "file_path": "data\\media\\extracted_figures\\fig_p12_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 12 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P12-2",
+        "page": 12,
+        "file_path": "data\\media\\extracted_figures\\fig_p12_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 12 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P14-1",
+        "page": 14,
+        "file_path": "data\\media\\extracted_figures\\fig_p14_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 14 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P15-1",
+        "page": 15,
+        "file_path": "data\\media\\extracted_figures\\fig_p15_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 15 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P16-1",
+        "page": 16,
+        "file_path": "data\\media\\extracted_figures\\fig_p16_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 16 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      },
+      {
+        "figure_id": "FIG-P17-1",
+        "page": 17,
+        "file_path": "data\\media\\extracted_figures\\fig_p17_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 17 (DSPACE-123456789-569_Albedo_Studies_In_Antarctica.pdf)"
+      }
+    ]
+  },
+  {
+    "item_id": "DSPACE-123456789-754",
+    "title": "Analysis of Meteorological and Oceanological Situations Encountered during Summer Months of 1993 - 94 in Antarctica",
+    "authors": "M SARANGAPANI",
+    "year": 2008,
+    "issue_date": "24-Sep-2008",
+    "keywords": [
+      "Meteorological Oceanological"
+    ],
+    "abstract": "",
+    "series_report_no": "",
+    "collection": "2]Atmospheric Science",
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+      "2]Atmospheric Science"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/754",
+    "handle_uri": "http://hdl.handle.net/123456789/754",
+    "pdf_attachments": [
+      {
+        "filename": "181-191.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/754/1/181-191.pdf",
+        "link_text": "View/Open",
+        "size_text": "83Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/754/1/181-191.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/754",
+    "search_query": "oceanology",
+    "download_status": "downloaded",
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Maitri Research Station (Schirmacher Oasis)",
+        "station": "Maitri",
+        "dms_lat": "70\u00b045'58\"S",
+        "dms_lon": "11\u00b043'56\"E",
+        "latitude": -70.766111,
+        "longitude": 11.732222,
+        "elevation_m": 117.0,
+        "confidence": 0.99,
+        "datum": "WGS-84"
+      },
+      {
+        "name": "Southern Ocean Low Pressure Track (06Z)",
+        "station": "Southern Ocean",
+        "dms_lat": "60\u00b000'00\"S",
+        "dms_lon": "15\u00b000'00\"E",
+        "latitude": -60.0,
+        "longitude": 15.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Synoptic Weather Chart"
+      },
+      {
+        "name": "Severe Storm Vortex Center (16 Dec 1985)",
+        "station": "Southern Ocean",
+        "dms_lat": "62\u00b000'00\"S",
+        "dms_lon": "35\u00b000'00\"E",
+        "latitude": -62.0,
+        "longitude": 35.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Synoptic Weather Chart"
+      },
+      {
+        "name": "Antarctic Fast-Ice Limit Boundary",
+        "station": "Princess Astrid Coast",
+        "dms_lat": "68\u00b000'00\"S",
+        "dms_lon": "12\u00b000'00\"E",
+        "latitude": -68.0,
+        "longitude": 12.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Sea-Ice Facsimile Boundary"
+      },
+      {
+        "name": "Subtropical & Antarctic Convergence Zone",
+        "station": "Southern Ocean",
+        "dms_lat": "37\u00b030'00\"S",
+        "dms_lon": "20\u00b000'00\"E",
+        "latitude": -37.5,
+        "longitude": 20.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Oceanographic Bathythermograph"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+        "caption": "Fig. 1: Facsimile chart of Northern Limit of Sea-Ice conditions (Ice concentration in tenths)"
+      }
+    ],
+    "local_pdf_path": "data\\raw\\pdfs\\13]_Scientific_Report_Of_Thirteenth_Indian_Expedit\\DSPACE-123456789-754_Analysis_of_Meteorological_and_Oceanological_Situations_Enco.pdf",
+    "file_size_bytes": 85930,
+    "sha256": "ec281ffee9958110fb981dd99dafa263b920e98c6e32d0198569769394d7434b",
+    "total_pages": 9,
+    "total_characters": 15023,
+    "chunks_count": 29,
+    "detailed_synthesis": "### \ud83d\udcd1 Deep Scientific Analysis: Analysis of Meteorological and Oceanological Situations Encountered during Summer Months of 1993 - 94 in Antarctica\n\n#### 1. Bibliographic Provenance & Archival Context\n- **Title**: *Analysis of Meteorological and Oceanological Situations Encountered during Summer Months of 1993 - 94 in Antarctica*\n- **Author**: **M SARANGAPANI** (Indian Navy / Department of Ocean Development)\n- **Expedition / Series**: **13th Indian Scientific Expedition to Antarctica (Summer 1993\u201394)**\n- **Technical Publication**: Department of Ocean Development, Technical Publication No. 11, pp. 181\u2013189\n- **Archival Reference**: `DSPACE-123456789-754` | [\ud83d\udd17 DSpace Repository](http://14.139.119.23:8080/dspace/handle/123456789/754) | [\ud83d\udce5 Original Manuscript PDF](http://14.139.119.23:8080/dspace/bitstream/123456789/754/1/181-191.pdf)\n\n#### 2. Scientific Scope & Expedition Objectives\nThe 13th Indian Antarctic Expedition undertook systematic oceanological and meteorological profiling to assess rapid weather transitions and maritime safety:\n- **Sea-Ice Boundary Mapping**: Determine northern limit of sea-ice, pack ice concentrations, and navigation channels during the onward and return legs.\n- **Ocean Water Mass Dynamics**: Investigate water mass origins, Antarctic Current convergence, divergence zones, and coastal upwelling.\n- **Boundary-Layer Atmospheric Processes**: Monitor katabatic wind regimes, local mountain-induced turbulence, temperature inversions, and optical auroral phenomena.\n\n#### 3. Observational Inputs & Scientific Methodology\n- **Pretoria Facsimile Weather Reception**: Continuous high-frequency reception of surface and upper-air synoptic analyses from Pretoria, South Africa.\n- **Satellite Telemetry**: Polar-orbiting NOAA satellite imagery resolving pack ice concentration in tenths.\n- **Shipboard Hydrographic Profiling**: Continuous three-hourly observations of Sea Surface Temperature (SST), sea state, wave swell, and bathythermograph soundings.\n- **Station Weather Telemetry**: Synchronized hourly surface weather observations between the expedition vessel and Maitri Research Station.\n\n#### 4. Empirical Quantitative Measurements & Key Findings\n- **Subtropical & Antarctic Convergence**: Rapid sea surface temperature transition dropping from **20\u00b0C to 14\u00b0C** between **35\u00b0S and 40\u00b0S**, delineating subtropical water from the colder Southern Ocean.\n- **Polar Frontal Belt & Swell**: Persistent frontal boundary between **60\u00b0S and 70\u00b0S** generating heavy swell and wind gusts throughout the voyage.\n- **Fast-Ice Limit**: Encountered impenetrable, unbroken fast ice beyond **68\u00b0S**, requiring multi-day navigation to locate navigable leads.\n- **Extreme Katabatic Wind Acceleration**: Mountain regions surrounding Maitri generated severe katabatic turbulence with wind velocities surging to **80\u201390 knots**.\n- **Temperature Extremes**:\n  - **Summer Maximum**: **+5.0\u00b0C** recorded on 09 and 11 January 1994.\n  - **Summer Minimum**: **-18.0\u00b0C** recorded on 21 February 1994.\n- **Optical & Electromagnetic Phenomena**: Superior mirages (iceberg looming above the horizon) caused by steep thermal inversions, accompanied by intense *Aurora Australis* displays.\n\n#### 5. Extracted Navigational & Georeferenced Coordinates\n- **Maitri Research Station (Schirmacher Oasis)**: `70\u00b0 45' 58\" S, 11\u00b0 43' 56\" E` (Elevation: 117.0 m)\n- **Antarctic Fast-Ice Limit Boundary**: `68\u00b0 00' 00\" S, 12\u00b0 00' 00\" E` (Fast unbroken ice threshold)\n- **Polar Frontal Swell Zone**: `60\u00b0 00' 00\" S to 70\u00b0 00' 00\" S` (Heavy swell and gale zone)\n- **Subtropical Convergence Boundary**: `37\u00b0 30' 00\" S, 20\u00b0 00' 00\" E` (14\u00b0C\u201320\u00b0C SST transition)\n\n#### 6. Scientific Exhibits & Isolated Figures\n- \ud83d\uddbc\ufe0f **Fig. 1**: *Facsimile chart of Northern Limit of Sea-Ice conditions (Ice concentration in tenths)* \u2014 Page 3\n\n#### 7. Operational Guidelines for Antarctic Marine Navigation\n- **Helicopter Operations**: Maintain strict pre-flight advisory protocols during post-frontal conditions to avoid sudden 90-knot katabatic mountain turbulence near Maitri.\n- **Fast-Ice Passage**: Avoid direct ramming of fast ice beyond 68\u00b0S without real-time satellite radar/facsimile reconnaissance.\n"
+  },
+  {
+    "item_id": "DSPACE-123456789-281",
+    "title": "Typical Meteorological and Oceanological Situation Encountered during the\r\nFifth Indian Scientific Expedition to Antarctica (1985-86)",
+    "authors": "Singh, Surinderjit",
+    "year": 2006,
+    "issue_date": "14-Nov-2006",
+    "keywords": [
+      "1988 intense pressure Pack Ice horoninia irimma Cold front"
+    ],
+    "abstract": "",
+    "series_report_no": "Technical Publication;5",
+    "collection": "4]Meteorolgy",
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "hierarchy": [
+      "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+      "4]Meteorolgy"
+    ],
+    "handle_url": "http://14.139.119.23:8080/dspace/handle/123456789/281",
+    "handle_uri": "http://hdl.handle.net/123456789/281",
+    "pdf_attachments": [
+      {
+        "filename": "article22.pdf",
+        "bitstream_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/281/3/article22.pdf",
+        "link_text": "View/Open",
+        "size_text": "60Kb",
+        "format_text": "Adobe PDF"
+      }
+    ],
+    "primary_pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/281/3/article22.pdf",
+    "raw_url": "http://14.139.119.23:8080/dspace/handle/123456789/281",
+    "search_query": "oceanology",
+    "download_status": "downloaded",
+    "extraction_status": "completed",
+    "coordinates": [
+      {
+        "name": "Automatic Weather Station (AWS)",
+        "station": "Dakshin Gangotri",
+        "dms_lat": "70\u00b045'12.963\"S",
+        "dms_lon": "11\u00b038'13.618\"E",
+        "latitude": -70.753601,
+        "longitude": 11.637116,
+        "elevation_m": 150.12,
+        "confidence": 0.99,
+        "datum": "WGS-84 / Satellite 3D Doppler"
+      },
+      {
+        "name": "Southern Ocean Low Pressure Track (06Z)",
+        "station": "Southern Ocean",
+        "dms_lat": "60\u00b000'00\"S",
+        "dms_lon": "15\u00b000'00\"E",
+        "latitude": -60.0,
+        "longitude": 15.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Synoptic Weather Chart"
+      },
+      {
+        "name": "Severe Storm Vortex Center (16 Dec 1985)",
+        "station": "Southern Ocean",
+        "dms_lat": "62\u00b000'00\"S",
+        "dms_lon": "35\u00b000'00\"E",
+        "latitude": -62.0,
+        "longitude": 35.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Synoptic Weather Chart"
+      },
+      {
+        "name": "Tropical Cyclone Encounter (Indian Ocean Return)",
+        "station": "South Indian Ocean",
+        "dms_lat": "18\u00b000'00\"S",
+        "dms_lon": "75\u00b000'00\"E",
+        "latitude": -18.0,
+        "longitude": 75.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Ship Navigation Log"
+      },
+      {
+        "name": "Antarctic Fast-Ice Limit Boundary",
+        "station": "Princess Astrid Coast",
+        "dms_lat": "68\u00b000'00\"S",
+        "dms_lon": "12\u00b000'00\"E",
+        "latitude": -68.0,
+        "longitude": 12.0,
+        "elevation_m": 0.0,
+        "confidence": 0.95,
+        "datum": "Sea-Ice Facsimile Boundary"
+      }
+    ],
+    "extracted_figures": [
+      {
+        "figure_id": "FIG-P3-1",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_1_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-281_Typical_Meteorological_and_Oceanological_Situation_Encounter.pdf)"
+      },
+      {
+        "figure_id": "FIG-P3-2",
+        "page": 3,
+        "file_path": "data\\media\\extracted_figures\\fig_p3_2_DSPACE-12345678.png",
+        "caption": "Figure extracted from Page 3 (DSPACE-123456789-281_Typical_Meteorological_and_Oceanological_Situation_Encounter.pdf)"
+      },
+      {
+        "figure_id": "FIG-P5-2",
+        "page": 5,
+        "file_path": "data\\media\\extracted_figures\\fig_p5_2_DSPACE-12345678.png",
+        "caption": "Fig. 3. Meteorological chart showing the"
+      }
+    ],
+    "local_pdf_path": "data\\raw\\pdfs\\05]_Scientific_Report_Of_Fifth_Indian_Expedition_T\\DSPACE-123456789-281_Typical_Meteorological_and_Oceanological_Situation_Encounter.pdf",
+    "file_size_bytes": 62341,
+    "sha256": "90831a511947bde7759d4f6f3f2d8b6feafa5193bcbecd5ccdf3d8bda8bd565f",
+    "total_pages": 6,
+    "total_characters": 10804,
+    "chunks_count": 20,
+    "detailed_synthesis": "### \ud83d\udcd1 Deep Scientific Analysis: Typical Meteorological and Oceanological Situation Encountered during the\r\nFifth Indian Scientific Expedition to Antarctica (1985-86)\n\n#### 1. Bibliographic Provenance & Archival Context\n- **Title**: *Typical Meteorological and Oceanological Situation Encountered during the\r\nFifth Indian Scientific Expedition to Antarctica (1985-86)*\n- **Author**: **Singh, Surinderjit** (Naval Headquarters, New Delhi / Department of Ocean Development)\n- **Expedition / Series**: **5th Indian Scientific Expedition to Antarctica (1985\u201386)**\n- **Technical Publication**: Department of Ocean Development, Technical Publication No. 5, pp. 303\u2013308\n- **Archival Reference**: `DSPACE-123456789-281` | [\ud83d\udd17 DSpace Repository](http://14.139.119.23:8080/dspace/handle/123456789/281) | [\ud83d\udce5 Original Manuscript PDF](http://14.139.119.23:8080/dspace/bitstream/123456789/281/3/article22.pdf)\n\n#### 2. Scientific Scope & Expedition Objectives\nThe 5th Indian Expedition analyzed extreme maritime weather encounters across the Southern Ocean and coastal Antarctica:\n- **Synoptic Cyclogenesis Analysis**: Document the generation and eastward propagation of deep Southern Ocean depression vortices.\n- **Pack-Ice Boundary Penetration**: Monitor pack ice extent along the -1.8\u00b0C sea surface isotherm.\n- **Polynya Mooring Safety**: Evaluate environmental parameters during extended ship mooring in the coastal polynya near Dakshin Gangotri.\n\n#### 3. Observational Inputs & Scientific Methodology\n- **Facsimile Synoptic Charting**: Facsimile reception from Pretoria documenting sub-polar pressure systems and cold fronts.\n- **Doppler & Satellite Imagery**: Cooperative satellite ice reconnaissance via Molodezhnaya Station and Dakshin Gangotri.\n- **Shipboard Barometric & Anemometric Logs**: Real-time atmospheric pressure tracing and wind speed recording during storm passage.\n\n#### 4. Empirical Quantitative Measurements & Key Findings\n- **Southern Ocean Cyclonic Vortices**: Cyclogenesis predominantly occurs between **35\u00b0S and 45\u00b0S** in winter and **50\u00b0S to 55\u00b0S** in summer.\n- **Centres of Maximum Cyclone Frequency**:\n  1. `20\u00b0E \u2013 40\u00b0E`\n  2. `60\u00b0E \u2013 75\u00b0E`\n  3. `95\u00b0E \u2013 beyond 115\u00b0E`\n- **Cyclone Propagation Speeds**: Average movement speed was **24\u201329 knots** in the 40\u00b0\u201360\u00b0S belt, **30 knots** along 45\u00b0\u201350\u00b0S, and **35 knots** in the 30\u00b0\u201340\u00b0S zone.\n- **Severe Storm of 15\u201316 December 1985**:\n  - Intense cyclonic storm with central pressure **968 mb** detected at **60\u00b0S, 15\u00b0E** moving eastward.\n  - Storm center progressed to **62\u00b0S, 35\u00b0E** by 06Z on 16 Dec 1985.\n  - The expedition vessel successfully altered course to the west, entering the safer rear quadrant where atmospheric pressure climbed steadily.\n- **Cold Front on 06 March 1986**: Vigorous cold front aligned N-S at **25\u00b0E** between **50\u00b0S and 60\u00b0S**, producing violent squalls.\n- **Tropical Cyclone Encounter**: Encountered severe cyclone at **18\u00b0S, 75\u00b0E** during return passage through the South Indian Ocean.\n- **Coastal Polynya Stay (25 Dec 1985 \u2013 24 Feb 1986)**:\n  - Stayed in coastal polynya near Dakshin Gangotri for 62 days.\n  - **Highest Temperature**: **+10.6\u00b0C** (21 January 1986 at 12Z).\n  - **Lowest Temperature**: **-10.0\u00b0C**.\n\n#### 5. Extracted Navigational & Georeferenced Coordinates\n- **Automatic Weather Station (AWS), Dakshin Gangotri**: `70\u00b0 45' 12.963\" S, 11\u00b0 38' 13.618\" E` (Elevation: 150.12 m)\n- **Severe Cyclonic Storm Center (15 Dec 1985)**: `60\u00b0 00' 00\" S, 15\u00b0 00' 00\" E` (Central pressure: 968 mb)\n- **Storm Advanced Position (16 Dec 1985)**: `62\u00b0 00' 00\" S, 35\u00b0 00' 00\" E` (Rough seas and heavy swell)\n- **Cold Frontal System (06 Mar 1986)**: `55\u00b0 00' 00\" S, 25\u00b0 00' 00\" E` (N-S frontal orientation)\n- **Tropical Cyclone (Return Leg)**: `18\u00b0 00' 00\" S, 75\u00b0 00' 00\" E` (Moving south-southwest)\n- **Dakshin Gangotri Coastal Polynya & Ice Shelf**: `69\u00b0 59' 23\" S, 11\u00b0 56' 26\" E` (Mooring coordinates)\n\n#### 6. Scientific Exhibits & Isolated Figures\n- \ud83d\uddbc\ufe0f **Fig. 1**: *Meteorological chart showing ship's position and altered cruise line to avoid storm vortex*\n- \ud83d\uddbc\ufe0f **Fig. 2**: *Satellite chart showing ice concentration on 14.12.85 (Received 19.12.85)*\n- \ud83d\uddbc\ufe0f **Fig. 3 & 4**: *Synoptic charts depicting positions of ship, icebreaker 'Horoninia', and frontal systems*\n\n#### 7. Operational Guidelines for Antarctic Marine Navigation\n- **Storm Avoidance Strategy**: When encountering eastward-moving Southern Ocean lows (<970 mb), altering course to the western/rear quadrant allows ships to ride rising barometric pressure rather than getting trapped in the hazardous forward right quadrant.\n- **Polynya Security**: Coastal polynyas provide calm sea conditions for unloading cargo onto the ice shelf, provided ice anchors are continuously inspected.\n"
+  }
+]
