@@ -75,6 +75,8 @@ try:
     datasets_count = db.query(Dataset).count()
     publications_count = db.query(Publication).count()
     media_count = db.query(MediaRecord).count()
+except Exception as e:
+    stations_count = expeditions_count = datasets_count = publications_count = media_count = 0
 finally:
     db.close()
 

@@ -22,5 +22,6 @@ EXPOSE 8501 8000
 # Health check
 HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health || exit 1
 
-# Start Streamlit application
-CMD ["streamlit", "run", "streamlit_app/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Initialize database schema and start Streamlit application
+CMD ["sh", "-c", "python scripts/init_database.py && streamlit run streamlit_app/app.py --server.port=${PORT:-8501} --server.address=0.0.0.0"]
+

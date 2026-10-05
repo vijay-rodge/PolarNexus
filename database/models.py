@@ -16,7 +16,7 @@ class Station(Base):
     longitude = Column(Float, nullable=False)
     commissioned_year = Column(Integer, nullable=False)
     decommissioned_year = Column(Integer, nullable=True)
-    operational_status = Column(String(50), nullable=False, default="Active")
+    operational_status = Column(String(100), nullable=False, default="Active")
     scientific_facilities = Column(JSON, nullable=True)
     overview = Column(Text, nullable=True)
     image_url = Column(String(500), nullable=True)

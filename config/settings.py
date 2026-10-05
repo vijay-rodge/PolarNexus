@@ -26,8 +26,11 @@ class Settings(BaseSettings):
     
     @property
     def DATABASE_URL(self) -> str:
-        if os.getenv("DATABASE_URL"):
-            return os.getenv("DATABASE_URL")
+        url = os.getenv("DATABASE_URL")
+        if url:
+            if url.startswith("postgres://"):
+                url = url.replace("postgres://", "postgresql://", 1)
+            return url
         return f"postgresql+psycopg2://{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
         
     @property

@@ -1,10 +1,16 @@
-import pandas as pd
+import logging
+from pathlib import Path
 from typing import List, Dict, Any, Optional
+import pandas as pd
+from sqlalchemy import or_
 from sqlalchemy.orm import Session
+from config.settings import settings
 from database.connection import SessionLocal
 from database.models import Station, Expedition, Dataset, MediaRecord, Publication
 from rag.vectorstore.chroma_store import PolarVectorStore
 from scientific_engine.analyzer import ScientificDataAnalyzer
+
+logger = logging.getLogger(__name__)
 
 class ControlledPolarTools:
     @staticmethod
@@ -40,6 +46,9 @@ class ControlledPolarTools:
                 }
                 for s in results
             ]
+        except Exception as e:
+            logger.error(f"Error querying stations: {e}", exc_info=True)
+            return []
         finally:
             db.close()
 
@@ -48,17 +57,47 @@ class ControlledPolarTools:
         db: Session = SessionLocal()
         try:
             q = db.query(Expedition)
+            results = []
+
             if query_term:
-                term = f"%{query_term.lower()}%"
-                q = q.filter(
+                term = f"%{query_term.strip().lower()}%"
+                primary_q = q.filter(
                     (Expedition.title.ilike(term)) | 
                     (Expedition.leader_name.ilike(term)) |
                     (Expedition.season_year.ilike(term)) |
                     (Expedition.key_objectives.ilike(term))
                 )
-            if region:
-                q = q.filter(Expedition.region.ilike(f"%{region}%"))
-            results = q.all()
+                if region:
+                    primary_q = primary_q.filter(Expedition.region.ilike(f"%{region}%"))
+                results = primary_q.all()
+
+                # If exact phrase not matched, try specific ordinal/number matching
+                if not results:
+                    import re
+                    ordinals = re.findall(r'\b\d+(?:st|nd|rd|th)?\b', query_term.lower())
+                    if ordinals:
+                        num_conditions = []
+                        for ord_val in ordinals:
+                            num_conditions.append(Expedition.title.ilike(f"%{ord_val}%"))
+                            num_conditions.append(Expedition.key_objectives.ilike(f"%{ord_val}%"))
+                        fallback_q = q.filter(or_(*num_conditions))
+                        if region:
+                            fallback_q = fallback_q.filter(Expedition.region.ilike(f"%{region}%"))
+                        results = fallback_q.all()
+
+                    if not results:
+                        sig_words = [w for w in query_term.lower().split() if len(w) > 3 and w not in ["indian", "scientific", "expedition"]]
+                        if sig_words:
+                            word_conds = [Expedition.title.ilike(f"%{w}%") for w in sig_words]
+                            fallback_q = q.filter(or_(*word_conds))
+                            if region:
+                                fallback_q = fallback_q.filter(Expedition.region.ilike(f"%{region}%"))
+                            results = fallback_q.all()
+            else:
+                if region:
+                    q = q.filter(Expedition.region.ilike(f"%{region}%"))
+                results = q.all()
+
             return [
                 {
                     "expedition_id": e.expedition_id,
@@ -75,6 +114,9 @@ class ControlledPolarTools:
                 }
                 for e in results
             ]
+        except Exception as e:
+            logger.error(f"Error querying expeditions: {e}", exc_info=True)
+            return []
         finally:
             db.close()
 
@@ -112,6 +154,9 @@ class ControlledPolarTools:
                 }
                 for d in results
             ]
+        except Exception as e:
+            logger.error(f"Error querying datasets: {e}", exc_info=True)
+            return []
         finally:
             db.close()
 
@@ -143,10 +188,24 @@ class ControlledPolarTools:
             if not matched_ds:
                 matched_ds = datasets[0]
 
-            if not matched_ds.file_path or not pd.io.common.file_exists(matched_ds.file_path):
+            file_path = matched_ds.file_path
+            target_path = None
+            if file_path:
+                candidate = Path(file_path)
+                if candidate.exists():
+                    target_path = candidate
+                else:
+                    alt1 = settings.BASE_DIR / file_path.replace("\\", "/").lstrip("/")
+                    alt2 = settings.RAW_DATA_DIR / "aws" / candidate.name
+                    if alt1.exists():
+                        target_path = alt1
+                    elif alt2.exists():
+                        target_path = alt2
+
+            if not target_path or not target_path.exists():
                 return {"success": False, "error": f"Dataset file for '{matched_ds.title}' not found on disk."}
 
-            df = pd.read_csv(matched_ds.file_path)
+            df = pd.read_csv(target_path)
             res = ScientificDataAnalyzer.execute_analysis(
                 df=df,
                 parameter=parameter,
@@ -162,6 +221,9 @@ class ControlledPolarTools:
                 res["npdc_access_url"] = matched_ds.npdc_access_url
                 res["citation"] = matched_ds.citation
             return res
+        except Exception as e:
+            logger.error(f"Error analyzing dataset: {e}", exc_info=True)
+            return {"success": False, "error": str(e)}
         finally:
             db.close()
 
@@ -194,5 +256,8 @@ class ControlledPolarTools:
                 }
                 for m in results
             ]
+        except Exception as e:
+            logger.error(f"Error querying media: {e}", exc_info=True)
+            return []
         finally:
             db.close()

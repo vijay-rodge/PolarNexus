@@ -8,6 +8,7 @@ root_dir = Path(__file__).resolve().parent.parent.parent
 if str(root_dir) not in sys.path:
     sys.path.insert(0, str(root_dir))
 
+from config.settings import settings
 from agents.tools.controlled_tools import ControlledPolarTools
 from scientific_engine.schema_detector import SchemaDetector
 from scientific_engine.validator import DataValidator
@@ -45,8 +46,15 @@ for ds in datasets:
         - **Citation**: {ds['citation']}
         - [Official NPDC Portal Page]({ds['npdc_access_url']})
         """)
-        f_path = Path(ds['file_path'])
-        if f_path.exists():
+        f_path = Path(ds['file_path']) if ds.get('file_path') else None
+        if f_path and not f_path.exists():
+            alt1 = settings.BASE_DIR / ds['file_path'].replace("\\", "/").lstrip("/")
+            alt2 = settings.RAW_DATA_DIR / "aws" / f_path.name
+            if alt1.exists():
+                f_path = alt1
+            elif alt2.exists():
+                f_path = alt2
+        if f_path and f_path.exists():
             df = pd.read_csv(f_path)
             schema = SchemaDetector.detect_schema(df)
             val_report = DataValidator.validate_dataset(df)
