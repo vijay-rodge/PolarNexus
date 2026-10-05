@@ -8,6 +8,7 @@ pydantic-settings>=2.2.0
 # Database & ORM
 SQLAlchemy>=2.0.28
 psycopg2-binary>=2.9.9
+psycopg[binary]
 
 # Data Processing & Scientific Computing
 numpy>=1.26.0
